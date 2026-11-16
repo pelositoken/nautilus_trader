@@ -53,6 +53,29 @@ def first_eligible_day(token: str) -> pd.Timestamp:
 ZERO_IS_MISSING = {"user_dau", "tvl", "token_supply_circulating"}
 
 
+SUPPLY_PLACEHOLDER = 214_748_364.0  # 2^31/10 shown as a constant before real data
+
+
+def clean_supply(p: pd.DataFrame) -> pd.DataFrame:
+    """Amendment A2 (mechanical, per token column):
+    1. values within 1% of the 2^31/10 placeholder -> missing;
+    2. one-day blips: a value >5% away from the median of its two neighbours while the
+       neighbours agree within 2% -> missing;
+    3. series breaks: a one-day change > +100% (redenomination/migration, e.g. MATIC->POL)
+       -> all values before the break are dropped, so no emission window spans it."""
+    p = p.where((p - SUPPLY_PLACEHOLDER).abs() > 0.01 * SUPPLY_PLACEHOLDER)
+    prev, nxt = p.shift(1), p.shift(-1)
+    mid = (prev + nxt) / 2.0
+    blip = ((p - mid).abs() > 0.05 * mid) & ((prev - nxt).abs() <= 0.02 * mid)
+    p = p.where(~blip)
+    for col in p.columns:
+        s = p[col].dropna()
+        jumps = s.index[(s / s.shift(1)) > 2.0]
+        if len(jumps):
+            p.loc[p.index < jumps[-1], col] = np.nan
+    return p
+
+
 def load_fundamentals() -> dict[str, pd.DataFrame]:
     """metric -> DataFrame(date x token) on a continuous daily index (no fill)."""
     df = pd.read_csv(TT / "fundamentals_long.csv", parse_dates=["date"])
@@ -62,6 +85,8 @@ def load_fundamentals() -> dict[str, pd.DataFrame]:
         p = g.pivot(index="date", columns="token", values="value").reindex(idx)
         if m in ZERO_IS_MISSING:
             p = p.where(p != 0)
+        if m == "token_supply_circulating":
+            p = clean_supply(p)
         out[m] = p
     return out
 

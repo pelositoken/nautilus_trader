@@ -178,3 +178,14 @@ day). Fees and revenue zeros are kept. TT reports no chain-level TVL, so I3's
 own-TVL gates are undefined (no trade) for chains, per §2's eligibility rule;
 agg_raw sums application TVL. RENDER (no fees or revenue) and ONDO (no fees,
 no revenue) leave the universe under §2.
+
+A2 (2026-11-16, before any full-data BUILD run; data handling, not a rule
+change). Circulating supply is cleaned mechanically per token
+(`edgehunt.data.clean_supply`, unit-tested): (1) values within 1% of the
+2^31/10 placeholder (214,748,364, seen as OP Mainnet's constant in 2022-23)
+are missing; (2) one-day blips — more than 5% from the mean of both
+neighbours while the neighbours agree within 2% — are missing; (3) a one-day
+change above +100% is a series break (redenomination/migration, e.g.
+MATIC->POL on 2024-09-04) and all earlier values are dropped, so no emission
+window spans it. Motivation: the export notes list these artefacts; left in,
+they would read as unlocks to I4 and as valuation jumps to I6.
