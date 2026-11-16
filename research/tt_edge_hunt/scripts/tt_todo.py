@@ -2,8 +2,8 @@
 List Token Terminal export jobs (metric, group, window) that have no saved file
 yet, holdout windows first, and split them into N job files for retry agents.
 
-Usage: python scripts/tt_todo.py N metric [metric ...]
-Writes data/tt_raw/_jobs_{i}.txt (one "metric group window start end" per line).
+Usage: python scripts/tt_todo.py PREFIX N metric [metric ...]
+Writes data/tt_raw/_jobs_{PREFIX}{i}.txt (one "metric group window start end" per line).
 """
 
 from __future__ import annotations
@@ -32,16 +32,16 @@ def have(metric: str, group: str, win: str) -> bool:
 
 
 def main() -> None:
-    n = int(sys.argv[1])
-    metrics = sys.argv[2:]
+    prefix, n = sys.argv[1], int(sys.argv[2])
+    metrics = sys.argv[3:]
     wins = windows()
     jobs = [(m, g, w) for m in metrics for w in wins for g in GROUPS if not have(m, g, w)]
     jobs.sort(key=lambda j: (j[2] not in HOLDOUT, metrics.index(j[0]), j[2], j[1]))
-    for f in RAW.glob("_jobs_*.txt"):
+    for f in RAW.glob(f"_jobs_{prefix}*.txt"):
         f.unlink()
     for i in range(n):
         part = jobs[i::n]
-        (RAW / f"_jobs_{i}.txt").write_text("".join(f"{m} {g} {w} {wins[w][0]} {wins[w][1]}\n" for m, g, w in part))
+        (RAW / f"_jobs_{prefix}{i}.txt").write_text("".join(f"{m} {g} {w} {wins[w][0]} {wins[w][1]}\n" for m, g, w in part))
     print(f"{len(jobs)} jobs -> {n} files")
 
 
