@@ -77,7 +77,7 @@ def main() -> None:
     fam_df, _, _ = sweep(engine, gb, "holdout")
     fam_df.to_csv(RESULTS / "holdout_family.csv", index=False)
     all_df, all_daily, all_trades = sweep(engine, gb, "all")
-    wfa = walk_forward(all_df, all_daily, all_trades, engine, "all", HOLDOUT_START)
+    wfa = walk_forward(all_df, all_daily, all_trades, engine, "all", HOLDOUT_START.tz_localize(None))
     wfa.to_csv(RESULTS / "wfa_holdout.csv", index=False)
 
     rows, daily = [], {}

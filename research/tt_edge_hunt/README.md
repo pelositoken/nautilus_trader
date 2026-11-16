@@ -14,3 +14,8 @@ liquid crypto spot markets.
 - `results/` - frozen result tables
 
 Runs against `nautilus_trader==2.0.0rc9` (pip, `--pre`) plus pandas/pyarrow.
+
+## Status (2026-11-16)
+Complete. Verdict and tables: `docs/report.md`. Data inventory:
+`docs/data_inventory.md`. Pre-registration with amendments:
+`docs/preregistration.md`. No edge survived holdout.

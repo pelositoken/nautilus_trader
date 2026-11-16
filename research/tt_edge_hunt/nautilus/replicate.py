@@ -29,6 +29,10 @@ from nautilus_trader.model import AccountType
 from nautilus_trader.model import Bar
 from nautilus_trader.model import BarType
 from nautilus_trader.model import Currency
+from nautilus_trader.model import CurrencyPair
+from nautilus_trader.model import CurrencyType
+from nautilus_trader.model import InstrumentId
+from nautilus_trader.model import Symbol
 from nautilus_trader.model import Money
 from nautilus_trader.model import OmsType
 from nautilus_trader.model import OrderSide
@@ -106,7 +110,48 @@ class ScheduleStrategy(Strategy):
         self.bars_in_trade = 0
 
 
+def make_instrument(token: str, median_px: float) -> CurrencyPair:
+    """Binance-like spot pair; price precision scaled to the token's price level."""
+    pp = int(min(8, max(2, 4 - np.floor(np.log10(median_px)))))
+    sp = 2 if median_px < 50 else 5
+    try:
+        base = Currency.from_str(token)
+    except Exception:  # not in the built-in registry
+        base = Currency(token, 8, 0, token, CurrencyType.CRYPTO)
+    usdt = Currency.from_str("USDT")
+    return CurrencyPair(
+        instrument_id=InstrumentId(Symbol(f"{token}USDT"), Venue("BINANCE")), raw_symbol=Symbol(f"{token}USDT"),
+        base_currency=base, quote_currency=usdt, price_precision=pp, size_precision=sp,
+        price_increment=Price(10.0**-pp, precision=pp), size_increment=Quantity(10.0**-sp, precision=sp),
+        ts_event=0, ts_init=0, max_quantity=Quantity(1e9, precision=sp), min_quantity=Quantity(10.0**-sp, precision=sp),
+        min_notional=Money(1.00, usdt), max_price=Price(1e7, precision=pp), min_price=Price(10.0**-pp, precision=pp),
+        margin_init=Decimal("1.00"), margin_maint=Decimal("0.35"),
+    )
+
+
 def main(vid: str, period: str, token: str) -> None:
+    if token == "ALL":
+        e = vid.split("-")[-1]
+        frames = []
+        for t in TOKENS:
+            try:
+                frames.append(run_one(vid, period, t))
+            except NoTrades:
+                continue
+        allr = pd.concat(frames)
+        out = pd.DataFrame([{"engine": k, **trade_stats(g["r"].to_numpy())} for k, g in allr.groupby("engine")])
+        print(out.round(4).to_string(index=False))
+        out.to_csv(ROOT / "results" / f"nautilus_xcheck_{vid}_{period}_ALL.csv", index=False)
+        return
+    out = run_one(vid, period, token)
+    print(pd.DataFrame([{"engine": k, **trade_stats(g["r"].to_numpy())} for k, g in out.groupby("engine")]).round(4).to_string(index=False))
+
+
+class NoTrades(Exception):
+    pass
+
+
+def run_one(vid: str, period: str, token: str) -> pd.DataFrame:
     engine_r = Engine([vid.split("-")[-1]])
     gb = GateBuilder(load_fundamentals(), lag=1)
     if vid.startswith("B-"):
@@ -121,6 +166,8 @@ def main(vid: str, period: str, token: str) -> None:
     c = engine_r.c[e]
     tok_id = TOKENS.index(token)
     idx = idx[c["tok"][idx] == tok_id]
+    if len(idx) == 0:
+        raise NoTrades(token)
     es = EXEC_SETS[e]
     df5 = load_5m(token)
     o, h, l = (df5[k].to_numpy() for k in ("open", "high", "low"))
@@ -131,15 +178,13 @@ def main(vid: str, period: str, token: str) -> None:
     sd = stop_distances(token, es, c["ei"][idx])
     schedule = {int(ts5[ei]): (int(dv), float(s)) for ei, dv, s in zip(c["ei"][idx], c["dir"][idx], sd)}
 
-    inst = TestInstrumentProvider.ethusdt_binance() if token == "ETH" else None
-    if inst is None:
-        raise SystemExit("cross-check implemented for the ETHUSDT instrument spec only")
+    inst = make_instrument(token, float(df5["close"].median()))
     bar_type = BarType.from_str(f"{inst.id}-5-MINUTE-LAST-EXTERNAL")
     lo_t, hi_t = c["entry_ts"][idx].min(), c["exit_ts"][idx].max() if hasattr(c, "exit_ts") else None
     win = df5.loc[pd.Timestamp(lo_t) - pd.Timedelta("1D"): pd.Timestamp(c["entry_ts"][idx].max()) + pd.Timedelta("1D")]
     bars = [
         Bar(bar_type, inst.make_price(r.open), inst.make_price(r.high), inst.make_price(r.low),
-            inst.make_price(r.close), inst.make_qty(max(r.volume, 0.00001)),
+            inst.make_price(r.close), inst.make_qty(max(r.volume, 1.0)),
             int(t.value) + five, int(t.value) + five)
         for t, r in zip(win.index, win.itertuples())
     ]
@@ -168,10 +213,9 @@ def main(vid: str, period: str, token: str) -> None:
     r_naut = pnl / risk
     r_naut = r_naut[np.isfinite(r_naut)]
     r_vec = c["r"][idx]
-    out = pd.DataFrame([{"engine": "vectorised", **trade_stats(r_vec)}, {"engine": "nautilus", **trade_stats(r_naut)}])
-    print(out.round(4).to_string(index=False))
-    out.to_csv(ROOT / "results" / f"nautilus_xcheck_{vid}_{period}_{token}.csv", index=False)
     bt.dispose()
+    return pd.concat([pd.DataFrame({"engine": "vectorised", "token": token, "r": r_vec}),
+                      pd.DataFrame({"engine": "nautilus", "token": token, "r": r_naut})])
 
 
 if __name__ == "__main__":
