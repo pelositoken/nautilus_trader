@@ -86,7 +86,8 @@ def parse_file(path: Path):
         cells = [c.strip() for c in line.strip("|").split("|")]
         if all(set(c) <= set(":- ") for c in cells):
             continue
-        if header is None:
+        if header is None or cells[0].lower() in {"date", "project"}:
+            # a header row (re)starts a table; stray or repeated headers are superseded
             header = cells
             continue
         if len(cells) != len(header):

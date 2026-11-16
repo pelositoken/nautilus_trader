@@ -5,22 +5,36 @@ WARN fees__G3__Q04.md: missing columns ['ONDO']
 WARN fees__G3__Q05.md: missing columns ['ONDO']
 WARN fees__G3__Q06.md: missing columns ['ONDO']
 WARN fees__G3__Q07.md: missing columns ['ONDO']
+WARN fees__G3__Q08.md: missing columns ['ONDO']
+WARN fees__G3__Q09.md: missing columns ['ONDO']
+WARN fees__G3__Q13a.md: missing columns ['ONDO']
 WARN fees__G4__Q02.md: missing columns ['JUP', 'RENDER', 'TIA']
 WARN fees__G4__Q03.md: missing columns ['JUP', 'RENDER', 'TIA']
 WARN fees__G4__Q04.md: missing columns ['RENDER', 'TIA']
 WARN fees__G4__Q05.md: missing columns ['RENDER', 'TIA']
 WARN fees__G4__Q06.md: missing columns ['RENDER']
 WARN fees__G4__Q07.md: missing columns ['RENDER']
+WARN fees__G4__Q08.md: missing columns ['RENDER']
+WARN fees__G4__Q09.md: missing columns ['RENDER']
+WARN fees__G4__Q10.md: missing columns ['RENDER']
+WARN fees__G4__Q11.md: missing columns ['RENDER']
+WARN fees__G4__Q12.md: missing columns ['RENDER']
+WARN fees__G4__Q13.md: missing columns ['RENDER']
 WARN fees__G5__Q03.md: missing columns ['ETHFI']
 WARN fees__G6__Q03.md: missing columns ['SEI']
 WARN fees__G6__Q05.md: missing columns ['SEI']
+WARN fees__G6__Q08.md: missing columns ['SEI']
+WARN fees__G6__Q09.md: missing columns ['SEI']
+WARN revenue__G1__Q01.md: missing columns ['UNI']
+WARN revenue__G2__Q03.md: missing columns ['ENA', 'LINK', 'SUI']
+WARN revenue__G3__Q02.md: missing columns ['ONDO']
+WARN revenue__G4__Q01.md: missing columns ['APT', 'JUP', 'RENDER', 'TIA']
+WARN revenue__G4__Q07.md: missing columns ['JUP', 'RENDER']
+WARN revenue__G5__Q04.md: missing columns ['ETHFI']
+WARN revenue__G6__Q03.md: missing columns ['JTO', 'SEI']
 MISSING fees G1 Q01
-MISSING fees G1 Q06
-MISSING fees G1 Q07
 MISSING fees G1 Q08
-MISSING fees G1 Q09
 MISSING fees G1 Q10
-MISSING fees G1 Q11
 MISSING fees G1 Q12
 MISSING fees G1 Q13
 MISSING fees G1 Q14
@@ -29,67 +43,45 @@ MISSING fees G1 Q16
 MISSING fees G1 Q17
 MISSING fees G1 Q18
 MISSING fees G2 Q01
-MISSING fees G2 Q09
-MISSING fees G2 Q10
 MISSING fees G2 Q11
 MISSING fees G2 Q12
 MISSING fees G2 Q13
-MISSING fees G2 Q14
 MISSING fees G2 Q15
-MISSING fees G2 Q16
 MISSING fees G2 Q17
 MISSING fees G2 Q18
 MISSING fees G3 Q01
-MISSING fees G3 Q08
-MISSING fees G3 Q09
 MISSING fees G3 Q10
 MISSING fees G3 Q11
 MISSING fees G3 Q12
-MISSING fees G3 Q13
+GAP fees G3 Q13: 47 days missing
 MISSING fees G3 Q14
 MISSING fees G3 Q15
 MISSING fees G3 Q16
 MISSING fees G3 Q17
 MISSING fees G3 Q18
 MISSING fees G4 Q01
-MISSING fees G4 Q08
-MISSING fees G4 Q09
-MISSING fees G4 Q10
-MISSING fees G4 Q11
-MISSING fees G4 Q12
-MISSING fees G4 Q13
 MISSING fees G4 Q14
 MISSING fees G4 Q15
 MISSING fees G4 Q16
 MISSING fees G4 Q17
 MISSING fees G4 Q18
 MISSING fees G5 Q01
-MISSING fees G5 Q08
-MISSING fees G5 Q09
 MISSING fees G5 Q10
-MISSING fees G5 Q11
 MISSING fees G5 Q12
-MISSING fees G5 Q13
 MISSING fees G5 Q14
 MISSING fees G5 Q15
 MISSING fees G5 Q16
 MISSING fees G5 Q17
 MISSING fees G5 Q18
 MISSING fees G6 Q01
-MISSING fees G6 Q08
-MISSING fees G6 Q09
-MISSING fees G6 Q10
 MISSING fees G6 Q11
 MISSING fees G6 Q12
 MISSING fees G6 Q13
-MISSING fees G6 Q14
 MISSING fees G6 Q15
 MISSING fees G6 Q16
 MISSING fees G6 Q17
 MISSING fees G6 Q18
-MISSING revenue G1 Q01
 MISSING revenue G1 Q02
-MISSING revenue G1 Q03
 MISSING revenue G1 Q04
 MISSING revenue G1 Q05
 MISSING revenue G1 Q06
@@ -107,8 +99,6 @@ MISSING revenue G1 Q17
 MISSING revenue G1 Q18
 MISSING revenue G2 Q01
 MISSING revenue G2 Q02
-MISSING revenue G2 Q03
-MISSING revenue G2 Q04
 MISSING revenue G2 Q05
 MISSING revenue G2 Q06
 MISSING revenue G2 Q07
@@ -124,7 +114,6 @@ MISSING revenue G2 Q16
 MISSING revenue G2 Q17
 MISSING revenue G2 Q18
 MISSING revenue G3 Q01
-MISSING revenue G3 Q02
 MISSING revenue G3 Q03
 MISSING revenue G3 Q04
 MISSING revenue G3 Q05
@@ -141,13 +130,11 @@ MISSING revenue G3 Q15
 MISSING revenue G3 Q16
 MISSING revenue G3 Q17
 MISSING revenue G3 Q18
-MISSING revenue G4 Q01
 MISSING revenue G4 Q02
 MISSING revenue G4 Q03
 MISSING revenue G4 Q04
 MISSING revenue G4 Q05
 MISSING revenue G4 Q06
-MISSING revenue G4 Q07
 MISSING revenue G4 Q08
 MISSING revenue G4 Q09
 MISSING revenue G4 Q10
@@ -162,7 +149,6 @@ MISSING revenue G4 Q18
 MISSING revenue G5 Q01
 MISSING revenue G5 Q02
 MISSING revenue G5 Q03
-MISSING revenue G5 Q04
 MISSING revenue G5 Q05
 MISSING revenue G5 Q06
 MISSING revenue G5 Q07
@@ -179,8 +165,6 @@ MISSING revenue G5 Q17
 MISSING revenue G5 Q18
 MISSING revenue G6 Q01
 MISSING revenue G6 Q02
-MISSING revenue G6 Q03
-MISSING revenue G6 Q04
 MISSING revenue G6 Q05
 MISSING revenue G6 Q06
 MISSING revenue G6 Q07
