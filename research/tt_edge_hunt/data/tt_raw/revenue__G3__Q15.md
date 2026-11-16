@@ -1,0 +1,99 @@
+| Date | Aave | Injective | Filecoin | Arbitrum One |
+|:---|---:|---:|---:|---:|
+| December 1, 2025 | $290K | $0.3749 | $3.95K | $95.0K |
+| December 2, 2025 | $332K | $0.3227 | $3.29K | $69.6K |
+| December 3, 2025 | $304K | $0.1839 | $8.06K | $78.1K |
+| December 4, 2025 | $263K | $0.17 | $3.29K | $115K |
+| December 5, 2025 | $263K | $0.191 | $3.40K | $86.9K |
+| December 6, 2025 | $246K | $0.0975 | $4.48K | $26.3K |
+| December 7, 2025 | $384K | $0.1591 | $4.50K | $58.3K |
+| December 8, 2025 | $260K | $0.1765 | $9.03K | $50.1K |
+| December 9, 2025 | $414K | $0.3065 | $4.42K | $65.5K |
+| December 10, 2025 | $275K | $0.4745 | $12.6K | $93.6K |
+| December 11, 2025 | $276K | $0.4899 | $3.80K | $46.3K |
+| December 12, 2025 | $272K | $0.4676 | $35.2K | $50.5K |
+| December 13, 2025 | $264K | $0.1396 | $17.3K | $19.7K |
+| December 14, 2025 | $357K | $0.1645 | $3.51K | $27.0K |
+| December 15, 2025 | $271K | $0.3947 | $3.32K | $76.5K |
+| December 16, 2025 | $319K | $0.1869 | $3.14K | $45.9K |
+| December 17, 2025 | $403K | $0.5252 | $6.71K | $76.7K |
+| December 18, 2025 | $249K | $0.4292 | $3.13K | $67.0K |
+| December 19, 2025 | $246K | $0.6668 | $2.44K | $49.1K |
+| December 20, 2025 | $304K | $0.203 | $2.53K | $14.9K |
+| December 21, 2025 | $369K | $0.3035 | $2.45K | $20.7K |
+| December 22, 2025 | $253K | $0.5397 | $2.75K | $45.1K |
+| December 23, 2025 | $262K | $0.3828 | $3.32K | $47.9K |
+| December 24, 2025 | $243K | $198K | $3.53K | $108K |
+| December 25, 2025 | $242K | $1.06 | $3.33K | $238K |
+| December 26, 2025 | $243K | $2.03 | $3.29K | $33.1K |
+| December 27, 2025 | $238K | $2.06 | $2.54K | $14.0K |
+| December 28, 2025 | $368K | $1.95 | $2.80K | $13.3K |
+| December 29, 2025 | $244K | $1.99 | $2.83K | $30.8K |
+| December 30, 2025 | $251K | $1.89 | $3.25K | $26.6K |
+| December 31, 2025 | $358K | $1.80 | $2.59K | $20.3K |
+| January 1, 2026 | $253K | $1.95 | $5.65K | $13.5K |
+| January 2, 2026 | $256K | $2.30 | $4.02K | $29.9K |
+| January 3, 2026 | $255K | $2.08 | $4.08K | $14.1K |
+| January 4, 2026 | $385K | $2.33 | $4.13K | $16.5K |
+| January 5, 2026 | $357K | $2.50 | $4.28K | $29.0K |
+| January 6, 2026 | $262K | $2.80 | $4.39K | $35.3K |
+| January 7, 2026 | $267K | $2.41 | $7.79K | $28.8K |
+| January 8, 2026 | $265K | $2.50 | $6.78K | $32.2K |
+| January 9, 2026 | $260K | $2.54 | $3.24K | $35.6K |
+| January 10, 2026 | $255K | $2.28 | $3.56K | $19.1K |
+| January 11, 2026 | $391K | $2.32 | $3.59K | $21.4K |
+| January 12, 2026 | $276K | $2.41 | $35.2K | $33.8K |
+| January 13, 2026 | $282K | $2.59 | $32.0K | $37.5K |
+| January 14, 2026 | $267K | $2.49 | $30.7K | $39.1K |
+| January 15, 2026 | $272K | $2.53 | $46.5K | $39.9K |
+| January 16, 2026 | $266K | $2.32 | $12.3K | $30.2K |
+| January 17, 2026 | $264K | $2.31 | $27.5K | $22.0K |
+| January 18, 2026 | $390K | $2.27 | $9.16K | $24.2K |
+| January 19, 2026 | $379K | $2.43 | $4.16K | $37.0K |
+| January 20, 2026 | $391K | $2.11 | $4.71K | $42.3K |
+| January 21, 2026 | $281K | $200K | $33.7K | $56.6K |
+| January 22, 2026 | $280K | $1.96 | $4.21K | $33.1K |
+| January 23, 2026 | $274K | $2.01 | $3.24K | $35.8K |
+| January 24, 2026 | $275K | $1.80 | $2.67K | $33.8K |
+| January 25, 2026 | $285K | $1.94 | $2.47K | $32.9K |
+| January 26, 2026 | $275K | $2.09 | $2.52K | $40.9K |
+| January 27, 2026 | $373K | $1.99 | $2.72K | $38.6K |
+| January 28, 2026 | $364K | $2.15 | $3.09K | $35.8K |
+| January 29, 2026 | $341K | $2.12 | $2.42K | $48.8K |
+| January 30, 2026 | $333K | $1.93 | $24.5K | $65.2K |
+| January 31, 2026 | $1.07M | $1.89 | $4.76K | $108K |
+| February 1, 2026 | $638K | $1.90 | $19.6K | $41.9K |
+| February 2, 2026 | $490K | $2.39 | $2.39K | $59.8K |
+| February 3, 2026 | $2.06M | $1.78 | $2.40K | $62.3K |
+| February 4, 2026 | $290K | $1.95 | $2.55K | $60.5K |
+| February 5, 2026 | $1.09M | $1.73 | $2.10K | $112K |
+| February 6, 2026 | $934K | $1.69 | $2.12K | $103K |
+| February 7, 2026 | $270K | $1.51 | $7.16K | $54.7K |
+| February 8, 2026 | $360K | $1.41 | $8.62K | $28.2K |
+| February 9, 2026 | $220K | $1.42 | $19.4K | $36.4K |
+| February 10, 2026 | $3.15M | $1.30 | $13.1K | $30.6K |
+| February 11, 2026 | $208K | $1.41 | $7.28K | $38.1K |
+| February 12, 2026 | $200K | $1.37 | $7.87K | $32.4K |
+| February 13, 2026 | $203K | $1.34 | $7.15K | $22.4K |
+| February 14, 2026 | $230K | $1.42 | $4.66K | $20.2K |
+| February 15, 2026 | $285K | $1.41 | $4.47K | $24.4K |
+| February 16, 2026 | $223K | $1.39 | $2.02K | $20.7K |
+| February 17, 2026 | $230K | $1.45 | $1.95K | $21.4K |
+| February 18, 2026 | $198K | $164K | $1.85K | $25.0K |
+| February 19, 2026 | $195K | $1.96 | $2.23K | $16.3K |
+| February 20, 2026 | $188K | $3.36 | $2.71K | $17.0K |
+| February 21, 2026 | $187K | $2.23 | $2.78K | $13.3K |
+| February 22, 2026 | $376K | $1.55 | $2.65K | $14.2K |
+| February 23, 2026 | $190K | $1.51 | $2.79K | $18.2K |
+| February 24, 2026 | $203K | $1.48 | $2.69K | $17.9K |
+| February 25, 2026 | $226K | $1.55 | $2.97K | $23.8K |
+| February 26, 2026 | $188K | $1.37 | $3.20K | $24.1K |
+| February 27, 2026 | $187K | $1.36 | $3.08K | $22.5K |
+| February 28, 2026 | $190K | $1.47 | $4.00K | $25.5K |
+
+Same in every row: Ondo Finance —.
+
+### How this was built
+- Daily revenue for Aave, Injective, Filecoin, Ondo Finance and Arbitrum One, one row per calendar day from December 1, 2025 to February 28, 2026, each project a column.
+- Revenue is the value each project retained after supply-side payouts, read from its own project row; values are in USD.
+- The window returned 90 calendar days per project. Ondo Finance has no revenue observations in this window, so its column is empty on every day.
