@@ -1,0 +1,101 @@
+| Date | Ether.fi | OP Mainnet | PancakeSwap | Polygon | Raydium |
+|:---|---:|---:|---:|---:|---:|
+| March 1, 2025 | 232M | 1.62B | 290M | 8.59B | 264M |
+| March 2, 2025 | 232M | 1.62B | 290M | 8.59B | 264M |
+| March 3, 2025 | 232M | 1.62B | 289M | 8.59B | 264M |
+| March 4, 2025 | 232M | 1.62B | 289M | 8.59B | 264M |
+| March 5, 2025 | 232M | 1.62B | 289M | 8.59B | 264M |
+| March 6, 2025 | 232M | 1.62B | 289M | 8.59B | 264M |
+| March 7, 2025 | 232M | 1.62B | 289M | 8.59B | 264M |
+| March 8, 2025 | 232M | 1.62B | 289M | 8.59B | 264M |
+| March 9, 2025 | 232M | 1.62B | 289M | 8.59B | 264M |
+| March 10, 2025 | 232M | 1.62B | 289M | 8.59B | 264M |
+| March 11, 2025 | 232M | 1.62B | 289M | 8.59B | 264M |
+| March 12, 2025 | 232M | 1.62B | 289M | 8.59B | 264M |
+| March 13, 2025 | 232M | 1.62B | 289M | 8.59B | 264M |
+| March 14, 2025 | 232M | 1.62B | 295M | 8.59B | 264M |
+| March 15, 2025 | 232M | 1.62B | 295M | 8.62B | 264M |
+| March 16, 2025 | 232M | 1.62B | 295M | 8.62B | 264M |
+| March 17, 2025 | 232M | 1.62B | 293M | 8.62B | 264M |
+| March 18, 2025 | 229M | 1.62B | 293M | 8.62B | 264M |
+| March 19, 2025 | 229M | 1.62B | 292M | 8.63B | 264M |
+| March 20, 2025 | 229M | 1.62B | 293M | 8.63B | 264M |
+| March 21, 2025 | 229M | 1.62B | 302M | 8.63B | 264M |
+| March 22, 2025 | 229M | 1.62B | 302M | 8.63B | 264M |
+| March 23, 2025 | 229M | 1.62B | 302M | 8.63B | 264M |
+| March 24, 2025 | 229M | 1.62B | 293M | 8.63B | 264M |
+| March 25, 2025 | 229M | 1.62B | 293M | 8.64B | 264M |
+| March 26, 2025 | 229M | 1.62B | 293M | 8.64B | 264M |
+| March 27, 2025 | 229M | 1.62B | 293M | 8.64B | 264M |
+| March 28, 2025 | 229M | 1.62B | 302M | 8.62B | 264M |
+| March 29, 2025 | 229M | 1.62B | 302M | 8.62B | 264M |
+| March 30, 2025 | 229M | 1.62B | 302M | 8.62B | 264M |
+| March 31, 2025 | 229M | 1.62B | 296M | 8.62B | 264M |
+| April 1, 2025 | 229M | 1.62B | 295M | 8.65B | 264M |
+| April 2, 2025 | 229M | 1.62B | 295M | 8.65B | 264M |
+| April 3, 2025 | 229M | 1.62B | 296M | 8.64B | 264M |
+| April 4, 2025 | 229M | 1.66B | 296M | 8.64B | 264M |
+| April 5, 2025 | 229M | 1.66B | 296M | 8.65B | 264M |
+| April 6, 2025 | 229M | 1.66B | 296M | 8.65B | 264M |
+| April 7, 2025 | 229M | 1.66B | 291M | 8.65B | 264M |
+| April 8, 2025 | 229M | 1.66B | 291M | 8.65B | 264M |
+| April 9, 2025 | 229M | 1.66B | 291M | 8.65B | 264M |
+| April 10, 2025 | 229M | 1.66B | 291M | 8.65B | 264M |
+| April 11, 2025 | 229M | 1.66B | 296M | 8.65B | 264M |
+| April 12, 2025 | 229M | 1.66B | 296M | 8.65B | 264M |
+| April 13, 2025 | 229M | 1.66B | 296M | 8.65B | 264M |
+| April 14, 2025 | 229M | 1.66B | 290M | 8.65B | 264M |
+| April 15, 2025 | 229M | 1.66B | 290M | 8.66B | 264M |
+| April 16, 2025 | 229M | 1.66B | 290M | 8.67B | 264M |
+| April 17, 2025 | 229M | 1.66B | 290M | 8.67B | 264M |
+| April 18, 2025 | 229M | 1.66B | 290M | 8.67B | 264M |
+| April 19, 2025 | 229M | 1.66B | 290M | 8.67B | 264M |
+| April 20, 2025 | 230M | 1.66B | 290M | 8.67B | 264M |
+| April 21, 2025 | 230M | 1.66B | 295M | 8.67B | 264M |
+| April 22, 2025 | 230M | 1.66B | 295M | 8.67B | 264M |
+| April 23, 2025 | 230M | 1.66B | 312M | 8.68B | 264M |
+| April 24, 2025 | 232M | 1.66B | 313M | 8.68B | 264M |
+| April 25, 2025 | 233M | 1.66B | 321M | 8.68B | 264M |
+| April 26, 2025 | 233M | 1.66B | 322M | 8.69B | 265M |
+| April 27, 2025 | 234M | 1.66B | 322M | 8.69B | 265M |
+| April 28, 2025 | 234M | 1.66B | 316M | 8.69B | 265M |
+| April 29, 2025 | 234M | 1.66B | 317M | 8.69B | 265M |
+| April 30, 2025 | 234M | 1.66B | 317M | 8.69B | 265M |
+| May 1, 2025 | 236M | 1.66B | 318M | 8.77B | 265M |
+| May 2, 2025 | 236M | 1.66B | 318M | 8.77B | 265M |
+| May 3, 2025 | 236M | 1.66B | 318M | 8.77B | 265M |
+| May 4, 2025 | 236M | 1.66B | 318M | 8.77B | 265M |
+| May 5, 2025 | 236M | 1.66B | 317M | 8.78B | 265M |
+| May 6, 2025 | 236M | 1.66B | 319M | 8.78B | 265M |
+| May 7, 2025 | 236M | 1.66B | 320M | 8.78B | 265M |
+| May 8, 2025 | 236M | 1.66B | 322M | 8.79B | 265M |
+| May 9, 2025 | 240M | 1.66B | 322M | 8.79B | 265M |
+| May 10, 2025 | 240M | 1.66B | 333M | 8.79B | 265M |
+| May 11, 2025 | 240M | 1.66B | 333M | 8.79B | 265M |
+| May 12, 2025 | 277M | 1.66B | 320M | 8.80B | 265M |
+| May 13, 2025 | 277M | 1.66B | 321M | 8.79B | 265M |
+| May 14, 2025 | 277M | 1.66B | 321M | 8.81B | 265M |
+| May 15, 2025 | 278M | 1.66B | 321M | 8.82B | 265M |
+| May 16, 2025 | 278M | 1.66B | 332M | 8.82B | 265M |
+| May 17, 2025 | 323M | 1.66B | 332M | 8.82B | 265M |
+| May 18, 2025 | 323M | 1.66B | 332M | 8.82B | 265M |
+| May 19, 2025 | 323M | 1.66B | 321M | 8.82B | 265M |
+| May 20, 2025 | 323M | 1.66B | 321M | 8.82B | 265M |
+| May 21, 2025 | 323M | 1.66B | 321M | 8.90B | 265M |
+| May 22, 2025 | 323M | 1.71B | 322M | 8.91B | 265M |
+| May 23, 2025 | 323M | 1.71B | 322M | 8.91B | 265M |
+| May 24, 2025 | 323M | 1.71B | 322M | 8.92B | 265M |
+| May 25, 2025 | 323M | 1.71B | 322M | 8.92B | 265M |
+| May 26, 2025 | 323M | 1.71B | 322M | 8.92B | 265M |
+| May 27, 2025 | 323M | 1.71B | 322M | 8.92B | 265M |
+| May 28, 2025 | 328M | 1.71B | 322M | 8.92B | 265M |
+| May 29, 2025 | 328M | 1.71B | 322M | 8.92B | 266M |
+| May 30, 2025 | 328M | 1.71B | 322M | 8.92B | 266M |
+| May 31, 2025 | 328M | 1.71B | 322M | 8.92B | 266M |
+
+### How this was built
+- Cohort: the five named projects, each resolved to its canonical project entry — Polygon, PancakeSwap, OP Mainnet, Raydium and Ether.fi — all public and unarchived.
+- Window: 2025-03-01 to 2025-05-31, one row per calendar day (92 days), no bucketing and no aggregation across days.
+- Metric: circulating supply (token count, unitless), a point-in-time balance, read as each day's reported value.
+- The query lays out one row per project per calendar day; a day with no observed value for a project renders as "-".
+- Values shown are token counts, not USD.
