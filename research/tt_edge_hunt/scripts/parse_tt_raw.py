@@ -153,6 +153,37 @@ def process_table(path, metric, group, win, header, rows, records, covered, repo
     return seen
 
 
+SAME_RE = re.compile(r"Same in every row:\s*(.+)", re.IGNORECASE)
+
+
+def same_in_every_row(text: str) -> list[tuple[str, float | None]]:
+    out = []
+    for m in SAME_RE.finditer(text):
+        body = m.group(1).strip().strip("*_ ").rstrip(".")
+        for part in body.split(";"):
+            part = part.strip().strip("*_ ").rstrip(".")
+            if not part:
+                continue
+            name, _, val = part.rpartition(" ")
+            if not name:
+                continue
+            out.append((name.strip(), parse_value(val)))
+    return out
+
+
+def file_dates(tables) -> set:
+    ds = set()
+    for header, rows in tables:
+        lower = ["date" if h.lower() == "day" else h.lower() for h in header]
+        i = lower.index("date")
+        for r in rows:
+            try:
+                ds.add(parse_date(r[i]))
+            except ValueError:
+                pass
+    return ds
+
+
 def main() -> None:
     OUT.mkdir(parents=True, exist_ok=True)
     wins = windows()
@@ -173,6 +204,18 @@ def main() -> None:
         seen_tokens: set[str] = set()
         for header, rows in tables:
             seen_tokens |= process_table(path, metric, group, win, header, rows, records, covered, report)
+        # "Same in every row: Ondo Finance 4.87B; Polygon —." -> constant over the file's dates
+        dates = covered.get((metric, group, win), set())
+        for item in same_in_every_row(path.read_text()):
+            name, val = item
+            tok = PROJECT_TO_TOKEN.get(name.lower())
+            if tok is None:
+                report.append(f"WARN {path.name}: unknown project in note {name!r}")
+                continue
+            seen_tokens.add(tok)
+            if val is not None:
+                for d in file_dates(tables):
+                    records[(d, tok, metric)].add(val)
         missing_cols = set(GROUPS[group]) - seen_tokens
         if missing_cols:
             report.append(f"WARN {path.name}: missing columns {sorted(missing_cols)}")

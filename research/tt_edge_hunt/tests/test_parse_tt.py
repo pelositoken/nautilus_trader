@@ -23,3 +23,9 @@ def test_multi_table_keeps_each_header(tmp_path):
     tables = parse_file(f)
     assert [t[0][1] for t in tables] == ["Jupiter", "Ethena"]
     assert tables[0][1][0][1] == "$3.17B" and tables[1][1][0][1] == "$5.43B"
+
+
+def test_same_in_every_row():
+    from parse_tt_raw import same_in_every_row
+    got = same_in_every_row("Same in every row: Ether.fi —; OP Mainnet 215M; Polygon —.\n")
+    assert got == [("Ether.fi", None), ("OP Mainnet", 215e6), ("Polygon", None)]
