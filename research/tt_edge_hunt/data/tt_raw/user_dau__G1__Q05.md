@@ -1,0 +1,102 @@
+The daily active users (daily) for the five projects, one value per calendar day from June 1 to August 31, 2023:
+
+| Date | BNB Chain | Ethereum | NEAR Protocol | Solana | Uniswap |
+|:---|---:|---:|---:|---:|---:|
+| June 1, 2023 | 1.44M | 322K | 57.5K | 117K | 125K |
+| June 2, 2023 | 1.31M | 391K | 46.6K | 115K | 121K |
+| June 3, 2023 | 1.27M | 352K | 50.1K | 105K | 119K |
+| June 4, 2023 | 1.14M | 324K | 40.6K | 108K | 122K |
+| June 5, 2023 | 1.48M | 409K | 45.9K | 110K | 126K |
+| June 6, 2023 | 1.43M | 363K | 50.4K | 104K | 118K |
+| June 7, 2023 | 1.31M | 365K | 62.4K | 110K | 114K |
+| June 8, 2023 | 1.21M | 320K | 61.2K | 143K | 117K |
+| June 9, 2023 | 1.23M | 339K | 150K | 125K | 116K |
+| June 10, 2023 | 1.18M | 431K | 95.6K | 111K | 117K |
+| June 11, 2023 | 1.14M | 476K | 76.9K | 101K | 105K |
+| June 12, 2023 | 1.24M | 337K | 117K | 121K | 113K |
+| June 13, 2023 | 1.25M | 328K | 92.0K | 104K | 110K |
+| June 14, 2023 | 1.34M | 365K | 49.5K | 108K | 110K |
+| June 15, 2023 | 1.35M | 416K | 36.6K | 113K | 113K |
+| June 16, 2023 | 1.31M | 407K | 37.8K | 113K | 120K |
+| June 17, 2023 | 1.21M | 366K | 43.0K | 102K | 108K |
+| June 18, 2023 | 1.15M | 360K | 39.8K | 93.2K | 100K |
+| June 19, 2023 | 1.25M | 372K | 44.4K | 104K | 110K |
+| June 20, 2023 | 1.30M | 326K | 37.8K | 106K | 115K |
+| June 21, 2023 | 1.33M | 367K | 45.1K | 109K | 123K |
+| June 22, 2023 | 1.24M | 342K | 47.5K | 105K | 117K |
+| June 23, 2023 | 1.36M | 369K | 115K | 104K | 114K |
+| June 24, 2023 | 1.28M | 313K | 53.9K | 94.5K | 99.3K |
+| June 25, 2023 | 1.22M | 295K | 42.2K | 99.2K | 103K |
+| June 26, 2023 | 1.19M | 326K | 39.2K | 122K | 117K |
+| June 27, 2023 | 1.27M | 333K | 36.7K | 126K | 131K |
+| June 28, 2023 | 1.21M | 348K | 36.4K | 132K | 119K |
+| June 29, 2023 | 1.52M | 308K | 50.1K | 112K | 136K |
+| June 30, 2023 | 1.52M | 376K | 55.8K | 113K | 136K |
+| July 1, 2023 | 1.24M | 324K | 61.1K | 107K | 126K |
+| July 2, 2023 | 1.18M | 285K | 53.1K | 103K | 120K |
+| July 3, 2023 | 1.26M | 328K | 51.0K | 109K | 143K |
+| July 4, 2023 | 1.28M | 293K | 47.0K | 104K | 121K |
+| July 5, 2023 | 1.28M | 228K | 44.9K | 97.5K | 104K |
+| July 6, 2023 | 1.26M | 258K | 43.9K | 114K | 122K |
+| July 7, 2023 | 1.30M | 288K | 51.6K | 110K | 122K |
+| July 8, 2023 | 1.26M | 293K | 56.1K | 97.0K | 119K |
+| July 9, 2023 | 1.23M | 286K | 55.9K | 92.5K | 114K |
+| July 10, 2023 | 1.29M | 349K | 144K | 102K | 126K |
+| July 11, 2023 | 1.40M | 361K | 80.6K | 106K | 123K |
+| July 12, 2023 | 1.44M | 315K | 98.6K | 104K | 124K |
+| July 13, 2023 | 1.44M | 335K | 68.1K | 120K | 131K |
+| July 14, 2023 | 1.44M | 376K | 72.4K | 129K | 135K |
+| July 15, 2023 | 1.38M | 308K | 52.2K | 104K | 128K |
+| July 16, 2023 | 1.22M | 278K | 55.6K | 101K | 121K |
+| July 17, 2023 | 1.32M | 289K | 67.4K | 112K | 126K |
+| July 18, 2023 | 1.39M | 376K | 75.1K | 107K | 133K |
+| July 19, 2023 | 1.33M | 343K | 56.7K | 112K | 128K |
+| July 20, 2023 | 1.33M | 303K | 56.7K | 136K | 126K |
+| July 21, 2023 | 1.30M | 329K | 53.3K | 125K | 122K |
+| July 22, 2023 | 1.32M | 302K | 95.0K | 105K | 124K |
+| July 23, 2023 | 1.22M | 296K | 59.2K | 93.7K | 126K |
+| July 24, 2023 | 1.28M | 299K | 51.0K | 94.5K | 129K |
+| July 25, 2023 | 1.31M | 280K | 50.6K | 110K | 125K |
+| July 26, 2023 | 1.30M | 303K | 48.4K | 104K | 129K |
+| July 27, 2023 | 1.34M | 294K | 67.5K | 98.6K | 126K |
+| July 28, 2023 | 1.40M | 306K | 67.3K | 96.5K | 131K |
+| July 29, 2023 | 1.44M | 301K | 56.6K | 86.8K | 126K |
+| July 30, 2023 | 1.43M | 314K | 51.0K | 93.6K | 123K |
+| July 31, 2023 | 1.42M | 365K | 68.1K | 97.6K | 128K |
+| August 1, 2023 | 1.41M | 309K | 76.8K | 97.9K | 122K |
+| August 2, 2023 | 1.35M | 313K | 130K | 98.9K | 122K |
+| August 3, 2023 | 1.36M | 333K | 63.7K | 104K | 127K |
+| August 4, 2023 | 1.30M | 359K | 63.5K | 109K | 122K |
+| August 5, 2023 | 1.07M | 307K | 52.8K | 93.8K | 116K |
+| August 6, 2023 | 1.12M | 289K | 52.9K | 88.6K | 113K |
+| August 7, 2023 | 1.15M | 301K | 72.0K | 91.2K | 120K |
+| August 8, 2023 | 1.11M | 314K | 61.2K | 97.3K | 122K |
+| August 9, 2023 | 1.15M | 363K | 54.5K | 94.8K | 125K |
+| August 10, 2023 | 1.09M | 317K | 51.9K | 105K | 119K |
+| August 11, 2023 | 1.13M | 341K | 77.3K | 98.1K | 123K |
+| August 12, 2023 | 1.30M | 302K | 60.8K | 92.0K | 113K |
+| August 13, 2023 | 1.24M | 288K | 72.5K | 88.0K | 111K |
+| August 14, 2023 | 1.28M | 321K | 61.8K | 97.4K | 111K |
+| August 15, 2023 | 1.29M | 333K | 62.7K | 96.6K | 124K |
+| August 16, 2023 | 1.16M | 314K | 57.5K | 110K | 120K |
+| August 17, 2023 | 1.10M | 319K | 54.5K | 113K | 119K |
+| August 18, 2023 | 1.14M | 349K | 77.1K | 99.1K | 120K |
+| August 19, 2023 | 956K | 377K | 54.9K | 88.5K | 110K |
+| August 20, 2023 | 931K | 305K | 51.6K | 89.8K | 105K |
+| August 21, 2023 | 1.03M | 299K | 54.3K | 90.1K | 119K |
+| August 22, 2023 | 988K | 302K | 56.9K | 92.8K | 118K |
+| August 23, 2023 | 974K | 311K | 58.0K | 95.9K | 116K |
+| August 24, 2023 | 971K | 319K | 76.9K | 106K | 113K |
+| August 25, 2023 | 984K | 299K | 80.6K | 93.6K | 106K |
+| August 26, 2023 | 907K | 347K | 66.4K | 90.3K | 97.5K |
+| August 27, 2023 | 843K | 302K | 70.0K | 92.5K | 92.2K |
+| August 28, 2023 | 904K | 276K | 81.1K | 90.4K | 103K |
+| August 29, 2023 | 934K | 305K | 66.3K | 94.6K | 106K |
+| August 30, 2023 | 876K | 334K | 160K | 95.8K | 104K |
+| August 31, 2023 | 933K | 312K | 293K | 93.1K | 107K |
+
+### How this was built
+- Cohort: the five named projects, resolved to Ethereum, Solana, BNB Chain, NEAR Protocol and Uniswap on the project surface.
+- Metric: active users (daily), the unique revenue-generating users over a fixed 24-hour window, taken as that day's value.
+- Window: each calendar day from 2023-06-01 to 2023-08-31 (92 days), shown one row per day with one column per project; a day lacking an observation is left blank.
+- Each value comes from the project's own daily active-user row for that date.
