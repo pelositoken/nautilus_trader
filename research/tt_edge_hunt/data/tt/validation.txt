@@ -1,4 +1,6 @@
+WARN fees__G2__Q01.md: missing columns ['ENA', 'LINK', 'SUI']
 WARN fees__G2__Q05.md: missing columns ['ENA']
+WARN fees__G3__Q01.md: missing columns ['ONDO']
 WARN fees__G3__Q02.md: missing columns ['ONDO']
 WARN fees__G3__Q03.md: missing columns ['ONDO']
 WARN fees__G3__Q04.md: missing columns ['ONDO']
@@ -7,7 +9,17 @@ WARN fees__G3__Q06.md: missing columns ['ONDO']
 WARN fees__G3__Q07.md: missing columns ['ONDO']
 WARN fees__G3__Q08.md: missing columns ['ONDO']
 WARN fees__G3__Q09.md: missing columns ['ONDO']
+WARN fees__G3__Q10.md: missing columns ['ONDO']
+WARN fees__G3__Q11.md: missing columns ['ONDO']
+WARN fees__G3__Q12.md: missing columns ['ONDO']
+WARN fees__G3__Q13.md: missing columns ['ONDO']
 WARN fees__G3__Q13a.md: missing columns ['ONDO']
+WARN fees__G3__Q14.md: missing columns ['ONDO']
+WARN fees__G3__Q15.md: missing columns ['ONDO']
+WARN fees__G3__Q16.md: missing columns ['ONDO']
+WARN fees__G3__Q17.md: missing columns ['ONDO']
+WARN fees__G3__Q18.md: missing columns ['ONDO']
+WARN fees__G4__Q01.md: missing columns ['APT', 'JUP', 'RENDER', 'TIA']
 WARN fees__G4__Q02.md: missing columns ['JUP', 'RENDER', 'TIA']
 WARN fees__G4__Q03.md: missing columns ['JUP', 'RENDER', 'TIA']
 WARN fees__G4__Q04.md: missing columns ['RENDER', 'TIA']
@@ -20,68 +32,41 @@ WARN fees__G4__Q10.md: missing columns ['RENDER']
 WARN fees__G4__Q11.md: missing columns ['RENDER']
 WARN fees__G4__Q12.md: missing columns ['RENDER']
 WARN fees__G4__Q13.md: missing columns ['RENDER']
+WARN fees__G4__Q14.md: missing columns ['RENDER']
+WARN fees__G4__Q15.md: missing columns ['RENDER']
+WARN fees__G4__Q16.md: missing columns ['RENDER']
+WARN fees__G4__Q17.md: missing columns ['RENDER']
+WARN fees__G4__Q18.md: missing columns ['RENDER']
 WARN fees__G5__Q03.md: missing columns ['ETHFI']
+WARN fees__G6__Q01.md: missing columns ['JTO', 'PENDLE', 'SEI']
 WARN fees__G6__Q03.md: missing columns ['SEI']
 WARN fees__G6__Q05.md: missing columns ['SEI']
 WARN fees__G6__Q08.md: missing columns ['SEI']
 WARN fees__G6__Q09.md: missing columns ['SEI']
 WARN revenue__G1__Q01.md: missing columns ['UNI']
 WARN revenue__G2__Q03.md: missing columns ['ENA', 'LINK', 'SUI']
+WARN revenue__G3__Q01.md: missing columns ['ONDO']
 WARN revenue__G3__Q02.md: missing columns ['ONDO']
+WARN revenue__G3__Q12.md: missing columns ['ONDO']
+WARN revenue__G3__Q13.md: missing columns ['ONDO']
+WARN revenue__G3__Q14.md: missing columns ['ONDO']
+WARN revenue__G3__Q15.md: missing columns ['ONDO']
+WARN revenue__G3__Q16.md: missing columns ['ONDO']
+WARN revenue__G3__Q17.md: missing columns ['ONDO']
+WARN revenue__G3__Q18.md: missing columns ['ONDO']
 WARN revenue__G4__Q01.md: missing columns ['APT', 'JUP', 'RENDER', 'TIA']
 WARN revenue__G4__Q07.md: missing columns ['JUP', 'RENDER']
+WARN revenue__G4__Q14.md: missing columns ['RENDER']
+WARN revenue__G4__Q15.md: missing columns ['RENDER']
+WARN revenue__G4__Q16a.md: missing columns ['RENDER']
+WARN revenue__G4__Q16b.md: missing columns ['RENDER']
+WARN revenue__G4__Q17.md: missing columns ['RENDER']
+WARN revenue__G4__Q18.md: missing columns ['RENDER']
+WARN revenue__G5__Q01.md: missing columns ['ETHFI']
 WARN revenue__G5__Q04.md: missing columns ['ETHFI']
 WARN revenue__G6__Q03.md: missing columns ['JTO', 'SEI']
-MISSING fees G1 Q01
-MISSING fees G1 Q08
-MISSING fees G1 Q10
-MISSING fees G1 Q12
-MISSING fees G1 Q13
-MISSING fees G1 Q14
-MISSING fees G1 Q15
-MISSING fees G1 Q16
-MISSING fees G1 Q17
-MISSING fees G1 Q18
-MISSING fees G2 Q01
-MISSING fees G2 Q11
-MISSING fees G2 Q12
 MISSING fees G2 Q13
-MISSING fees G2 Q15
-MISSING fees G2 Q17
-MISSING fees G2 Q18
-MISSING fees G3 Q01
-MISSING fees G3 Q10
-MISSING fees G3 Q11
-MISSING fees G3 Q12
-GAP fees G3 Q13: 47 days missing
-MISSING fees G3 Q14
-MISSING fees G3 Q15
-MISSING fees G3 Q16
-MISSING fees G3 Q17
-MISSING fees G3 Q18
-MISSING fees G4 Q01
-MISSING fees G4 Q14
-MISSING fees G4 Q15
-MISSING fees G4 Q16
-MISSING fees G4 Q17
-MISSING fees G4 Q18
-MISSING fees G5 Q01
-MISSING fees G5 Q10
-MISSING fees G5 Q12
-MISSING fees G5 Q14
-MISSING fees G5 Q15
-MISSING fees G5 Q16
-MISSING fees G5 Q17
-MISSING fees G5 Q18
-MISSING fees G6 Q01
-MISSING fees G6 Q11
-MISSING fees G6 Q12
-MISSING fees G6 Q13
-MISSING fees G6 Q15
-MISSING fees G6 Q16
-MISSING fees G6 Q17
-MISSING fees G6 Q18
-MISSING revenue G1 Q02
+GAP fees G5 Q12: 46 days missing
 MISSING revenue G1 Q04
 MISSING revenue G1 Q05
 MISSING revenue G1 Q06
@@ -92,11 +77,6 @@ MISSING revenue G1 Q10
 MISSING revenue G1 Q11
 MISSING revenue G1 Q12
 MISSING revenue G1 Q13
-MISSING revenue G1 Q14
-MISSING revenue G1 Q15
-MISSING revenue G1 Q16
-MISSING revenue G1 Q17
-MISSING revenue G1 Q18
 MISSING revenue G2 Q01
 MISSING revenue G2 Q02
 MISSING revenue G2 Q05
@@ -106,14 +86,6 @@ MISSING revenue G2 Q08
 MISSING revenue G2 Q09
 MISSING revenue G2 Q10
 MISSING revenue G2 Q11
-MISSING revenue G2 Q12
-MISSING revenue G2 Q13
-MISSING revenue G2 Q14
-MISSING revenue G2 Q15
-MISSING revenue G2 Q16
-MISSING revenue G2 Q17
-MISSING revenue G2 Q18
-MISSING revenue G3 Q01
 MISSING revenue G3 Q03
 MISSING revenue G3 Q04
 MISSING revenue G3 Q05
@@ -123,13 +95,6 @@ MISSING revenue G3 Q08
 MISSING revenue G3 Q09
 MISSING revenue G3 Q10
 MISSING revenue G3 Q11
-MISSING revenue G3 Q12
-MISSING revenue G3 Q13
-MISSING revenue G3 Q14
-MISSING revenue G3 Q15
-MISSING revenue G3 Q16
-MISSING revenue G3 Q17
-MISSING revenue G3 Q18
 MISSING revenue G4 Q02
 MISSING revenue G4 Q03
 MISSING revenue G4 Q04
@@ -141,12 +106,6 @@ MISSING revenue G4 Q10
 MISSING revenue G4 Q11
 MISSING revenue G4 Q12
 MISSING revenue G4 Q13
-MISSING revenue G4 Q14
-MISSING revenue G4 Q15
-MISSING revenue G4 Q16
-MISSING revenue G4 Q17
-MISSING revenue G4 Q18
-MISSING revenue G5 Q01
 MISSING revenue G5 Q02
 MISSING revenue G5 Q03
 MISSING revenue G5 Q05
@@ -158,11 +117,6 @@ MISSING revenue G5 Q10
 MISSING revenue G5 Q11
 MISSING revenue G5 Q12
 MISSING revenue G5 Q13
-MISSING revenue G5 Q14
-MISSING revenue G5 Q15
-MISSING revenue G5 Q16
-MISSING revenue G5 Q17
-MISSING revenue G5 Q18
 MISSING revenue G6 Q01
 MISSING revenue G6 Q02
 MISSING revenue G6 Q05
@@ -174,11 +128,6 @@ MISSING revenue G6 Q10
 MISSING revenue G6 Q11
 MISSING revenue G6 Q12
 MISSING revenue G6 Q13
-MISSING revenue G6 Q14
-MISSING revenue G6 Q15
-MISSING revenue G6 Q16
-MISSING revenue G6 Q17
-MISSING revenue G6 Q18
 MISSING token_supply_circulating G1 Q01
 MISSING token_supply_circulating G1 Q02
 MISSING token_supply_circulating G1 Q03
@@ -287,114 +236,42 @@ MISSING token_supply_circulating G6 Q15
 MISSING token_supply_circulating G6 Q16
 MISSING token_supply_circulating G6 Q17
 MISSING token_supply_circulating G6 Q18
-MISSING tvl G1 Q01
-MISSING tvl G1 Q02
-MISSING tvl G1 Q03
-MISSING tvl G1 Q04
-MISSING tvl G1 Q05
-MISSING tvl G1 Q06
-MISSING tvl G1 Q07
-MISSING tvl G1 Q08
-MISSING tvl G1 Q09
-MISSING tvl G1 Q10
-MISSING tvl G1 Q11
-MISSING tvl G1 Q12
-MISSING tvl G1 Q13
-MISSING tvl G1 Q14
-MISSING tvl G1 Q15
-MISSING tvl G1 Q16
-MISSING tvl G1 Q17
-MISSING tvl G1 Q18
-MISSING tvl G2 Q01
-MISSING tvl G2 Q02
-MISSING tvl G2 Q03
-MISSING tvl G2 Q04
-MISSING tvl G2 Q05
-MISSING tvl G2 Q06
-MISSING tvl G2 Q07
-MISSING tvl G2 Q08
-MISSING tvl G2 Q09
-MISSING tvl G2 Q10
-MISSING tvl G2 Q11
-MISSING tvl G2 Q12
-MISSING tvl G2 Q13
-MISSING tvl G2 Q14
-MISSING tvl G2 Q15
-MISSING tvl G2 Q16
-MISSING tvl G2 Q17
-MISSING tvl G2 Q18
-MISSING tvl G3 Q01
-MISSING tvl G3 Q02
-MISSING tvl G3 Q03
-MISSING tvl G3 Q04
-MISSING tvl G3 Q05
-MISSING tvl G3 Q06
-MISSING tvl G3 Q07
-MISSING tvl G3 Q08
-MISSING tvl G3 Q09
-MISSING tvl G3 Q10
-MISSING tvl G3 Q11
-MISSING tvl G3 Q12
-MISSING tvl G3 Q13
-MISSING tvl G3 Q14
-MISSING tvl G3 Q15
-MISSING tvl G3 Q16
-MISSING tvl G3 Q17
-MISSING tvl G3 Q18
-MISSING tvl G4 Q01
-MISSING tvl G4 Q02
-MISSING tvl G4 Q03
-MISSING tvl G4 Q04
-MISSING tvl G4 Q05
-MISSING tvl G4 Q06
-MISSING tvl G4 Q07
-MISSING tvl G4 Q08
-MISSING tvl G4 Q09
-MISSING tvl G4 Q10
-MISSING tvl G4 Q11
-MISSING tvl G4 Q12
-MISSING tvl G4 Q13
-MISSING tvl G4 Q14
-MISSING tvl G4 Q15
-MISSING tvl G4 Q16
-MISSING tvl G4 Q17
-MISSING tvl G4 Q18
-MISSING tvl G5 Q01
-MISSING tvl G5 Q02
-MISSING tvl G5 Q03
-MISSING tvl G5 Q04
-MISSING tvl G5 Q05
-MISSING tvl G5 Q06
-MISSING tvl G5 Q07
-MISSING tvl G5 Q08
-MISSING tvl G5 Q09
-MISSING tvl G5 Q10
-MISSING tvl G5 Q11
-MISSING tvl G5 Q12
-MISSING tvl G5 Q13
-MISSING tvl G5 Q14
-MISSING tvl G5 Q15
-MISSING tvl G5 Q16
-MISSING tvl G5 Q17
-MISSING tvl G5 Q18
-MISSING tvl G6 Q01
-MISSING tvl G6 Q02
-MISSING tvl G6 Q03
-MISSING tvl G6 Q04
-MISSING tvl G6 Q05
-MISSING tvl G6 Q06
-MISSING tvl G6 Q07
-MISSING tvl G6 Q08
-MISSING tvl G6 Q09
-MISSING tvl G6 Q10
-MISSING tvl G6 Q11
-MISSING tvl G6 Q12
-MISSING tvl G6 Q13
-MISSING tvl G6 Q14
-MISSING tvl G6 Q15
-MISSING tvl G6 Q16
-MISSING tvl G6 Q17
-MISSING tvl G6 Q18
+MISSING tvl T1 Q01
+MISSING tvl T1 Q02
+MISSING tvl T1 Q03
+MISSING tvl T1 Q04
+MISSING tvl T1 Q05
+MISSING tvl T1 Q06
+MISSING tvl T1 Q07
+MISSING tvl T1 Q08
+MISSING tvl T1 Q09
+MISSING tvl T1 Q10
+MISSING tvl T1 Q11
+MISSING tvl T1 Q12
+MISSING tvl T1 Q13
+MISSING tvl T1 Q14
+MISSING tvl T1 Q15
+MISSING tvl T1 Q16
+MISSING tvl T1 Q17
+MISSING tvl T1 Q18
+MISSING tvl T2 Q01
+MISSING tvl T2 Q02
+MISSING tvl T2 Q03
+MISSING tvl T2 Q04
+MISSING tvl T2 Q05
+MISSING tvl T2 Q06
+MISSING tvl T2 Q07
+MISSING tvl T2 Q08
+MISSING tvl T2 Q09
+MISSING tvl T2 Q10
+MISSING tvl T2 Q11
+MISSING tvl T2 Q12
+MISSING tvl T2 Q13
+MISSING tvl T2 Q14
+MISSING tvl T2 Q15
+MISSING tvl T2 Q16
+MISSING tvl T2 Q17
+MISSING tvl T2 Q18
 MISSING user_dau G1 Q01
 MISSING user_dau G1 Q02
 MISSING user_dau G1 Q03

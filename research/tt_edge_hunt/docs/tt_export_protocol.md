@@ -58,3 +58,13 @@ On a timeout / "fetch failed" / classifier error, retry the same call up to 3
 times total. If it still fails, append one line
 `{metric},{group},{window},FAILED,{error}` to `data/tt_raw/_failures.csv` and
 move on. Never write a placeholder data file.
+
+## TVL addendum (2026-11-16, after probing)
+Token Terminal reports no chain-level TVL (Ethereum/Solana "no data reported");
+TVL exists for applications only, and comes back in long format
+(Project | Date | Total value locked). TVL therefore uses app-only groups:
+- T1: Aave, Uniswap, Lido Finance, Curve, Pendle
+- T2: Jupiter, Raydium, PancakeSwap, Ethena, Ether.fi, Jito
+TVL query template: "Daily total value locked (TVL) for {projects} from
+{start} to {end}, one row per project per day. Skip the metric definitions."
+Long format is fine. Save verbatim as `tvl__{T1|T2}__{window}.md`.

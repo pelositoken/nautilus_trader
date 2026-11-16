@@ -42,10 +42,12 @@ GROUPS = {
     "G4": ["CRV", "APT", "JUP", "TIA", "RENDER"],
     "G5": ["POL", "CAKE", "OP", "RAY", "ETHFI"],
     "G6": ["SEI", "LDO", "ATOM", "PENDLE", "JTO"],
+    "T1": ["AAVE", "UNI", "LDO", "CRV", "PENDLE"],
+    "T2": ["JUP", "RAY", "CAKE", "ENA", "ETHFI", "JTO"],
 }
 SUFFIX = {"": 1.0, "K": 1e3, "M": 1e6, "B": 1e9, "T": 1e12}
 NUM = re.compile(r"^(-)?\$?(-)?([0-9][0-9,]*\.?[0-9]*)\s*([KMBT]?)$")
-FNAME = re.compile(r"^(?P<metric>[a-z_]+)__(?P<group>G\d)__(?P<win>Q\d\d)(?P<sub>[a-z]?)\.md$")
+FNAME = re.compile(r"^(?P<metric>[a-z_]+)__(?P<group>[GT]\d)__(?P<win>Q\d\d)(?P<sub>[a-z]?)\.md$")
 
 
 def windows() -> dict[str, tuple[date, date]]:
@@ -163,7 +165,7 @@ def main() -> None:
     metrics = sorted({k[0] for k in covered} | {"fees", "revenue", "tvl", "user_dau",
                                                   "token_supply_circulating"})
     for metric in metrics:
-        for group in GROUPS:
+        for group in ([g for g in GROUPS if g.startswith("T")] if metric == "tvl" else [g for g in GROUPS if g.startswith("G")]):
             for win, (a, b) in wins.items():
                 need = {a + timedelta(days=i) for i in range((b - a).days + 1)}
                 got = covered.get((metric, group, win), set())

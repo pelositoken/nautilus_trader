@@ -35,7 +35,7 @@ def main() -> None:
     prefix, n = sys.argv[1], int(sys.argv[2])
     metrics = sys.argv[3:]
     wins = windows()
-    jobs = [(m, g, w) for m in metrics for w in wins for g in GROUPS if not have(m, g, w)]
+    jobs = [(m, g, w) for m in metrics for w in wins for g in (["T1", "T2"] if m == "tvl" else GROUPS) if not have(m, g, w)]
     jobs.sort(key=lambda j: (j[2] not in HOLDOUT, metrics.index(j[0]), j[2], j[1]))
     for f in RAW.glob(f"_jobs_{prefix}*.txt"):
         f.unlink()

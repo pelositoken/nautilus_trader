@@ -117,3 +117,6 @@ revenue,G3,Q11,FAILED,fetch failed x3
 revenue,G1,Q16,FAILED,fetch failed
 revenue,G4,Q15,FAILED,fetch failed
 revenue,G6,Q13,FAILED,fetch failed x3
+tvl,G1,Q14,FAILED,no table returned: full window timeout then 'could not be completed within the step budget'; half-window (2025-09-01..2025-10-15) timeout x2 then 'answer query rejected before execution'
+tvl,G2,Q14,FAILED,full window returned Ethena column only (Tron/Sui/Avalanche not reached; Chainlink TVL not tracked); half-window 2025-09-01..2025-10-15 returned no table
+tvl,G3,Q14,FAILED,full window: timeout then 'no query returned any TVL values' (no table)
