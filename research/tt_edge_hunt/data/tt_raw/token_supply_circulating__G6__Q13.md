@@ -1,0 +1,101 @@
+Circulating supply (token count) for the five named projects, one row per calendar day, June 1 – August 31, 2025.
+
+| Date | Sei Network | Lido Finance | Cosmos Hub | Pendle | Jito |
+|:---|---:|---:|---:|---:|---:|
+| June 1, 2025 | 5.33B | 897M | 452M | 162M | 335M |
+| June 2, 2025 | 5.33B | 897M | 452M | 162M | 335M |
+| June 3, 2025 | 5.33B | 897M | 453M | 162M | 336M |
+| June 4, 2025 | 5.33B | 897M | 453M | 162M | 336M |
+| June 5, 2025 | 5.33B | 897M | 453M | 162M | 337M |
+| June 6, 2025 | 5.33B | 897M | 453M | 162M | 337M |
+| June 7, 2025 | 5.33B | 897M | 453M | 162M | 337M |
+| June 8, 2025 | 5.33B | 897M | 453M | 162M | 338M |
+| June 9, 2025 | 5.33B | 897M | 453M | 162M | 335M |
+| June 10, 2025 | 5.33B | 897M | 454M | 162M | 335M |
+| June 11, 2025 | 5.33B | 897M | 454M | 162M | 336M |
+| June 12, 2025 | 5.33B | 897M | 454M | 162M | 336M |
+| June 13, 2025 | 5.33B | 897M | 454M | 162M | 336M |
+| June 14, 2025 | 5.33B | 897M | 454M | 162M | 337M |
+| June 15, 2025 | 5.56B | 897M | 454M | 162M | 337M |
+| June 16, 2025 | 5.56B | 897M | 454M | 162M | 338M |
+| June 17, 2025 | 5.56B | 897M | 455M | 162M | 338M |
+| June 18, 2025 | 5.56B | 897M | 455M | 162M | 338M |
+| June 19, 2025 | 5.56B | 897M | 455M | 163M | 339M |
+| June 20, 2025 | 5.56B | 897M | 455M | 163M | 339M |
+| June 21, 2025 | 5.56B | 897M | 455M | 163M | 339M |
+| June 22, 2025 | 5.56B | 897M | 455M | 163M | 340M |
+| June 23, 2025 | 5.56B | 897M | 456M | 163M | 340M |
+| June 24, 2025 | 5.56B | 897M | 456M | 163M | 340M |
+| June 25, 2025 | 5.56B | 897M | 456M | 163M | 341M |
+| June 26, 2025 | 5.56B | 897M | 456M | 163M | 341M |
+| June 27, 2025 | 5.56B | 897M | 456M | 163M | 342M |
+| June 28, 2025 | 5.56B | 897M | 456M | 163M | 342M |
+| June 29, 2025 | 5.56B | 897M | 457M | 163M | 342M |
+| June 30, 2025 | 5.56B | 897M | 457M | 163M | 343M |
+| July 1, 2025 | 5.56B | 897M | 457M | 165M | 343M |
+| July 2, 2025 | 5.56B | 897M | 457M | 165M | 343M |
+| July 3, 2025 | 5.56B | 897M | 457M | 165M | 344M |
+| July 4, 2025 | 5.56B | 897M | 457M | 165M | 345M |
+| July 5, 2025 | 5.56B | 897M | 457M | 165M | 345M |
+| July 6, 2025 | 5.56B | 897M | 458M | 165M | 345M |
+| July 7, 2025 | 5.56B | 897M | 458M | 165M | 346M |
+| July 8, 2025 | 5.56B | 897M | 458M | 165M | 346M |
+| July 9, 2025 | 5.56B | 897M | 458M | 165M | 346M |
+| July 10, 2025 | 5.56B | 897M | 458M | 165M | 347M |
+| July 11, 2025 | 5.56B | 897M | 458M | 165M | 347M |
+| July 12, 2025 | 5.56B | 897M | 458M | 165M | 348M |
+| July 13, 2025 | 5.56B | 897M | 459M | 165M | 348M |
+| July 14, 2025 | 5.56B | 897M | 459M | 165M | 348M |
+| July 15, 2025 | 5.78B | 897M | 459M | 165M | 354M |
+| July 16, 2025 | 5.78B | 897M | 459M | 165M | 354M |
+| July 17, 2025 | 5.78B | 897M | 459M | 165M | 354M |
+| July 18, 2025 | 5.78B | 897M | 459M | 165M | 355M |
+| July 19, 2025 | 5.78B | 897M | 460M | 165M | 355M |
+| July 20, 2025 | 5.78B | 897M | 460M | 165M | 356M |
+| July 21, 2025 | 5.78B | 897M | 460M | 165M | 356M |
+| July 22, 2025 | 5.78B | 897M | 460M | 165M | 356M |
+| July 23, 2025 | 5.78B | 897M | 460M | 165M | 357M |
+| July 24, 2025 | 5.78B | 897M | 460M | 166M | 357M |
+| July 25, 2025 | 5.78B | 897M | 460M | 166M | 357M |
+| July 26, 2025 | 5.78B | 897M | 461M | 166M | 358M |
+| July 27, 2025 | 5.78B | 897M | 461M | 166M | 358M |
+| July 28, 2025 | 5.78B | 897M | 461M | 166M | 359M |
+| July 29, 2025 | 5.78B | 897M | 461M | 166M | 359M |
+| July 30, 2025 | 5.78B | 897M | 461M | 166M | 359M |
+| July 31, 2025 | 5.78B | 897M | 461M | 166M | 360M |
+| August 1, 2025 | 5.78B | 897M | 462M | 166M | 360M |
+| August 2, 2025 | 5.78B | 897M | 462M | 166M | 360M |
+| August 3, 2025 | 5.78B | 897M | 462M | 166M | 361M |
+| August 4, 2025 | 5.78B | 897M | 462M | 166M | 361M |
+| August 5, 2025 | 5.78B | 896M | 462M | 166M | 361M |
+| August 6, 2025 | 5.78B | 896M | 462M | 166M | 362M |
+| August 7, 2025 | 5.78B | 896M | 463M | 166M | 363M |
+| August 8, 2025 | 5.78B | 896M | 463M | 167M | 363M |
+| August 9, 2025 | 5.78B | 896M | 463M | 168M | 363M |
+| August 10, 2025 | 5.78B | 896M | 463M | 167M | 364M |
+| August 11, 2025 | 5.78B | 896M | 463M | 167M | 364M |
+| August 12, 2025 | 5.78B | 896M | 463M | 167M | 365M |
+| August 13, 2025 | 5.78B | 896M | 463M | 167M | 365M |
+| August 14, 2025 | 5.78B | 896M | 464M | 167M | 365M |
+| August 15, 2025 | 6.01B | 896M | 464M | 167M | 366M |
+| August 16, 2025 | 6.01B | 896M | 464M | 167M | 366M |
+| August 17, 2025 | 6.01B | 896M | 464M | 167M | 366M |
+| August 18, 2025 | 6.01B | 896M | 464M | 167M | 367M |
+| August 19, 2025 | 6.01B | 896M | 464M | 168M | 367M |
+| August 20, 2025 | 6.01B | 896M | 465M | 168M | 367M |
+| August 21, 2025 | 6.01B | 896M | 465M | 168M | 368M |
+| August 22, 2025 | 6.01B | 896M | 465M | 168M | 368M |
+| August 23, 2025 | 6.01B | 896M | 465M | 168M | 369M |
+| August 24, 2025 | 6.01B | 896M | 465M | 168M | 369M |
+| August 25, 2025 | 6.01B | 896M | 465M | 168M | 369M |
+| August 26, 2025 | 6.01B | 896M | 465M | 168M | 370M |
+| August 27, 2025 | 6.01B | 896M | 466M | 168M | 370M |
+| August 28, 2025 | 6.01B | 896M | 466M | 168M | 370M |
+| August 29, 2025 | 6.01B | 896M | 466M | 169M | 371M |
+| August 30, 2025 | 6.01B | 896M | 466M | 169M | 371M |
+| August 31, 2025 | 6.01B | 896M | 466M | 169M | 372M |
+
+### How this was built
+- Entities: the projects were resolved by exact registry name — Sei Network, Lido Finance, Cosmos Hub, Pendle, Jito — and their circulating supply was read on the project surface, one row per (project, day).
+- Window: the calendar days from 2025-06-01 through 2025-08-31 (92 days), each project shown for every one of those days; a day with no observation is left blank rather than filled with a zero.
+- Measure: circulating supply is a point-in-time token count that excludes locked, unvested, and project-treasury tokens; it is not summable across days, so each cell is that day's value.
