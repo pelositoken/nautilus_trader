@@ -1,0 +1,99 @@
+Daily revenue, 2025-12-01 to 2026-02-28 (USD):
+
+| Date | Polygon | PancakeSwap | OP Mainnet | Raydium | Ether.fi |
+|:---|---:|---:|---:|---:|---:|
+| December 1, 2025 | $30.0K | $519K | $3.55K | $95.8K | $166K |
+| December 2, 2025 | $7.25K | $714K | $3.22K | $91.5K | $135K |
+| December 3, 2025 | $6.64K | $666K | $3.48K | $75.7K | $141K |
+| December 4, 2025 | $7.76K | $1.24M | $11.0K | $67.1K | $127K |
+| December 5, 2025 | $5.02K | $377K | $2.42K | $55.2K | $129K |
+| December 6, 2025 | $0.0188 | $1.37M | $97.3K | $83.5K | $93.4K |
+| December 7, 2025 | $1.12K | $857K | $3.17K | $101K | $125K |
+| December 8, 2025 | $5.89K | $404K | $18.8K | $72.4K | $201K |
+| December 9, 2025 | $4.30K | $844K | $2.63K | $110K | $154K |
+| December 10, 2025 | $2.29K | $1.00M | $3.58K | $98.4K | $151K |
+| December 11, 2025 | $5.95K | $716K | $2.48K | $116K | $118K |
+| December 12, 2025 | $1.79K | $809K | $2.06K | $108K | $139K |
+| December 13, 2025 | $0.00019 | $1.38M | $80.3K | $86.1K | $131K |
+| December 14, 2025 | $0.00021 | $750K | $13.8K | $67.5K | $125K |
+| December 15, 2025 | $3.02K | $1.37M | $4.71K | $103K | $155K |
+| December 16, 2025 | $9.69K | $943K | $2.33K | $88.5K | $108K |
+| December 17, 2025 | $7.28K | $290K | $2.50K | $94.7K | $129K |
+| December 18, 2025 | $2.43K | $259K | $4.38K | $84.0K | $86.0K |
+| December 19, 2025 | $10.4K | $281K | $3.04K | $89.9K | $201K |
+| December 20, 2025 | $8.22K | $206K | $1.80K | $44.7K | $94.5K |
+| December 21, 2025 | $7.53K | $733K | $114K | $43.5K | $129K |
+| December 22, 2025 | $18.2K | $198K | $22.9K | $60.4K | $153K |
+| December 23, 2025 | $27.6K | $712K | $2.12K | $56.7K | $133K |
+| December 24, 2025 | $8.60K | $201K | $2.39K | $47.4K | $129K |
+| December 25, 2025 | $4.00K | $169K | $1.95K | $39.1K | $119K |
+| December 26, 2025 | $23.7K | $202K | $1.61K | $49.9K | $127K |
+| December 27, 2025 | $17.0K | $130K | $1.30K | $46.4K | $134K |
+| December 28, 2025 | $5.82K | $347K | $46.7K | $41.5K | $92.7K |
+| December 29, 2025 | $55.4K | $174K | $2.13K | $62.3K | $144K |
+| December 30, 2025 | $78.5K | $147K | $1.89K | $68.4K | $136K |
+| December 31, 2025 | $53.0K | $183K | $1.85K | $59.2K | $117K |
+| January 1, 2026 | $4.93K | $708K | $2.18K | $53.1K | $136K |
+| January 2, 2026 | $96.9K | $160K | $2.32K | $185K | $136K |
+| January 3, 2026 | $80.0K | $155K | $1.44K | $227K | $129K |
+| January 4, 2026 | $106K | $1.03M | $89.2K | $207K | $130K |
+| January 5, 2026 | $377K | $1.31M | $2.68K | $177K | $117K |
+| January 6, 2026 | $357K | $215K | $2.80K | $171K | $129K |
+| January 7, 2026 | $134K | $739K | $2.68K | $109K | $81.7K |
+| January 8, 2026 | $190K | $1.19M | $2.93K | $118K | $207K |
+| January 9, 2026 | $164K | $258K | $2.54K | $98.1K | $138K |
+| January 10, 2026 | $81.5K | $354K | $1.09K | $56.3K | $98.9K |
+| January 11, 2026 | $75.7K | $319K | $120K | $67.2K | $134K |
+| January 12, 2026 | $109K | $1.39M | $2.16K | $111K | $176K |
+| January 13, 2026 | $155K | $319K | $45.1K | $92.6K | $154K |
+| January 14, 2026 | $141K | $369K | $2.77K | $106K | $155K |
+| January 15, 2026 | $116K | $353K | $2.30K | $66.6K | $109K |
+| January 16, 2026 | $97.4K | $238K | $2.01K | $55.1K | $176K |
+| January 17, 2026 | $67.7K | $1.16M | $1.86K | $41.6K | $135K |
+| January 18, 2026 | $50.4K | $905K | $85.1K | $46.5K | $111K |
+| January 19, 2026 | $42.3K | $248K | $3.93K | $92.1K | $164K |
+| January 20, 2026 | $44.7K | $748K | $3.22K | $81.6K | $141K |
+| January 21, 2026 | $72.0K | $910K | $90.3K | $97.0K | $265K |
+| January 22, 2026 | $94.3K | $253K | $2.36K | $98.4K | $103K |
+| January 23, 2026 | $67.6K | $732K | $2.33K | $96.8K | $142K |
+| January 24, 2026 | $31.8K | $501K | $1.09K | $81.8K | $170K |
+| January 25, 2026 | $38.6K | $764K | $44.2K | $78.6K | $113K |
+| January 26, 2026 | $65.2K | $203K | $39.1K | $88.8K | $152K |
+| January 27, 2026 | $44.2K | $207K | $2.19K | $106K | $143K |
+| January 28, 2026 | $84.5K | $760K | $3.01K | $106K | $104K |
+| January 29, 2026 | $94.0K | $222K | $3.16K | $79.4K | $135K |
+| January 30, 2026 | $134K | $241K | $3.96K | $79.5K | $133K |
+| January 31, 2026 | $154K | $743K | $17.4K | $59.7K | $122K |
+| February 1, 2026 | $99.8K | $659K | $372K | $53.8K | $135K |
+| February 2, 2026 | $129K | $269K | $6.66K | $90.1K | $143K |
+| February 3, 2026 | $120K | $2.30M | $190K | $67.9K | $121K |
+| February 4, 2026 | $122K | $249K | $4.60K | $62.2K | $83.3K |
+| February 5, 2026 | $122K | $314K | $26.6K | $80.2K | $115K |
+| February 6, 2026 | $129K | $628K | $17.4K | $89.1K | $135K |
+| February 7, 2026 | $77.3K | $721K | $7.10K | $42.2K | $118K |
+| February 8, 2026 | $85.8K | $1.19M | $608K | $45.8K | $103K |
+| February 9, 2026 | $94.2K | $590K | $1.89K | $60.1K | $184K |
+| February 10, 2026 | $94.8K | $636K | $65.5K | $51.4K | $109K |
+| February 11, 2026 | $104K | $640K | $2.47K | $48.1K | $111K |
+| February 12, 2026 | $158K | $1.81M | $1.80K | $46.4K | $108K |
+| February 13, 2026 | $213K | $500K | $1.63K | $43.3K | $111K |
+| February 14, 2026 | $326K | $1.65M | $1.11K | $34.4K | $111K |
+| February 15, 2026 | $202K | $458K | $89.7K | $38.4K | $90.1K |
+| February 16, 2026 | $107K | $1.05M | $1.33K | $38.1K | $125K |
+| February 17, 2026 | $109K | $460K | $1.66K | $44.6K | $96.0K |
+| February 18, 2026 | $94.5K | $905K | $3.02K | $43.8K | $102K |
+| February 19, 2026 | $175K | $516K | $2.15K | $34.5K | $93.3K |
+| February 20, 2026 | $55.7K | $1.18M | $1.69K | $42.2K | $113K |
+| February 21, 2026 | $21.0K | $1.84M | $1.69K | $28.8K | $104K |
+| February 22, 2026 | $18.6K | $473K | $141K | $32.6K | $89.6K |
+| February 23, 2026 | $29.9K | $544K | $1.36K | $42.8K | $154K |
+| February 24, 2026 | $30.0K | $973K | $1.19K | $52.4K | $92.2K |
+| February 25, 2026 | $35.7K | $215K | $1.82K | $69.4K | $113K |
+| February 26, 2026 | $33.6K | $888K | $1.39K | $65.4K | $103K |
+| February 27, 2026 | $64.4K | $881K | $1.89K | $52.3K | $117K |
+| February 28, 2026 | $48.5K | $351K | $1.96K | $48.9K | $90.2K |
+
+### How this was built
+- Revenue measured as the project-retained portion of fees, read on the project surface for each named entity: Polygon and OP Mainnet as their own chain's project rows, and PancakeSwap, Raydium and Ether.fi as their project rows.
+- Window: 2025-12-01 through 2026-02-28, one row per calendar day, each day's value being that day's revenue with no aggregation over the window.
+- Every calendar day in the window has an observation for all five entities (90 days each, 450 day-entity rows), so there are no gaps to mark.
