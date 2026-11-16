@@ -1,0 +1,41 @@
+token,project,metric,date,value,requery_value,raw_cell,agree
+ETHFI,Ether.fi,fees,2025-09-19,976000.0,976000.0,$976K,True
+UNI,Uniswap,fees,2024-09-26,2009999.9999999998,2010000.0,$2.01M,True
+ENA,Ethena,fees,2024-02-13,15000.0,15000.0,$15.0K,True
+SEI,Sei Network,fees,2025-12-30,298.0,298.0,$298,True
+LINK,Chainlink,fees,2025-01-18,2720.0,2720.0,$2.72K,True
+PENDLE,Pendle,fees,2023-07-18,392.0,392.0,$392,True
+CAKE,PancakeSwap,fees,2023-07-01,193000.0,193000.0,$193K,True
+FIL,Filecoin,fees,2024-01-22,4180.0,4180.0,$4.18K,True
+ETHFI,Ether.fi,fees,2025-04-03,541000.0,541000.0,$541K,True
+BNB,BNB Chain,fees,2022-11-04,1150000.0,1150000.0,$1.15M,True
+POL,Polygon,revenue,2023-07-20,40900.0,40900.0,$40.9K,True
+ATOM,Cosmos Hub,revenue,2023-07-13,164.0,164.0,$164,True
+FIL,Filecoin,revenue,2023-10-21,32700.000000000004,32700.0,$32.7K,True
+FIL,Filecoin,revenue,2025-04-23,8390.0,8390.0,$8.39K,True
+ARB,Arbitrum One,revenue,2026-05-15,22700.0,22655.74,"$22,655.74",True
+ETH,Ethereum,revenue,2026-05-21,64099.99999999999,64100.0,$64.1K,True
+CAKE,PancakeSwap,revenue,2026-07-25,89100.0,89100.0,$89.1K,True
+TRX,Tron,revenue,2024-03-27,4660000.0,4660000.0,$4.66M,True
+BNB,BNB Chain,revenue,2022-09-01,75000.0,75000.0,$75.0K,True
+RAY,Raydium,revenue,2025-11-04,128000.0,128000.0,$128K,True
+CRV,Curve,token_supply_circulating,2023-03-20,770000000.0,770000000.0,770M,True
+ETH,Ethereum,token_supply_circulating,2025-04-23,121000000.0,120713090.0,121M,True
+ATOM,Cosmos Hub,token_supply_circulating,2023-03-03,292586163.0,293000000.0,293M,True
+PENDLE,Pendle,token_supply_circulating,2026-03-02,173000000.0,172929263.0,173M,True
+AAVE,Aave,token_supply_circulating,2022-11-27,14200000.0,14200000.0,14.2M,True
+LINK,Chainlink,token_supply_circulating,2026-07-01,748000000.0,748000000.0,748M,True
+INJ,Injective,token_supply_circulating,2024-10-02,97700000.0,97700000.0,97.7M,True
+RAY,Raydium,tvl,2024-07-05,708000000.0,708000000.0,$708M,True
+LDO,Lido Finance,tvl,2023-01-19,7680000000.0,7680000000.0,$7.68B,True
+LDO,Lido Finance,tvl,2023-07-21,14800000000.0,14800000000.0,$14.8B,True
+JTO,Jito,tvl,2025-12-04,1970000000.0,1970000000.0,$1.97B,True
+JUP,Jupiter,tvl,2026-07-24,3050000000.0,3050000000.0,$3.05B,True
+RAY,Raydium,tvl,2026-01-02,1110000000.0,1110000000.0,$1.11B,True
+SEI,Sei Network,user_dau,2024-08-22,6180.0,6180.0,6.18K,True
+AAVE,Aave,user_dau,2026-07-25,4050.0,4050.0,4.05K,True
+INJ,Injective,user_dau,2024-01-30,19400.0,19400.0,19.4K,True
+SUI,Sui,user_dau,2025-11-03,483000.0,483000.0,483K,True
+AAVE,Aave,user_dau,2023-04-07,2440.0,2440.0,2.44K,True
+BNB,BNB Chain,user_dau,2024-08-26,7840000.0,7840000.0,7.84M,True
+UNI,Uniswap,user_dau,2025-08-29,487000.0,487000.0,487K,True
