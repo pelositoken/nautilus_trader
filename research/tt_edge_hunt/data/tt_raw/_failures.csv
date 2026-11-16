@@ -120,3 +120,4 @@ revenue,G6,Q13,FAILED,fetch failed x3
 tvl,G1,Q14,FAILED,no table returned: full window timeout then 'could not be completed within the step budget'; half-window (2025-09-01..2025-10-15) timeout x2 then 'answer query rejected before execution'
 tvl,G2,Q14,FAILED,full window returned Ethena column only (Tron/Sui/Avalanche not reached; Chainlink TVL not tracked); half-window 2025-09-01..2025-10-15 returned no table
 tvl,G3,Q14,FAILED,full window: timeout then 'no query returned any TVL values' (no table)
+token_supply_circulating,G2,Q03,FAILED,"step-budget exhausted x2 and timeout after 60s x1 (3 attempts); no daily table returned"

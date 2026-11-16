@@ -1,0 +1,101 @@
+| Date | Aave | Injective | Arbitrum One |
+|:---|---:|---:|---:|
+| June 1, 2025 | 6.58K | 47.3K | 243K |
+| June 2, 2025 | 6.52K | 47.9K | 276K |
+| June 3, 2025 | 7.08K | 48.3K | 313K |
+| June 4, 2025 | 6.92K | 47.5K | 292K |
+| June 5, 2025 | 8.89K | 28.8K | 273K |
+| June 6, 2025 | 7.46K | 47.4K | 301K |
+| June 7, 2025 | 5.91K | 47.5K | 269K |
+| June 8, 2025 | 5.38K | 47.7K | 261K |
+| June 9, 2025 | 7.37K | 4.03K | 316K |
+| June 10, 2025 | 9.22K | 4.25K | 408K |
+| June 11, 2025 | 8.64K | 3.75K | 331K |
+| June 12, 2025 | 7.42K | 38.4K | 333K |
+| June 13, 2025 | 8.99K | 43.2K | 316K |
+| June 14, 2025 | 5.33K | 48.1K | 265K |
+| June 15, 2025 | 5.11K | 51.1K | 241K |
+| June 16, 2025 | 6.97K | 55.0K | 263K |
+| June 17, 2025 | 7.80K | 58.3K | 295K |
+| June 18, 2025 | 6.84K | 58.3K | 289K |
+| June 19, 2025 | 5.93K | 58.2K | 350K |
+| June 20, 2025 | 7.32K | 58.3K | 331K |
+| June 21, 2025 | 7.45K | 3.65K | 324K |
+| June 22, 2025 | 10.5K | 58.8K | 316K |
+| June 23, 2025 | 7.65K | 58.5K | 336K |
+| June 24, 2025 | 7.03K | 41.6K | 351K |
+| June 25, 2025 | 6.33K | 62.2K | 371K |
+| June 26, 2025 | 6.53K | 62.8K | 381K |
+| June 27, 2025 | 6.18K | 25.9K | 316K |
+| June 28, 2025 | 4.99K | 49.2K | 358K |
+| June 29, 2025 | 5.73K | 51.1K | 386K |
+| June 30, 2025 | 7.02K | 75.0K | 525K |
+| July 1, 2025 | 7.49K | 78.7K | 439K |
+| July 2, 2025 | 7.33K | 44.9K | 261K |
+| July 3, 2025 | 7.35K | 80.8K | 266K |
+| July 4, 2025 | 6.15K | 82.5K | 312K |
+| July 5, 2025 | 5.27K | 81.7K | 276K |
+| July 6, 2025 | 5.49K | 80.4K | 273K |
+| July 7, 2025 | 6.27K | 81.6K | 309K |
+| July 8, 2025 | 6.50K | 83.6K | 326K |
+| July 9, 2025 | 7.91K | 77.8K | 430K |
+| July 10, 2025 | 10.3K | 82.7K | 383K |
+| July 11, 2025 | 10.8K | 73.4K | 324K |
+| July 12, 2025 | 6.91K | 85.5K | 384K |
+| July 13, 2025 | 6.95K | 80.9K | 320K |
+| July 14, 2025 | 10.1K | 84.8K | 348K |
+| July 15, 2025 | 9.05K | 74.1K | 384K |
+| July 16, 2025 | 11.7K | 71.1K | 439K |
+| July 17, 2025 | 11.1K | 77.3K | 443K |
+| July 18, 2025 | 12.1K | 85.8K | 392K |
+| July 19, 2025 | 7.35K | 85.8K | 329K |
+| July 20, 2025 | 9.90K | 79.1K | 323K |
+| July 21, 2025 | 10.3K | 83.9K | 322K |
+| July 22, 2025 | 9.58K | 81.4K | 322K |
+| July 23, 2025 | 9.61K | 80.7K | 344K |
+| July 24, 2025 | 9.76K | 82.5K | 348K |
+| July 25, 2025 | 10.1K | 83.4K | 351K |
+| July 26, 2025 | 7.38K | 86.3K | 325K |
+| July 27, 2025 | 7.97K | 80.3K | 324K |
+| July 28, 2025 | 9.75K | 80.0K | 327K |
+| July 29, 2025 | 8.66K | 81.8K | 320K |
+| July 30, 2025 | 9.44K | 80.5K | 335K |
+| July 31, 2025 | 9.70K | 72.0K | 350K |
+| August 1, 2025 | 11.0K | 94.4K | 364K |
+| August 2, 2025 | 8.51K | 79.2K | 312K |
+| August 3, 2025 | 7.35K | 84.2K | 293K |
+| August 4, 2025 | 8.15K | 80.9K | 343K |
+| August 5, 2025 | 8.36K | 81.0K | 350K |
+| August 6, 2025 | 8.65K | 81.5K | 379K |
+| August 7, 2025 | 10.6K | 79.6K | 422K |
+| August 8, 2025 | 11.4K | 81.5K | 382K |
+| August 9, 2025 | 11.7K | 81.0K | 367K |
+| August 10, 2025 | 8.85K | 81.3K | 364K |
+| August 11, 2025 | 10.5K | 83.4K | 404K |
+| August 12, 2025 | 12.4K | 80.3K | 403K |
+| August 13, 2025 | 14.2K | 83.4K | 398K |
+| August 14, 2025 | 12.4K | 82.9K | 389K |
+| August 15, 2025 | 9.92K | 81.2K | 384K |
+| August 16, 2025 | 7.47K | 85.6K | 412K |
+| August 17, 2025 | 7.90K | 80.3K | 373K |
+| August 18, 2025 | 10.1K | 80.2K | 414K |
+| August 19, 2025 | 10.1K | 83.2K | 368K |
+| August 20, 2025 | 9.67K | 81.5K | 375K |
+| August 21, 2025 | 8.72K | 81.3K | 362K |
+| August 22, 2025 | 12.4K | 84.3K | 406K |
+| August 23, 2025 | 10.0K | 84.2K | 450K |
+| August 24, 2025 | 9.55K | 79.8K | 408K |
+| August 25, 2025 | 11.3K | 81.4K | 446K |
+| August 26, 2025 | 9.88K | 82.0K | 466K |
+| August 27, 2025 | 9.05K | 80.5K | 443K |
+| August 28, 2025 | 9.11K | 81.3K | 448K |
+| August 29, 2025 | 9.84K | 82.7K | 464K |
+| August 30, 2025 | 7.23K | 81.2K | 437K |
+| August 31, 2025 | 7.54K | 81.2K | 361K |
+
+### How this was built
+- The table shows daily active users for Aave, Injective and Arbitrum One, one row per calendar day from 2025-06-01 through 2025-08-31, the exact window the question named.
+- Daily active users counts the unique addresses that make a revenue-generating transaction with the project over a fixed 24-hour window; each value is that entity's own daily reading and is not aggregated.
+- All 92 days in the window have an observation for each of the three entities shown.
+- Aave, Injective and Arbitrum One are the named projects and chain that resolve and have this metric; Filecoin and Ondo Finance are not tracked for daily active users, so no column is shown for them.
+- The full-grain day-by-day rows for every returned entity are a CSV export if you want them as a file.
