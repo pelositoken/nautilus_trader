@@ -95,12 +95,3 @@ WARN user_dau__G6__Q02a.md: missing columns ['JTO', 'PENDLE', 'SEI']
 WARN user_dau__G6__Q02b.md: missing columns ['SEI']
 WARN user_dau__G6__Q04.md: missing columns ['SEI']
 WARN user_dau__G6__Q06.md: missing columns ['SEI']
-MISSING token_supply_circulating G2 Q03
-MISSING token_supply_circulating G2 Q10
-MISSING token_supply_circulating G2 Q11
-MISSING token_supply_circulating G2 Q12
-MISSING token_supply_circulating G4 Q10
-MISSING token_supply_circulating G4 Q11
-MISSING token_supply_circulating G6 Q09
-MISSING token_supply_circulating G6 Q10
-MISSING token_supply_circulating G6 Q11

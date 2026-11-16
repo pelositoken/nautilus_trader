@@ -33,7 +33,7 @@ def main() -> None:
     rows = []
     for t in TOKENS:
         df5 = load_5m(t)
-        row = {"token": t, "sector": next(s for s, v in SECTORS.items() if t in v),
+        row = {"token": t, "sector": next((s for s, v in SECTORS.items() if t in v), "-"),
                "binance_first": df5.index[0].strftime("%Y-%m-%d"), "binance_bars": len(df5),
                "median_daily_quote_vol_musd": round(df5["quote_volume"].resample("1D").sum().median() / 1e6, 1)}
         for m in METRICS:

@@ -10,12 +10,14 @@ from edgehunt.config import CACHE
 from edgehunt.config import EXEC_SETS
 from edgehunt.config import PERIODS
 from edgehunt.config import TOKENS
+from edgehunt.config import UNIVERSE
 from edgehunt.gates import DAYS
 from edgehunt.sim import non_overlap
 
 
 DAY0 = DAYS[0]
 NDAYS = len(DAYS)
+IN_UNIVERSE = np.array([t in UNIVERSE for t in TOKENS])
 
 
 def _day_idx(ts: pd.Series) -> np.ndarray:
@@ -51,7 +53,7 @@ class Engine:
         """Indices (into candidate arrays) of kept trades entered in `period`."""
         c = self.c[e]
         d0, d1 = period_days(period)
-        inp = (c["day"] >= d0) & (c["day"] < d1)
+        inp = (c["day"] >= d0) & (c["day"] < d1) & IN_UNIVERSE[c["tok"]]
         day = np.clip(c["day"], 0, NDAYS - 1)
         g = np.where(c["dir"] > 0, long_ok[day, c["tok"]], short_ok[day, c["tok"]]) & inp
         idx = np.flatnonzero(g)
@@ -69,7 +71,7 @@ class Engine:
         c, p = self.c[e], self.p[e]
         d0, d1 = period_days(period)
         rng = np.random.default_rng(seed)
-        inp = (p["day"] >= d0) & (p["day"] < d1)
+        inp = (p["day"] >= d0) & (p["day"] < d1) & IN_UNIVERSE[p["tok"]]
         ok = inp & defined[np.clip(p["day"], 0, NDAYS - 1), p["tok"]]
         means = np.zeros(n_draws)
         n_long = int((c["dir"][idx] > 0).sum())
