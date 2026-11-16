@@ -54,9 +54,12 @@ WARN revenue__G6__Q04.md: missing columns ['JTO', 'SEI']
 WARN revenue__G6__Q05.md: missing columns ['JTO', 'SEI']
 WARN revenue__G6__Q07.md: missing columns ['JTO', 'SEI']
 WARN revenue__G6__Q09.md: missing columns ['JTO', 'SEI']
+WARN token_supply_circulating__G2__Q04.md: missing columns ['ENA']
 WARN token_supply_circulating__G3__Q05.md: missing columns ['ONDO']
 WARN token_supply_circulating__G3__Q07a.md: missing columns ['ONDO']
 WARN token_supply_circulating__G4__Q01.md: missing columns ['APT', 'JUP', 'TIA']
+WARN token_supply_circulating__G4__Q04.md: missing columns ['JUP', 'TIA']
+WARN token_supply_circulating__G4__Q05.md: missing columns ['JUP', 'TIA']
 WARN token_supply_circulating__G5__Q03.md: missing columns ['ETHFI', 'POL']
 WARN tvl__T1__Q01.md: missing columns ['PENDLE']
 WARN tvl__T2__Q01.md: missing columns ['ENA', 'JTO', 'JUP']
@@ -79,6 +82,8 @@ WARN user_dau__G3__Q13.md: missing columns ['FIL', 'ONDO']
 WARN user_dau__G3__Q14.md: missing columns ['FIL', 'ONDO']
 WARN user_dau__G3__Q17.md: missing columns ['FIL', 'ONDO']
 WARN user_dau__G3__Q18.md: missing columns ['FIL', 'ONDO']
+WARN user_dau__G4__Q05.md: missing columns ['JUP', 'RENDER', 'TIA']
+WARN user_dau__G4__Q10.md: missing columns ['JUP', 'RENDER']
 WARN user_dau__G4__Q14.md: missing columns ['JUP', 'RENDER']
 WARN user_dau__G4__Q15.md: missing columns ['JUP', 'RENDER']
 WARN user_dau__G4__Q16.md: missing columns ['JUP', 'RENDER']
@@ -88,80 +93,20 @@ WARN user_dau__G5__Q01.md: missing columns ['ETHFI']
 WARN user_dau__G6__Q01.md: missing columns ['JTO', 'PENDLE', 'SEI']
 WARN user_dau__G6__Q02a.md: missing columns ['JTO', 'PENDLE', 'SEI']
 WARN user_dau__G6__Q02b.md: missing columns ['SEI']
-MISSING token_supply_circulating G1 Q09
-MISSING token_supply_circulating G1 Q10
-MISSING token_supply_circulating G1 Q11
-MISSING token_supply_circulating G1 Q12
-MISSING token_supply_circulating G1 Q13
+WARN user_dau__G6__Q04.md: missing columns ['SEI']
+WARN user_dau__G6__Q06.md: missing columns ['SEI']
 MISSING token_supply_circulating G2 Q03
-MISSING token_supply_circulating G2 Q04
-MISSING token_supply_circulating G2 Q05
-MISSING token_supply_circulating G2 Q06
-MISSING token_supply_circulating G2 Q07
-MISSING token_supply_circulating G2 Q08
 MISSING token_supply_circulating G2 Q09
 MISSING token_supply_circulating G2 Q10
 MISSING token_supply_circulating G2 Q11
 MISSING token_supply_circulating G2 Q12
 MISSING token_supply_circulating G2 Q13
-MISSING token_supply_circulating G3 Q09
-MISSING token_supply_circulating G3 Q10
-MISSING token_supply_circulating G3 Q11
-MISSING token_supply_circulating G3 Q12
-MISSING token_supply_circulating G3 Q13
-MISSING token_supply_circulating G4 Q04
-MISSING token_supply_circulating G4 Q05
-MISSING token_supply_circulating G4 Q06
-MISSING token_supply_circulating G4 Q07
-MISSING token_supply_circulating G4 Q08
 MISSING token_supply_circulating G4 Q09
 MISSING token_supply_circulating G4 Q10
 MISSING token_supply_circulating G4 Q11
 MISSING token_supply_circulating G4 Q12
-MISSING token_supply_circulating G4 Q13
-MISSING token_supply_circulating G5 Q08
-MISSING token_supply_circulating G5 Q09
-MISSING token_supply_circulating G5 Q10
-MISSING token_supply_circulating G5 Q11
-MISSING token_supply_circulating G5 Q12
-MISSING token_supply_circulating G5 Q13
-MISSING token_supply_circulating G6 Q03
-MISSING token_supply_circulating G6 Q04
-MISSING token_supply_circulating G6 Q05
-MISSING token_supply_circulating G6 Q06
-MISSING token_supply_circulating G6 Q07
 MISSING token_supply_circulating G6 Q08
 MISSING token_supply_circulating G6 Q09
 MISSING token_supply_circulating G6 Q10
 MISSING token_supply_circulating G6 Q11
 MISSING token_supply_circulating G6 Q12
-MISSING token_supply_circulating G6 Q13
-MISSING user_dau G2 Q05
-MISSING user_dau G2 Q06
-MISSING user_dau G2 Q07
-MISSING user_dau G2 Q08
-MISSING user_dau G2 Q09
-MISSING user_dau G2 Q10
-MISSING user_dau G2 Q11
-MISSING user_dau G2 Q12
-MISSING user_dau G2 Q13
-MISSING user_dau G4 Q04
-MISSING user_dau G4 Q05
-MISSING user_dau G4 Q06
-MISSING user_dau G4 Q07
-MISSING user_dau G4 Q08
-MISSING user_dau G4 Q09
-MISSING user_dau G4 Q10
-MISSING user_dau G4 Q11
-MISSING user_dau G4 Q12
-MISSING user_dau G4 Q13
-MISSING user_dau G6 Q04
-MISSING user_dau G6 Q05
-MISSING user_dau G6 Q06
-MISSING user_dau G6 Q07
-MISSING user_dau G6 Q08
-MISSING user_dau G6 Q09
-MISSING user_dau G6 Q10
-MISSING user_dau G6 Q11
-MISSING user_dau G6 Q12
-MISSING user_dau G6 Q13

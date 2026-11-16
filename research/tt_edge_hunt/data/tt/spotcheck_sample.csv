@@ -1,0 +1,41 @@
+token,project,metric,date,value
+ETHFI,Ether.fi,fees,2025-09-19,976000.0
+UNI,Uniswap,fees,2024-09-26,2009999.9999999998
+ENA,Ethena,fees,2024-02-13,15000.0
+SEI,Sei Network,fees,2025-12-30,298.0
+LINK,Chainlink,fees,2025-01-18,2720.0
+PENDLE,Pendle,fees,2023-07-18,392.0
+CAKE,PancakeSwap,fees,2023-07-01,193000.0
+FIL,Filecoin,fees,2024-01-22,4180.0
+ETHFI,Ether.fi,fees,2025-04-03,541000.0
+BNB,BNB Chain,fees,2022-11-04,1150000.0
+POL,Polygon,revenue,2023-07-20,40900.0
+ATOM,Cosmos Hub,revenue,2023-07-13,164.0
+FIL,Filecoin,revenue,2023-10-21,32700.000000000004
+FIL,Filecoin,revenue,2025-04-23,8390.0
+ARB,Arbitrum One,revenue,2026-05-15,22700.0
+ETH,Ethereum,revenue,2026-05-21,64099.99999999999
+CAKE,PancakeSwap,revenue,2026-07-25,89100.0
+TRX,Tron,revenue,2024-03-27,4660000.0
+BNB,BNB Chain,revenue,2022-09-01,75000.0
+RAY,Raydium,revenue,2025-11-04,128000.0
+CRV,Curve,token_supply_circulating,2023-03-20,770000000.0
+ETH,Ethereum,token_supply_circulating,2025-04-23,121000000.0
+ATOM,Cosmos Hub,token_supply_circulating,2023-03-03,292586163.0
+PENDLE,Pendle,token_supply_circulating,2026-03-02,173000000.0
+AAVE,Aave,token_supply_circulating,2022-11-27,14200000.0
+LINK,Chainlink,token_supply_circulating,2026-07-01,748000000.0
+INJ,Injective,token_supply_circulating,2024-10-02,97700000.0
+RAY,Raydium,tvl,2024-07-05,708000000.0
+LDO,Lido Finance,tvl,2023-01-19,7680000000.0
+LDO,Lido Finance,tvl,2023-07-21,14800000000.0
+JTO,Jito,tvl,2025-12-04,1970000000.0
+JUP,Jupiter,tvl,2026-07-24,3050000000.0
+RAY,Raydium,tvl,2026-01-02,1110000000.0
+SEI,Sei Network,user_dau,2024-08-22,6180.0
+AAVE,Aave,user_dau,2026-07-25,4050.0
+INJ,Injective,user_dau,2024-01-30,19400.0
+SUI,Sui,user_dau,2025-11-03,483000.0
+AAVE,Aave,user_dau,2023-04-07,2440.0
+BNB,BNB Chain,user_dau,2024-08-26,7840000.0
+UNI,Uniswap,user_dau,2025-08-29,487000.0
