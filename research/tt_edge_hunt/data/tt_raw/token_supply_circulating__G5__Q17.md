@@ -1,0 +1,101 @@
+Daily circulating supply (token count) for the five named projects, June 1 – August 31, 2026 (one row per calendar day, no aggregation). Every one of the 92 days has a value for each project, so there are no blank days to mark with a dash.
+
+| Date | Ether.fi | OP Mainnet | PancakeSwap | Polygon | Raydium |
+|:---|---:|---:|---:|---:|---:|
+| June 1, 2026 | 881M | 2.15B | 325M | 10.7B | 269M |
+| June 2, 2026 | 881M | 2.15B | 325M | 10.7B | 269M |
+| June 3, 2026 | 881M | 2.15B | 325M | 10.7B | 269M |
+| June 4, 2026 | 881M | 2.15B | 325M | 10.7B | 269M |
+| June 5, 2026 | 881M | 2.15B | 325M | 10.7B | 269M |
+| June 6, 2026 | 881M | 2.15B | 325M | 10.7B | 269M |
+| June 7, 2026 | 881M | 2.15B | 325M | 10.7B | 269M |
+| June 8, 2026 | 881M | 2.15B | 324M | 10.7B | 269M |
+| June 9, 2026 | 881M | 2.15B | 324M | 10.7B | 269M |
+| June 10, 2026 | 881M | 2.15B | 324M | 10.7B | 269M |
+| June 11, 2026 | 881M | 2.15B | 352M | 10.7B | 269M |
+| June 12, 2026 | 881M | 2.15B | 352M | 10.7B | 269M |
+| June 13, 2026 | 881M | 2.15B | 352M | 10.7B | 269M |
+| June 14, 2026 | 881M | 2.15B | 352M | 10.7B | 269M |
+| June 15, 2026 | 881M | 2.15B | 324M | 10.7B | 269M |
+| June 16, 2026 | 881M | 2.15B | 324M | 10.7B | 269M |
+| June 17, 2026 | 927M | 2.16B | 324M | 10.7B | 269M |
+| June 18, 2026 | 927M | 2.16B | 324M | 10.7B | 269M |
+| June 19, 2026 | 927M | 2.16B | 324M | 10.7B | 269M |
+| June 20, 2026 | 927M | 2.16B | 324M | 10.7B | 269M |
+| June 21, 2026 | 927M | 2.16B | 324M | 10.7B | 269M |
+| June 22, 2026 | 927M | 2.16B | 324M | 10.7B | 269M |
+| June 23, 2026 | 927M | 2.16B | 324M | 10.7B | 269M |
+| June 24, 2026 | 927M | 2.16B | 324M | 10.7B | 269M |
+| June 25, 2026 | 927M | 2.16B | 324M | 10.7B | 269M |
+| June 26, 2026 | 927M | 2.16B | 324M | 10.7B | 269M |
+| June 27, 2026 | 927M | 2.16B | 324M | 10.7B | 269M |
+| June 28, 2026 | 927M | 2.16B | 324M | 10.7B | 269M |
+| June 29, 2026 | 927M | 2.16B | 323M | 10.7B | 269M |
+| June 30, 2026 | 927M | 2.16B | 323M | 10.7B | 269M |
+| July 1, 2026 | 927M | 2.16B | 323M | 10.7B | 269M |
+| July 2, 2026 | 927M | 2.16B | 323M | 10.7B | 269M |
+| July 3, 2026 | 927M | 2.16B | 323M | 10.7B | 269M |
+| July 4, 2026 | 927M | 2.16B | 323M | 10.7B | 269M |
+| July 5, 2026 | 927M | 2.16B | 323M | 10.7B | 269M |
+| July 6, 2026 | 927M | 2.16B | 323M | 10.7B | 269M |
+| July 7, 2026 | 927M | 2.16B | 323M | 10.7B | 269M |
+| July 8, 2026 | 927M | 2.16B | 323M | 10.7B | 269M |
+| July 9, 2026 | 927M | 2.16B | 323M | 10.7B | 269M |
+| July 10, 2026 | 927M | 2.16B | 323M | 10.7B | 269M |
+| July 11, 2026 | 927M | 2.16B | 323M | 10.7B | 269M |
+| July 12, 2026 | 927M | 2.16B | 323M | 10.7B | 269M |
+| July 13, 2026 | 927M | 2.16B | 323M | 10.7B | 269M |
+| July 14, 2026 | 927M | 2.16B | 323M | 10.7B | 269M |
+| July 15, 2026 | 927M | 2.28B | 323M | 10.7B | 269M |
+| July 16, 2026 | 927M | 2.28B | 323M | 10.7B | 269M |
+| July 17, 2026 | 972M | 2.28B | 323M | 10.7B | 269M |
+| July 18, 2026 | 972M | 2.28B | 323M | 10.7B | 269M |
+| July 19, 2026 | 972M | 2.28B | 323M | 10.7B | 269M |
+| July 20, 2026 | 972M | 2.28B | 323M | 10.7B | 269M |
+| July 21, 2026 | 972M | 2.28B | 323M | 10.7B | 269M |
+| July 22, 2026 | 972M | 2.29B | 323M | 10.7B | 269M |
+| July 23, 2026 | 973M | 2.29B | 323M | 10.7B | 269M |
+| July 24, 2026 | 973M | 2.29B | 323M | 10.7B | 269M |
+| July 25, 2026 | 973M | 2.29B | 323M | 10.7B | 269M |
+| July 26, 2026 | 973M | 2.29B | 323M | 10.7B | 269M |
+| July 27, 2026 | 973M | 2.29B | 322M | 10.7B | 269M |
+| July 28, 2026 | 973M | 2.29B | 322M | 10.7B | 269M |
+| July 29, 2026 | 973M | 2.29B | 322M | 10.7B | 269M |
+| July 30, 2026 | 973M | 2.29B | 322M | 10.7B | 269M |
+| July 31, 2026 | 973M | 2.29B | 322M | 10.7B | 269M |
+| August 1, 2026 | 973M | 2.29B | 322M | 10.7B | 269M |
+| August 2, 2026 | 973M | 2.29B | 322M | 10.7B | 269M |
+| August 3, 2026 | 973M | 2.29B | 322M | 10.7B | 269M |
+| August 4, 2026 | 973M | 2.29B | 322M | 10.7B | 269M |
+| August 5, 2026 | 973M | 2.29B | 322M | 10.7B | 269M |
+| August 6, 2026 | 973M | 2.29B | 322M | 10.7B | 269M |
+| August 7, 2026 | 973M | 2.29B | 322M | 10.7B | 269M |
+| August 8, 2026 | 973M | 2.29B | 322M | 10.7B | 269M |
+| August 9, 2026 | 973M | 2.29B | 322M | 10.7B | 269M |
+| August 10, 2026 | 973M | 2.29B | 322M | 10.7B | 270M |
+| August 11, 2026 | 973M | 2.29B | 322M | 10.7B | 270M |
+| August 12, 2026 | 973M | 2.29B | 322M | 10.7B | 270M |
+| August 13, 2026 | 973M | 2.29B | 322M | 10.7B | 270M |
+| August 14, 2026 | 973M | 2.29B | 322M | 10.7B | 270M |
+| August 15, 2026 | 973M | 2.29B | 322M | 10.7B | 270M |
+| August 16, 2026 | 973M | 2.29B | 322M | 10.7B | 270M |
+| August 17, 2026 | 1.02B | 2.29B | 321M | 10.7B | 270M |
+| August 18, 2026 | 1.02B | 2.29B | 321M | 10.7B | 270M |
+| August 19, 2026 | 1.02B | 2.29B | 321M | 10.7B | 270M |
+| August 20, 2026 | 1.02B | 2.29B | 321M | 10.7B | 270M |
+| August 21, 2026 | 1.02B | 2.29B | 321M | 10.7B | 270M |
+| August 22, 2026 | 1.02B | 2.29B | 321M | 10.7B | 270M |
+| August 23, 2026 | 1.02B | 2.29B | 321M | 10.7B | 270M |
+| August 24, 2026 | 1.02B | 2.29B | 321M | 10.7B | 270M |
+| August 25, 2026 | 1.02B | 2.29B | 321M | 10.7B | 270M |
+| August 26, 2026 | 1.02B | 2.29B | 321M | 10.7B | 270M |
+| August 27, 2026 | 965M | 2.29B | 321M | 10.7B | 270M |
+| August 28, 2026 | 965M | 2.29B | 321M | 10.7B | 270M |
+| August 29, 2026 | 965M | 2.29B | 321M | 10.7B | 270M |
+| August 30, 2026 | 965M | 2.29B | 321M | 10.7B | 270M |
+| August 31, 2026 | 965M | 2.29B | 321M | 10.7B | 270M |
+
+### How this was built
+- Cohort: the five named projects, resolved to their canonical entries — Polygon, PancakeSwap, OP Mainnet, Raydium, and Ether.fi.
+- Metric: circulating supply, the point-in-time count of tokens available for trading on the open market; each day's value is that day's last observation and is not summed across days or across projects.
+- Window: the requested calendar window June 1 through August 31, 2026; the table reports one row per project per day (92 days × 5 projects), with a value present on every day for every project.
