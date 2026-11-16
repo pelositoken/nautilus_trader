@@ -79,8 +79,9 @@ def parse_date(cell: str) -> date:
     raise ValueError(f"unparseable date: {cell!r}")
 
 
-def parse_file(path: Path):
-    header, rows = None, []
+def parse_file(path: Path) -> list[tuple[list[str], list[list[str]]]]:
+    """Return every table in the file as (header, rows); each row keeps its own header."""
+    tables: list[tuple[list[str], list[list[str]]]] = []
     for line in path.read_text().splitlines():
         line = line.strip()
         if not line.startswith("|"):
@@ -88,16 +89,68 @@ def parse_file(path: Path):
         cells = [c.strip() for c in line.strip("|").split("|")]
         if all(set(c) <= set(":- ") for c in cells):
             continue
-        if header is None or cells[0].lower() in {"date", "project"}:
-            # a header row (re)starts a table; stray or repeated headers are superseded
-            header = cells
+        if not tables or cells[0].lower() in {"date", "day", "project"}:
+            tables.append((cells, []))
             continue
+        header, rows = tables[-1]
         if len(cells) != len(header):
             raise ValueError(f"{path.name}: ragged row {line!r}")
         rows.append(cells)
-    if header is None:
+    tables = [t for t in tables if t[1]]
+    if not tables:
         raise ValueError(f"{path.name}: no table")
-    return header, rows
+    return tables
+
+
+def process_table(path, metric, group, win, header, rows, records, covered, report) -> set[str]:
+    """Add one table's values to `records`; return the tokens it covers."""
+    seen: set[str] = set()
+    lower = ["date" if h.lower() == "day" else h.lower() for h in header]
+    if "project" in lower:  # long layout: Project | Date | Value
+        ip, idt = lower.index("project"), lower.index("date")
+        iv = next(i for i in range(len(header)) if i not in (ip, idt))
+        for r in rows:
+            tok = PROJECT_TO_TOKEN.get(r[ip].lower())
+            if tok is None:
+                report.append(f"WARN {path.name}: unknown project {r[ip]!r}")
+                continue
+            try:
+                d, v = parse_date(r[idt]), parse_value(r[iv])
+            except ValueError as e:
+                report.append(f"ERROR {path.name}: {e}")
+                continue
+            covered[(metric, group, win)].add(d)
+            seen.add(tok)
+            if v is not None:
+                records[(d, tok, metric)].add(v)
+        return seen
+    idt = lower.index("date")
+    cols = {}
+    for i, h in enumerate(header):
+        if i == idt:
+            continue
+        tok = PROJECT_TO_TOKEN.get(h.lower())
+        if tok is None:
+            report.append(f"WARN {path.name}: unknown column {h!r}")
+        else:
+            cols[i] = tok
+    seen |= set(cols.values())
+    for r in rows:
+        try:
+            d = parse_date(r[idt])
+        except ValueError as e:
+            report.append(f"ERROR {path.name}: {e}")
+            continue
+        covered[(metric, group, win)].add(d)
+        for i, tok in cols.items():
+            try:
+                v = parse_value(r[i])
+            except ValueError as e:
+                report.append(f"ERROR {path.name}: {e}")
+                continue
+            if v is not None:
+                records[(d, tok, metric)].add(v)
+    return seen
 
 
 def main() -> None:
@@ -113,54 +166,16 @@ def main() -> None:
             continue
         metric, group, win = m["metric"], m["group"], m["win"]
         try:
-            header, rows = parse_file(path)
+            tables = parse_file(path)
         except ValueError as e:
             report.append(f"ERROR {e}")
             continue
-        # columns: Date | [Project |] p1..p5  (long or pivoted layout)
-        lower = [h.lower() for h in header]
-        if "project" in lower:  # long layout: Project | Date | Value
-            ip, idt = lower.index("project"), lower.index("date")
-            iv = next(i for i in range(len(header)) if i not in (ip, idt))
-            for r in rows:
-                tok = PROJECT_TO_TOKEN.get(r[ip].lower())
-                if tok is None:
-                    report.append(f"WARN {path.name}: unknown project {r[ip]!r}")
-                    continue
-                d = parse_date(r[idt])
-                covered[(metric, group, win)].add(d)
-                v = parse_value(r[iv])
-                if v is not None:
-                    records[(d, tok, metric)].add(v)
-            continue
-        idt = lower.index("date")
-        cols = {}
-        for i, h in enumerate(header):
-            if i == idt:
-                continue
-            tok = PROJECT_TO_TOKEN.get(h.lower())
-            if tok is None:
-                report.append(f"WARN {path.name}: unknown column {h!r}")
-            else:
-                cols[i] = tok
-        missing_cols = set(GROUPS[group]) - set(cols.values())
+        seen_tokens: set[str] = set()
+        for header, rows in tables:
+            seen_tokens |= process_table(path, metric, group, win, header, rows, records, covered, report)
+        missing_cols = set(GROUPS[group]) - seen_tokens
         if missing_cols:
             report.append(f"WARN {path.name}: missing columns {sorted(missing_cols)}")
-        for r in rows:
-            try:
-                d = parse_date(r[idt])
-            except ValueError as e:
-                report.append(f"ERROR {path.name}: {e}")
-                continue
-            covered[(metric, group, win)].add(d)
-            for i, tok in cols.items():
-                try:
-                    v = parse_value(r[i])
-                except ValueError as e:
-                    report.append(f"ERROR {path.name}: {e}")
-                    continue
-                if v is not None:
-                    records[(d, tok, metric)].add(v)
     # completeness per (metric, group, window)
     metrics = sorted({k[0] for k in covered} | {"fees", "revenue", "tvl", "user_dau",
                                                   "token_supply_circulating"})
