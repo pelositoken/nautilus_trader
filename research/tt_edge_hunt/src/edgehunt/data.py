@@ -49,6 +49,10 @@ def first_eligible_day(token: str) -> pd.Timestamp:
     return t0 + pd.Timedelta(days=MIN_PRICE_HISTORY_DAYS)
 
 
+# Amendment A1: exact zeros are connector join defaults for these stock-like metrics.
+ZERO_IS_MISSING = {"user_dau", "tvl", "token_supply_circulating"}
+
+
 def load_fundamentals() -> dict[str, pd.DataFrame]:
     """metric -> DataFrame(date x token) on a continuous daily index (no fill)."""
     df = pd.read_csv(TT / "fundamentals_long.csv", parse_dates=["date"])
@@ -56,6 +60,8 @@ def load_fundamentals() -> dict[str, pd.DataFrame]:
     idx = pd.date_range("2022-06-01", "2026-11-15", freq="D")
     for m, g in df.groupby("metric"):
         p = g.pivot(index="date", columns="token", values="value").reindex(idx)
+        if m in ZERO_IS_MISSING:
+            p = p.where(p != 0)
         out[m] = p
     return out
 

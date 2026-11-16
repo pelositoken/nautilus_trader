@@ -1,0 +1,100 @@
+Circulating supply (token count) per calendar day, December 1, 2022 through February 28, 2023, for the five projects named.
+
+| Date | BNB Chain | Ethereum | NEAR Protocol | Solana | Uniswap |
+|:---|---:|---:|---:|---:|---:|
+| December 1, 2022 | 160M | 121M | 833M | 364M | 471M |
+| December 2, 2022 | 160M | 121M | 833M | 364M | 471M |
+| December 3, 2022 | 160M | 121M | 833M | 364M | 471M |
+| December 4, 2022 | 160M | 121M | 834M | 364M | 472M |
+| December 5, 2022 | 160M | 121M | 834M | 364M | 472M |
+| December 6, 2022 | 160M | 121M | 834M | 364M | 472M |
+| December 7, 2022 | 160M | 121M | 835M | 365M | 472M |
+| December 8, 2022 | 160M | 121M | 835M | 366M | 472M |
+| December 9, 2022 | 160M | 121M | 835M | 366M | 473M |
+| December 10, 2022 | 160M | 121M | 836M | 366M | 473M |
+| December 11, 2022 | 160M | 121M | 836M | 366M | 473M |
+| December 12, 2022 | 160M | 121M | 836M | 366M | 473M |
+| December 13, 2022 | 160M | 121M | 837M | 366M | 474M |
+| December 14, 2022 | 160M | 121M | 842M | 367M | 474M |
+| December 15, 2022 | 160M | 121M | 842M | 367M | 474M |
+| December 16, 2022 | 160M | 121M | 842M | 367M | 474M |
+| December 17, 2022 | 160M | 121M | 843M | 367M | 474M |
+| December 18, 2022 | 160M | 121M | 843M | 367M | 475M |
+| December 19, 2022 | 160M | 121M | 843M | 367M | 475M |
+| December 20, 2022 | 160M | 121M | 844M | 367M | 475M |
+| December 21, 2022 | 160M | 121M | 844M | 367M | 475M |
+| December 22, 2022 | 160M | 121M | 844M | 367M | 476M |
+| December 23, 2022 | 160M | 121M | 844M | 367M | 476M |
+| December 24, 2022 | 160M | 121M | 844M | 367M | 476M |
+| December 25, 2022 | 160M | 121M | 844M | 367M | 476M |
+| December 26, 2022 | 160M | 121M | 844M | 367M | 476M |
+| December 27, 2022 | 160M | 121M | 844M | 367M | 477M |
+| December 28, 2022 | 160M | 121M | 844M | 367M | 477M |
+| December 29, 2022 | 160M | 121M | 844M | 367M | 477M |
+| December 30, 2022 | 160M | 121M | 844M | 367M | 477M |
+| December 31, 2022 | 160M | 121M | 844M | 367M | 477M |
+| January 1, 2023 | 160M | 121M | 844M | 368M | 478M |
+| January 2, 2023 | 160M | 121M | 844M | 368M | 478M |
+| January 3, 2023 | 160M | 121M | 844M | 368M | 478M |
+| January 4, 2023 | 160M | 121M | 844M | 368M | 478M |
+| January 5, 2023 | 160M | 121M | 844M | 368M | 479M |
+| January 6, 2023 | 160M | 121M | 844M | 368M | 479M |
+| January 7, 2023 | 160M | 121M | 844M | 370M | 479M |
+| January 8, 2023 | 160M | 121M | 844M | 370M | 479M |
+| January 9, 2023 | 160M | 121M | 844M | 370M | 479M |
+| January 10, 2023 | 160M | 121M | 846M | 370M | 480M |
+| January 11, 2023 | 160M | 121M | 846M | 370M | 480M |
+| January 12, 2023 | 160M | 121M | 846M | 370M | 480M |
+| January 13, 2023 | 160M | 121M | 846M | 370M | 480M |
+| January 14, 2023 | 160M | 121M | 851M | 371M | 481M |
+| January 15, 2023 | 160M | 121M | 851M | 371M | 481M |
+| January 16, 2023 | 160M | 121M | 852M | 371M | 481M |
+| January 17, 2023 | 160M | 121M | 852M | 371M | 481M |
+| January 18, 2023 | 158M | 121M | 851M | 371M | 481M |
+| January 19, 2023 | 158M | 121M | 851M | 371M | 482M |
+| January 20, 2023 | 158M | 121M | 848M | 371M | 482M |
+| January 21, 2023 | 158M | 121M | 848M | 371M | 482M |
+| January 22, 2023 | 158M | 121M | 849M | 371M | 482M |
+| January 23, 2023 | 158M | 121M | 849M | 371M | 483M |
+| January 24, 2023 | 158M | 121M | 850M | 371M | 483M |
+| January 25, 2023 | 158M | 121M | 850M | 371M | 483M |
+| January 26, 2023 | 158M | 121M | 850M | 372M | 483M |
+| January 27, 2023 | 158M | 121M | 851M | 372M | 483M |
+| January 28, 2023 | 158M | 121M | 851M | 372M | 484M |
+| January 29, 2023 | 158M | 121M | 851M | 372M | 484M |
+| January 30, 2023 | 158M | 121M | 852M | 372M | 484M |
+| January 31, 2023 | 158M | 121M | 852M | 372M | 484M |
+| February 1, 2023 | 158M | 121M | 852M | 372M | 484M |
+| February 2, 2023 | 158M | 121M | 853M | 372M | 485M |
+| February 3, 2023 | 158M | 121M | 853M | 373M | 485M |
+| February 4, 2023 | 158M | 121M | 854M | 373M | 485M |
+| February 5, 2023 | 158M | 121M | 854M | 373M | 485M |
+| February 6, 2023 | 158M | 121M | 854M | 373M | 486M |
+| February 7, 2023 | 158M | 121M | 855M | 373M | 486M |
+| February 8, 2023 | 158M | 121M | 855M | 374M | 486M |
+| February 9, 2023 | 158M | 121M | 852M | 375M | 486M |
+| February 10, 2023 | 158M | 121M | 852M | 375M | 486M |
+| February 11, 2023 | 158M | 121M | 853M | 375M | 487M |
+| February 12, 2023 | 158M | 121M | 853M | 375M | 487M |
+| February 13, 2023 | 158M | 121M | 858M | 375M | 487M |
+| February 14, 2023 | 158M | 121M | 858M | 376M | 487M |
+| February 15, 2023 | 158M | 120M | 858M | 376M | 488M |
+| February 16, 2023 | 158M | 120M | 859M | 377M | 488M |
+| February 17, 2023 | 158M | 120M | 859M | 378M | 488M |
+| February 18, 2023 | 158M | 120M | 859M | 378M | 488M |
+| February 19, 2023 | 158M | 120M | 860M | 378M | 488M |
+| February 20, 2023 | 158M | 120M | 860M | 378M | 489M |
+| February 21, 2023 | 158M | 120M | 861M | 378M | 489M |
+| February 22, 2023 | 158M | 120M | 861M | 378M | 489M |
+| February 23, 2023 | 158M | 120M | 861M | 378M | 489M |
+| February 24, 2023 | 158M | 120M | 862M | 378M | 490M |
+| February 25, 2023 | 158M | 120M | 862M | 378M | 490M |
+| February 26, 2023 | 158M | 120M | 863M | 378M | 490M |
+| February 27, 2023 | 158M | 120M | 863M | 378M | 490M |
+| February 28, 2023 | 158M | 120M | 863M | 378M | 490M |
+
+### How this was built
+- Cohort: the five projects resolved by exact name in the project registry — Ethereum, Solana, BNB Chain, NEAR Protocol and Uniswap.
+- Window: December 1, 2022 through February 28, 2023, one row per calendar day.
+- Value: each project's own circulating supply (tokens available for trading on the open market, excluding locked, unvested and treasury-held tokens), read as the day's point-in-time balance, with each day's calendar date taken from the data itself so no day is skipped.
+- Coverage: every calendar day in the window returned a value for all five projects, so no day needed a placeholder.

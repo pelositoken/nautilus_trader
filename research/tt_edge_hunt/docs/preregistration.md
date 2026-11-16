@@ -170,4 +170,11 @@ Uncorrelated set: among accepted edges, daily-P&L correlation |rho| < 0.3 on
 HOLDOUT; a pair above that is treated as one edge (keep the higher DSR).
 
 ## Amendments
-(none)
+A1 (2026-11-16, before any full-data BUILD run; data handling, not a rule
+change). The connector states that some exact zeros are left-join defaults
+meaning "no data". For user_dau, tvl and token_supply_circulating an exact 0
+is treated as missing (a live protocol has no zero-user/zero-TVL/zero-supply
+day). Fees and revenue zeros are kept. TT reports no chain-level TVL, so I3's
+own-TVL gates are undefined (no trade) for chains, per §2's eligibility rule;
+agg_raw sums application TVL. RENDER (no fees or revenue) and ONDO (no fees,
+no revenue) leave the universe under §2.

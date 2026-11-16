@@ -1,0 +1,100 @@
+Daily active users (daily) for the five projects, one row per calendar day, September 1 – November 30, 2025.
+
+| Date | Cosmos Hub | Jito | Lido Finance | Pendle | Sei Network |
+|:---|---:|---:|---:|---:|---:|
+| September 1, 2025 | 10.5K | 566K | 316 | 1.83K | 777K |
+| September 2, 2025 | 9.01K | 544K | 368 | 3.06K | 769K |
+| September 3, 2025 | 9.03K | 500K | 389 | 2.34K | 895K |
+| September 4, 2025 | 8.85K | 436K | 285 | 3.18K | 934K |
+| September 5, 2025 | 9.88K | 496K | 348 | 2.81K | 851K |
+| September 6, 2025 | 9.35K | 352K | 311 | 2.98K | 902K |
+| September 7, 2025 | 9.10K | 365K | 319 | 2.32K | 814K |
+| September 8, 2025 | 10.1K | 516K | 337 | 2.49K | 782K |
+| September 9, 2025 | 10.6K | 525K | 314 | 2.56K | 862K |
+| September 10, 2025 | 10.7K | 570K | 400 | 3.23K | 808K |
+| September 11, 2025 | 9.47K | 508K | 424 | 3.89K | 815K |
+| September 12, 2025 | 9.69K | 512K | 395 | 3.98K | 883K |
+| September 13, 2025 | 11.0K | 438K | 465 | 3.01K | 757K |
+| September 14, 2025 | 9.00K | 540K | 401 | 2.80K | 930K |
+| September 15, 2025 | 9.74K | 530K | 365 | 3.02K | 891K |
+| September 16, 2025 | 10.5K | 466K | 345 | 2.91K | 940K |
+| September 17, 2025 | 8.51K | 546K | 355 | 2.85K | 788K |
+| September 18, 2025 | 10.9K | 493K | 345 | 2.98K | 812K |
+| September 19, 2025 | 11.1K | 483K | 316 | 3.07K | 745K |
+| September 20, 2025 | 9.29K | 430K | 322 | 3.16K | 730K |
+| September 21, 2025 | 11.2K | 435K | 345 | 2.76K | 907K |
+| September 22, 2025 | 14.9K | 565K | 348 | 2.63K | 804K |
+| September 23, 2025 | 12.8K | 597K | 280 | 2.88K | 854K |
+| September 24, 2025 | 9.59K | 590K | 349 | 3.62K | 997K |
+| September 25, 2025 | 8.87K | 754K | 323 | 4.22K | 912K |
+| September 26, 2025 | 7.77K | 650K | 346 | 3.80K | 914K |
+| September 27, 2025 | 7.69K | 434K | 334 | 4.06K | 790K |
+| September 28, 2025 | 8.43K | 460K | 406 | 4.91K | 732K |
+| September 29, 2025 | 9.00K | 513K | 336 | 3.75K | 890K |
+| September 30, 2025 | 10.1K | 609K | 388 | 5.55K | 928K |
+| October 1, 2025 | 13.3K | 523K | 381 | 3.65K | 861K |
+| October 2, 2025 | 15.3K | 540K | 386 | 4.49K | 855K |
+| October 3, 2025 | 9.91K | 538K | 376 | 4.24K | 817K |
+| October 4, 2025 | 9.02K | 447K | 395 | 4.33K | 824K |
+| October 5, 2025 | 11.2K | 513K | 430 | 3.16K | 767K |
+| October 6, 2025 | 10.4K | 503K | 395 | 3.10K | 835K |
+| October 7, 2025 | 9.52K | 571K | 361 | 2.54K | 882K |
+| October 8, 2025 | 11.1K | 511K | 404 | 2.91K | 895K |
+| October 9, 2025 | 10.1K | 551K | 332 | 2.96K | 956K |
+| October 10, 2025 | 12.0K | 828K | 359 | 2.64K | 804K |
+| October 11, 2025 | 11.0K | 773K | 511 | 3.10K | 744K |
+| October 12, 2025 | 9.69K | 643K | 522 | 3.02K | 817K |
+| October 13, 2025 | 9.19K | 582K | 447 | 2.41K | 851K |
+| October 14, 2025 | 8.55K | 657K | 345 | 3.31K | 816K |
+| October 15, 2025 | 11.1K | 711K | 327 | 3.17K | 826K |
+| October 16, 2025 | 7.28K | 766K | 339 | 3.18K | 846K |
+| October 17, 2025 | 7.68K | 810K | 342 | 2.85K | 677K |
+| October 18, 2025 | 7.03K | 585K | 391 | 2.27K | 799K |
+| October 19, 2025 | 7.17K | 597K | 334 | 2.25K | 1.00M |
+| October 20, 2025 | 7.72K | 683K | 280 | 3.85K | 988K |
+| October 21, 2025 | 7.36K | 744K | 279 | 2.09K | 926K |
+| October 22, 2025 | 7.77K | 606K | 333 | 2.47K | 919K |
+| October 23, 2025 | 7.95K | 776K | 259 | 2.79K | 918K |
+| October 24, 2025 | 6.91K | 739K | 337 | 3.05K | 965K |
+| October 25, 2025 | 6.93K | 471K | 293 | 1.96K | 936K |
+| October 26, 2025 | 8.71K | 519K | 373 | 1.95K | 943K |
+| October 27, 2025 | 8.80K | 624K | 372 | 2.84K | 928K |
+| October 28, 2025 | 7.49K | 704K | 284 | 2.50K | 849K |
+| October 29, 2025 | 37.5K | 695K | 280 | 2.44K | 759K |
+| October 30, 2025 | 8.06K | 774K | 281 | 2.71K | 700K |
+| October 31, 2025 | 8.84K | 654K | 274 | 1.88K | 826K |
+| November 1, 2025 | 8.60K | 460K | 306 | 1.71K | 866K |
+| November 2, 2025 | 9.11K | 449K | 317 | 1.79K | 769K |
+| November 3, 2025 | 8.89K | 734K | 328 | 2.98K | 660K |
+| November 4, 2025 | 8.86K | 1.05M | 376 | 3.27K | 714K |
+| November 5, 2025 | 7.05K | 761K | 365 | 7.27K | 729K |
+| November 6, 2025 | 6.47K | 709K | 301 | 9.95K | 700K |
+| November 7, 2025 | 8.98K | 802K | 605 | 2.60K | 737K |
+| November 8, 2025 | 8.92K | 521K | 298 | 2.27K | 602K |
+| November 9, 2025 | 7.61K | 594K | 300 | 2.25K | 735K |
+| November 10, 2025 | 9.63K | 685K | 594 | 1.97K | 648K |
+| November 11, 2025 | 6.93K | 764K | 310 | 2.06K | 630K |
+| November 12, 2025 | 6.07K | 754K | 251 | 2.04K | 636K |
+| November 13, 2025 | 6.46K | 742K | 222 | 2.16K | 704K |
+| November 14, 2025 | 6.54K | 774K | 330 | 2.04K | 661K |
+| November 15, 2025 | 5.92K | 597K | 291 | 1.43K | 609K |
+| November 16, 2025 | 6.30K | 625K | 330 | 1.48K | 734K |
+| November 17, 2025 | 7.76K | 738K | 324 | 1.53K | 655K |
+| November 18, 2025 | 6.13K | 720K | 297 | 1.81K | 676K |
+| November 19, 2025 | 6.35K | 647K | 250 | 2.26K | 647K |
+| November 20, 2025 | 9.35K | 726K | 290 | 2.57K | 686K |
+| November 21, 2025 | 8.39K | 854K | 384 | 2.23K | 716K |
+| November 22, 2025 | 6.44K | 572K | 285 | 2.26K | 535K |
+| November 23, 2025 | 6.45K | 556K | 292 | 1.55K | 540K |
+| November 24, 2025 | 6.25K | 681K | 293 | 1.59K | 548K |
+| November 25, 2025 | 7.04K | 674K | 274 | 2.72K | 616K |
+| November 26, 2025 | 6.36K | 663K | 302 | 2.07K | 802K |
+| November 27, 2025 | 5.88K | 579K | 236 | 1.95K | 531K |
+| November 28, 2025 | 5.85K | 644K | 272 | 2.41K | 499K |
+| November 29, 2025 | 5.40K | 459K | 185 | 1.97K | 439K |
+| November 30, 2025 | 7.18K | 513K | 248 | 1.32K | 465K |
+
+### How this was built
+- Each cell is the project's daily active users over a fixed 24-hour window for that calendar day; the value is unitless.
+- The five named projects resolved to Sei Network, Lido Finance, Cosmos Hub, Pendle and Jito.
+- The window runs 2025-09-01 to 2025-11-30, one row per day with the projects as columns; a day with no observed value appears as a dash.
