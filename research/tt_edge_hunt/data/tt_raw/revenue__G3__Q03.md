@@ -1,0 +1,101 @@
+Daily revenue, 2022-12-01 to 2023-02-28 (one row per calendar day):
+
+| Date | Aave | Injective | Filecoin | Ondo Finance | Arbitrum One |
+|:---|---:|---:|---:|:---|---:|
+| December 1, 2022 | $18.4K | $0 | $125K | — | $24.6K |
+| December 2, 2022 | $18.1K | $0 | $84.9K | — | $24.2K |
+| December 3, 2022 | $17.3K | $0 | $21.1K | — | $21.7K |
+| December 4, 2022 | $17.4K | $0 | $21.9K | — | $23.9K |
+| December 5, 2022 | $18.2K | $0 | $28.5K | — | $24.2K |
+| December 6, 2022 | $18.2K | $0 | $18.3K | — | $28.0K |
+| December 7, 2022 | $18.0K | $6.40K | $18.8K | — | $24.1K |
+| December 8, 2022 | $18.3K | $0 | $12.9K | — | $25.3K |
+| December 9, 2022 | $17.4K | $0 | $27.8K | — | $32.1K |
+| December 10, 2022 | $18.1K | $0 | $18.3K | — | $19.0K |
+| December 11, 2022 | $18.2K | $0 | $117K | — | $19.1K |
+| December 12, 2022 | $22.4K | $0 | $92.2K | — | $29.6K |
+| December 13, 2022 | $18.6K | $0 | $12.5K | — | $38.2K |
+| December 14, 2022 | $18.3K | $6.34K | $53.8K | — | $32.6K |
+| December 15, 2022 | $20.2K | $0 | $73.9K | — | $34.6K |
+| December 16, 2022 | $19.9K | $0 | $50.1K | — | $34.3K |
+| December 17, 2022 | $17.0K | $0 | $34.0K | — | $21.4K |
+| December 18, 2022 | $19.5K | $0 | $8.59K | — | $19.1K |
+| December 19, 2022 | $23.9K | $0 | $11.9K | — | $20.5K |
+| December 20, 2022 | $22.9K | $0 | $2.55K | — | $26.4K |
+| December 21, 2022 | $23.5K | $5.28K | $8.30K | — | $25.2K |
+| December 22, 2022 | $22.1K | $0 | $23.9K | — | $23.3K |
+| December 23, 2022 | $22.1K | $0 | $18.9K | — | $21.5K |
+| December 24, 2022 | $21.6K | $0 | $10.1K | — | $22.5K |
+| December 25, 2022 | $21.3K | $0 | $9.21K | — | $18.7K |
+| December 26, 2022 | $22.0K | $0 | $9.53K | — | $17.4K |
+| December 27, 2022 | $21.2K | $0 | $7.65K | — | $19.1K |
+| December 28, 2022 | $21.2K | $3.36K | $11.4K | — | $20.5K |
+| December 29, 2022 | $20.8K | $0 | $10.3K | — | $18.8K |
+| December 30, 2022 | $20.1K | $0 | $298K | — | $25.0K |
+| December 31, 2022 | $20.6K | $0 | $62.3K | — | $18.3K |
+| January 1, 2023 | $20.2K | $0 | $11.2K | — | $12.3K |
+| January 2, 2023 | $33.3K | $0 | $11.2K | — | $17.4K |
+| January 3, 2023 | $21.7K | $0 | $18.8K | — | $26.0K |
+| January 4, 2023 | $72.8K | $2.67K | $16.5K | — | $33.9K |
+| January 5, 2023 | $20.8K | $0 | $57.5K | — | $24.8K |
+| January 6, 2023 | $22.9K | $0 | $65.6K | — | $26.7K |
+| January 7, 2023 | $21.2K | $0 | $32.6K | — | $19.2K |
+| January 8, 2023 | $21.1K | $0 | $24.9K | — | $21.9K |
+| January 9, 2023 | $22.4K | $0 | $80.8K | — | $36.2K |
+| January 10, 2023 | $22.3K | $0 | $453K | — | $33.2K |
+| January 11, 2023 | $31.4K | $3.36K | $186K | — | $37.3K |
+| January 12, 2023 | $46.3K | $0 | $54.7K | — | $42.2K |
+| January 13, 2023 | $23.4K | $0 | $56.1K | — | $40.3K |
+| January 14, 2023 | $36.0K | $0 | $57.8K | — | $52.9K |
+| January 15, 2023 | $23.9K | $0 | $33.0K | — | $36.6K |
+| January 16, 2023 | $23.9K | $0 | $38.1K | — | $39.9K |
+| January 17, 2023 | $23.8K | $0 | $36.9K | — | $40.1K |
+| January 18, 2023 | $24.3K | $4.30K | $37.2K | — | $50.5K |
+| January 19, 2023 | $24.3K | $0 | $34.8K | — | $33.1K |
+| January 20, 2023 | $26.3K | $0 | $23.7K | — | $40.1K |
+| January 21, 2023 | $24.2K | $0 | $16.1K | — | $35.6K |
+| January 22, 2023 | $24.0K | $0 | $14.6K | — | $32.1K |
+| January 23, 2023 | $24.8K | $0 | $14.3K | — | $39.4K |
+| January 24, 2023 | $23.8K | $0 | $14.9K | — | $38.8K |
+| January 25, 2023 | $24.9K | $10.2K | $12.8K | — | $45.4K |
+| January 26, 2023 | $23.9K | $0 | $14.6K | — | $50.1K |
+| January 27, 2023 | $25.0K | $0 | $16.9K | — | $54.5K |
+| January 28, 2023 | $24.7K | $0 | $11.1K | — | $35.4K |
+| January 29, 2023 | $23.8K | $0 | $11.7K | — | $48.1K |
+| January 30, 2023 | $24.9K | $0 | $9.85K | — | $51.2K |
+| January 31, 2023 | $23.5K | $0 | $17.0K | — | $52.2K |
+| February 1, 2023 | $26.6K | $7.81K | $11.6K | — | $67.4K |
+| February 2, 2023 | $29.4K | $0 | $41.3K | — | $72.6K |
+| February 3, 2023 | $24.8K | $0 | $12.7K | — | $66.1K |
+| February 4, 2023 | $25.7K | $0 | $9.87K | — | $58.9K |
+| February 5, 2023 | $25.6K | $0 | $10.1K | — | $58.1K |
+| February 6, 2023 | $27.8K | $0 | $53.3K | — | $68.3K |
+| February 7, 2023 | $26.3K | $0 | $68.5K | — | $91.9K |
+| February 8, 2023 | $26.4K | $7.71K | $18.2K | — | $99.7K |
+| February 9, 2023 | $26.8K | $0 | $36.0K | — | $95.8K |
+| February 10, 2023 | $24.9K | $0 | $14.9K | — | $69.8K |
+| February 11, 2023 | $24.7K | $0 | $9.73K | — | $45.2K |
+| February 12, 2023 | $24.1K | $0 | $7.66K | — | $48.9K |
+| February 13, 2023 | $26.8K | $0 | $7.81K | — | $68.1K |
+| February 14, 2023 | $26.1K | $0 | $10.3K | — | $89.2K |
+| February 15, 2023 | $28.0K | $9.42K | $22.2K | — | $115K |
+| February 16, 2023 | $27.9K | $0 | $15.6K | — | $134K |
+| February 17, 2023 | $26.0K | $0 | $89.8K | — | $133K |
+| February 18, 2023 | $27.3K | $0 | $27.9K | — | $106K |
+| February 19, 2023 | $26.5K | $0 | $10.6K | — | $108K |
+| February 20, 2023 | $26.0K | $0 | $37.3K | — | $156K |
+| February 21, 2023 | $27.0K | $0 | $103K | — | $187K |
+| February 22, 2023 | $26.6K | $11.5K | $91.9K | — | $295K |
+| February 23, 2023 | $26.6K | $0 | $115K | — | $177K |
+| February 24, 2023 | $27.0K | $0 | $134K | — | $127K |
+| February 25, 2023 | $26.5K | $0 | $18.8K | — | $82.8K |
+| February 26, 2023 | $24.2K | $0 | $8.88K | — | $77.0K |
+| February 27, 2023 | $26.2K | $0 | $56.1K | — | $113K |
+| February 28, 2023 | $25.0K | $0 | $118K | — | $99.0K |
+
+### How this was built
+- Cohort: the five named projects — Aave, Injective, Filecoin, Ondo Finance, and Arbitrum One — resolved from the project registry.
+- Window: 2022-12-01 through 2023-02-28, one row per calendar day (90 days), with no gaps.
+- Values: each project's revenue (fee revenue it retains after supply-side payouts) summed per project per day.
+- Ondo Finance: no revenue value was returned on any day in this window; its cells carry no data.
+- Injective: revenue is returned as $0 on the days its cells show $0.

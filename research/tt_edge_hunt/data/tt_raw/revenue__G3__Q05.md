@@ -1,0 +1,103 @@
+| Date | Aave | Injective | Filecoin | Arbitrum One |
+|:---|---:|---:|---:|---:|
+| June 1, 2023 | $36.0K | $0 | $85.3K | $184K |
+| June 2, 2023 | $37.0K | $0 | $118K | $181K |
+| June 3, 2023 | $35.0K | $0 | $113K | $206K |
+| June 4, 2023 | $35.0K | $0 | $82.0K | $138K |
+| June 5, 2023 | $42.7K | $0 | $60.5K | $226K |
+| June 6, 2023 | $36.4K | $0 | $78.0K | $172K |
+| June 7, 2023 | $39.8K | $19.0K | $66.6K | $131K |
+| June 8, 2023 | $33.9K | $0 | $72.1K | $132K |
+| June 9, 2023 | $36.2K | $0 | $109K | $128K |
+| June 10, 2023 | $62.0K | $0 | $69.9K | $177K |
+| June 11, 2023 | $32.8K | $0 | $57.9K | $113K |
+| June 12, 2023 | $33.6K | $0 | $95.5K | $142K |
+| June 13, 2023 | $33.3K | $0 | $147K | $120K |
+| June 14, 2023 | $35.9K | $26.7K | $152K | $139K |
+| June 15, 2023 | $37.3K | $0 | $152K | $119K |
+| June 16, 2023 | $35.1K | $0 | $166K | $121K |
+| June 17, 2023 | $37.0K | $0 | $141K | $102K |
+| June 18, 2023 | $31.3K | $0 | $111K | $86.9K |
+| June 19, 2023 | $33.7K | $0 | $103K | $113K |
+| June 20, 2023 | $34.0K | $0 | $110K | $131K |
+| June 21, 2023 | $33.7K | $24.3K | $141K | $236K |
+| June 22, 2023 | $51.8K | $0 | $158K | $122K |
+| June 23, 2023 | $34.6K | $0 | $127K | $127K |
+| June 24, 2023 | $41.0K | $0 | $78.6K | $92.3K |
+| June 25, 2023 | $36.8K | $0 | $112K | $104K |
+| June 26, 2023 | $35.9K | $0 | $117K | $119K |
+| June 27, 2023 | $36.5K | $0 | $142K | $139K |
+| June 28, 2023 | $34.1K | $45.3K | $142K | $143K |
+| June 29, 2023 | $33.8K | $0 | $274K | $195K |
+| June 30, 2023 | $42.0K | $0 | $335K | $244K |
+| July 1, 2023 | $37.1K | $0 | $133K | $112K |
+| July 2, 2023 | $36.1K | $0 | $102K | $111K |
+| July 3, 2023 | $36.7K | $0 | $184K | $152K |
+| July 4, 2023 | $35.7K | $0 | $163K | $151K |
+| July 5, 2023 | $31.4K | $34.3K | $128K | $224K |
+| July 6, 2023 | $32.8K | $0 | $83.6K | $191K |
+| July 7, 2023 | $31.7K | $0 | $91.8K | $161K |
+| July 8, 2023 | $30.8K | $0 | $22.9K | $116K |
+| July 9, 2023 | $33.0K | $0 | $18.5K | $107K |
+| July 10, 2023 | $43.7K | $0 | $16.0K | $138K |
+| July 11, 2023 | $43.9K | $0 | $34.0K | $134K |
+| July 12, 2023 | $45.0K | $26.5K | $89.6K | $152K |
+| July 13, 2023 | $52.9K | $0 | $76.3K | $223K |
+| July 14, 2023 | $52.4K | $0 | $56.1K | $185K |
+| July 15, 2023 | $42.4K | $0 | $69.7K | $102K |
+| July 16, 2023 | $46.8K | $0 | $19.4K | $103K |
+| July 17, 2023 | $43.4K | $0 | $24.2K | $142K |
+| July 18, 2023 | $43.3K | $0 | $50.6K | $162K |
+| July 19, 2023 | $44.9K | $24.2K | $74.7K | $146K |
+| July 20, 2023 | $47.8K | $0 | $32.2K | $150K |
+| July 21, 2023 | $43.9K | $0 | $39.1K | $140K |
+| July 22, 2023 | $42.7K | $0 | $15.1K | $102K |
+| July 23, 2023 | $41.3K | $0 | $9.95K | $109K |
+| July 24, 2023 | $50.8K | $0 | $5.94K | $155K |
+| July 25, 2023 | $39.7K | $0 | $20.0K | $137K |
+| July 26, 2023 | $45.5K | $44.1K | $12.3K | $135K |
+| July 27, 2023 | $40.8K | $0 | $27.5K | $144K |
+| July 28, 2023 | $41.4K | $0 | $35.7K | $143K |
+| July 29, 2023 | $44.3K | $0 | $47.8K | $97.1K |
+| July 30, 2023 | $68.3K | $0 | $5.33K | $99.4K |
+| July 31, 2023 | $132K | $0 | $3.77K | $125K |
+| August 1, 2023 | $107K | $0 | $4.18K | $122K |
+| August 2, 2023 | $82.6K | $21.7K | $23.1K | $117K |
+| August 3, 2023 | $81.1K | $0 | $32.4K | $121K |
+| August 4, 2023 | $64.6K | $0 | $39.6K | $108K |
+| August 5, 2023 | $63.0K | $0 | $56.9K | $84.0K |
+| August 6, 2023 | $57.9K | $0 | $35.6K | $81.2K |
+| August 7, 2023 | $56.4K | $0 | $45.3K | $130K |
+| August 8, 2023 | $55.2K | $0 | $49.0K | $131K |
+| August 9, 2023 | $60.4K | $17.4K | $39.7K | $120K |
+| August 10, 2023 | $56.9K | $0 | $39.8K | $115K |
+| August 11, 2023 | $81.3K | $0 | $61.7K | $99.1K |
+| August 12, 2023 | $60.7K | $0 | $42.0K | $68.8K |
+| August 13, 2023 | $44.7K | $0 | $19.0K | $75.8K |
+| August 14, 2023 | $60.6K | $0 | $51.0K | $102K |
+| August 15, 2023 | $61.1K | $0 | $23.0K | $127K |
+| August 16, 2023 | $51.9K | $31.1K | $39.5K | $131K |
+| August 17, 2023 | $117K | $0 | $59.8K | $346K |
+| August 18, 2023 | $44.5K | $0 | $84.6K | $115K |
+| August 19, 2023 | $43.8K | $0 | $52.5K | $81.4K |
+| August 20, 2023 | $44.0K | $0 | $20.9K | $76.1K |
+| August 21, 2023 | $38.4K | $0 | $32.0K | $94.4K |
+| August 22, 2023 | $45.7K | $0 | $84.3K | $124K |
+| August 23, 2023 | $39.3K | $21.7K | $36.9K | $99.7K |
+| August 24, 2023 | $42.9K | $0 | $12.5K | $85.4K |
+| August 25, 2023 | $35.0K | $0 | $8.66K | $157K |
+| August 26, 2023 | $38.9K | $0 | $2.62K | $65.9K |
+| August 27, 2023 | $39.9K | $0 | $1.94K | $53.5K |
+| August 28, 2023 | $42.8K | $0 | $2.21K | $86.2K |
+| August 29, 2023 | $54.6K | $0 | $2.99K | $155K |
+| August 30, 2023 | $43.7K | $35.1K | $3.68K | $87.6K |
+| August 31, 2023 | $53.1K | $0 | $2.39K | $105K |
+
+### How this was built
+- Cohort: the named entities that resolve to a tracked project or chain with revenue data — Aave, Injective, Filecoin and Arbitrum One (the last read on its own project row). Ondo Finance is excluded because no revenue data is tracked for it.
+- Window: daily, June 1 through August 31, 2023, one unaggregated row per calendar day per project.
+- Values: each project's daily revenue in USD, from its project-level revenue series.
+- Every calendar day in the range has an observed value for each of the four projects, so no day needed a gap marker.
+- Reported zeros (Injective on many days) are measured zeros, not missing observations.
+
+_Token Terminal doesn't track Ondo Finance's revenue._
