@@ -1,0 +1,100 @@
+| Date | Polygon | PancakeSwap | OP Mainnet | Raydium | Ether.fi |
+|:---|---:|---:|---:|---:|---:|
+| September 1, 2023 | $50.7K | $201K | $517K | $5.59K | $2.89K |
+| September 2, 2023 | $40.3K | $164K | $33.3K | $5.05K | $2.65K |
+| September 3, 2023 | $40.0K | $189K | $27.7K | $3.06K | $2.51K |
+| September 4, 2023 | $55.3K | $248K | $39.1K | $4.84K | $2.71K |
+| September 5, 2023 | $49.2K | $195K | $46.6K | $5.52K | $3.09K |
+| September 6, 2023 | $66.0K | $270K | $55.3K | $4.61K | $3.28K |
+| September 7, 2023 | $68.7K | $183K | $51.6K | $3.61K | $3.23K |
+| September 8, 2023 | $60.1K | $208K | $40.3K | $4.12K | $3.03K |
+| September 9, 2023 | $41.4K | $169K | $31.7K | $2.81K | $3.13K |
+| September 10, 2023 | $47.6K | $171K | $33.9K | $5.38K | $2.76K |
+| September 11, 2023 | $57.9K | $230K | $98.8K | $6.20K | $2.70K |
+| September 12, 2023 | $58.4K | $231K | $62.3K | $5.72K | $3.30K |
+| September 13, 2023 | $54.4K | $229K | $47.1K | $7.51K | $2.97K |
+| September 14, 2023 | $54.1K | $201K | $45.7K | $6.53K | $2.80K |
+| September 15, 2023 | $43.6K | $230K | $129K | $4.49K | $2.95K |
+| September 16, 2023 | $39.3K | $185K | $134K | $4.18K | $2.82K |
+| September 17, 2023 | $37.0K | $157K | $86.6K | $4.13K | $2.63K |
+| September 18, 2023 | $41.1K | $193K | $92.3K | $6.09K | $2.79K |
+| September 19, 2023 | $38.6K | $189K | $61.5K | $4.74K | $2.99K |
+| September 20, 2023 | $40.8K | $179K | $56.7K | $5.26K | $3.00K |
+| September 21, 2023 | $37.6K | $170K | $94.5K | $5.03K | $2.90K |
+| September 22, 2023 | $33.7K | $190K | $54.0K | $4.46K | $2.81K |
+| September 23, 2023 | $31.6K | $129K | $45.7K | $3.17K | $2.63K |
+| September 24, 2023 | $29.1K | $127K | $41.8K | $4.14K | $2.64K |
+| September 25, 2023 | $36.4K | $151K | $81.8K | $3.74K | $2.59K |
+| September 26, 2023 | $30.4K | $236K | $75.3K | $3.39K | $2.96K |
+| September 27, 2023 | $30.8K | $199K | $52.9K | $4.06K | $2.82K |
+| September 28, 2023 | $30.7K | $187K | $58.3K | $3.78K | $2.85K |
+| September 29, 2023 | $27.3K | $162K | $49.0K | $6.88K | $2.87K |
+| September 30, 2023 | $29.3K | $190K | $39.9K | $6.91K | $2.85K |
+| October 1, 2023 | $36.8K | $170K | $43.0K | $10.6K | $2.84K |
+| October 2, 2023 | $71.5K | $229K | $53.3K | $11.7K | $2.98K |
+| October 3, 2023 | $55.1K | $185K | $35.5K | $23.6K | $3.17K |
+| October 4, 2023 | $41.4K | $189K | $35.0K | $14.1K | $3.13K |
+| October 5, 2023 | $30.5K | $154K | $30.2K | $7.35K | $2.77K |
+| October 6, 2023 | $35.8K | $187K | $30.2K | $11.5K | $2.83K |
+| October 7, 2023 | $30.7K | $124K | $21.3K | $4.32K | $2.82K |
+| October 8, 2023 | $28.0K | $141K | $23.4K | $5.82K | $2.76K |
+| October 9, 2023 | $31.7K | $214K | $52.8K | $6.92K | $2.60K |
+| October 10, 2023 | $28.1K | $283K | $42.2K | $5.47K | $2.62K |
+| October 11, 2023 | $48.3K | $267K | $33.8K | $13.0K | $2.62K |
+| October 12, 2023 | $40.7K | $189K | $34.1K | $5.67K | $2.61K |
+| October 13, 2023 | $41.2K | $180K | $28.9K | $5.49K | $2.72K |
+| October 14, 2023 | $24.7K | $136K | $17.2K | $3.74K | $2.68K |
+| October 15, 2023 | $23.0K | $143K | $18.1K | $3.51K | $2.48K |
+| October 16, 2023 | $49.9K | $236K | $53.6K | $11.6K | $2.69K |
+| October 17, 2023 | $35.3K | $170K | $29.1K | $6.70K | $3.07K |
+| October 18, 2023 | $27.2K | $169K | $25.2K | $5.26K | $3.47K |
+| October 19, 2023 | $29.8K | $302K | $25.0K | $8.32K | $2.70K |
+| October 20, 2023 | $32.8K | $200K | $36.3K | $11.7K | $3.01K |
+| October 21, 2023 | $39.9K | $163K | $33.4K | $11.0K | $3.02K |
+| October 22, 2023 | $46.6K | $183K | $27.0K | $8.79K | $2.82K |
+| October 23, 2023 | $83.5K | $338K | $160K | $16.6K | $3.05K |
+| October 24, 2023 | $68.5K | $338K | $109K | $16.9K | $3.63K |
+| October 25, 2023 | $50.9K | $248K | $81.4K | $24.8K | $3.15K |
+| October 26, 2023 | $53.9K | $246K | $72.2K | $14.7K | $3.47K |
+| October 27, 2023 | $47.0K | $316K | $172K | $11.6K | $3.31K |
+| October 28, 2023 | $33.5K | $179K | $38.8K | $7.25K | $3.77K |
+| October 29, 2023 | $37.8K | $214K | $35.7K | $7.90K | $3.04K |
+| October 30, 2023 | $42.1K | $224K | $47.1K | $15.2K | $3.12K |
+| October 31, 2023 | $45.4K | $234K | $68.5K | $25.2K | $3.40K |
+| November 1, 2023 | $51.8K | $507K | $70.0K | $107K | $3.40K |
+| November 2, 2023 | $52.7K | $369K | $71.5K | $72.0K | $3.34K |
+| November 3, 2023 | $46.9K | $357K | $56.9K | $36.8K | $3.13K |
+| November 4, 2023 | $36.7K | $308K | $45.5K | $26.7K | $3.18K |
+| November 5, 2023 | $38.6K | $429K | $64.0K | $20.2K | $3.07K |
+| November 6, 2023 | $68.4K | $426K | $169K | $16.9K | $3.32K |
+| November 7, 2023 | $102K | $371K | $117K | $23.9K | $3.27K |
+| November 8, 2023 | $120K | $331K | $111K | $23.2K | $3.41K |
+| November 9, 2023 | $162K | $541K | $265K | $73.3K | $471 |
+| November 10, 2023 | $134K | $371K | $126K | $106K | $4.50K |
+| November 11, 2023 | $71.4K | $400K | $101K | $126K | $3.72K |
+| November 12, 2023 | $69.0K | $285K | $85.8K | $81.1K | $3.55K |
+| November 13, 2023 | $89.0K | $390K | $142K | $85.8K | $3.69K |
+| November 14, 2023 | $120K | $366K | $114K | $72.8K | $4.03K |
+| November 15, 2023 | $113K | $446K | $101K | $85.5K | $3.90K |
+| November 16, 2023 | $939K | $417K | $123K | $85.0K | $3.63K |
+| November 17, 2023 | $250K | $363K | $107K | $64.6K | $3.43K |
+| November 18, 2023 | $37.9K | $275K | $62.9K | $52.2K | $3.59K |
+| November 19, 2023 | $37.4K | $256K | $58.9K | $72.3K | $3.40K |
+| November 20, 2023 | $47.1K | $455K | $213K | $160K | $3.61K |
+| November 21, 2023 | $44.3K | $664K | $167K | $107K | $3.90K |
+| November 22, 2023 | $44.4K | $381K | $131K | $108K | $4.70K |
+| November 23, 2023 | $93.5K | $268K | $94.4K | $86.5K | $4.56K |
+| November 24, 2023 | $317K | $268K | $88.3K | $101K | $4.15K |
+| November 25, 2023 | $61.5K | $236K | $56.9K | $104K | $4.13K |
+| November 26, 2023 | $64.3K | $252K | $62.4K | $130K | $3.85K |
+| November 27, 2023 | $40.2K | $297K | $75.8K | $102K | $4.37K |
+| November 28, 2023 | $60.0K | $304K | $84.3K | $103K | $4.82K |
+| November 29, 2023 | $81.1K | $258K | $79.9K | $84.8K | $5.27K |
+| November 30, 2023 | $202K | $245K | $105K | $98.7K | $5.50K |
+
+### How this was built
+- Daily fees are gross fees paid by users, in USD, one value per calendar day per entity, with no aggregation across days.
+- Polygon and OP Mainnet are read as their own chain projects; PancakeSwap, Raydium and Ether.fi are read as projects.
+- Window: September 1 through November 30, 2023, one row per calendar day in that range.
+- Every calendar day in the range carries a value for all five entities, so no day needed a "-" placeholder.
+- The metric definition is available on request.

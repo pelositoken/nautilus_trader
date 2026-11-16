@@ -1,0 +1,33 @@
+fees,G3,Q01,FAILED,fetch failed
+fees,G4,Q01,FAILED,fetch failed
+fees,G2,Q01,FAILED,fetch failed
+fees,G1,Q01,FAILED,fetch failed
+fees,G5,Q01,FAILED,fetch failed
+fees,G6,Q01,FAILED,fetch failed
+revenue,G5,Q01,FAILED,timeout after 60s / fetch failed / fetch failed
+fees,G3,Q10,FAILED,fetch failed
+revenue,G2,Q01,FAILED,timeout / fetch failed x3
+revenue,G3,Q01,FAILED,timeout 60s; fetch failed; fetch failed
+fees,G2,Q11,FAILED,timeout / fetch failed
+fees,G1,Q08,FAILED,timed out x2; fetch failed
+revenue,G4,Q02,FAILED,fetch failed
+revenue,G6,Q01,FAILED,timeout 60s; fetch failed; fetch failed
+revenue,G1,Q02,FAILED,fetch failed
+fees,G5,Q10,FAILED,timeout / fetch failed
+fees,G6,Q11,FAILED,fetch failed
+revenue,G5,Q02,FAILED,fetch failed
+fees,G3,Q11,FAILED,fetch failed
+fees,G2,Q12,FAILED,fetch failed
+fees,G6,Q12,FAILED,fetch failed
+revenue,G6,Q02,FAILED,fetch failed x3
+revenue,G4,Q03,FAILED,fetch failed
+fees,G1,Q10,FAILED,fetch failed
+revenue,G5,Q03,FAILED,fetch failed
+revenue,G2,Q02,FAILED,fetch failed x3
+fees,G5,Q12,FAILED,fetch failed
+fees,G6,Q13,FAILED,fetch failed
+fees,G3,Q12,FAILED,fetch failed
+fees,G2,Q13,FAILED,fetch failed
+revenue,G1,Q04,FAILED,fetch failed
+revenue,G3,Q03,FAILED,fetch failed x3
+revenue,G4,Q04,FAILED,fetch failed
