@@ -1,0 +1,100 @@
+Daily fees for the five projects, 2024-12-01 to 2025-02-28 (USD):
+
+| Date | BNB Chain | Ethereum | NEAR Protocol | Solana | Uniswap |
+|:---|---:|---:|---:|---:|---:|
+| December 1, 2024 | $607K | $6.48M | $32.7K | $4.64M | $4.58M |
+| December 2, 2024 | $614K | $12.0M | $35.7K | $4.83M | $6.32M |
+| December 3, 2024 | $752K | $12.1M | $35.4K | $5.01M | $6.69M |
+| December 4, 2024 | $1.15M | $12.3M | $36.2K | $4.46M | $6.86M |
+| December 5, 2024 | $748K | $11.0M | $37.9K | $4.43M | $6.74M |
+| December 6, 2024 | $644K | $10.9M | $38.7K | $4.35M | $6.03M |
+| December 7, 2024 | $616K | $6.80M | $30.2K | $3.54M | $3.43M |
+| December 8, 2024 | $535K | $5.39M | $45.7K | $3.45M | $3.31M |
+| December 9, 2024 | $755K | $12.8M | $38.8K | $3.99M | $7.89M |
+| December 10, 2024 | $747K | $11.8M | $36.5K | $4.53M | $6.33M |
+| December 11, 2024 | $614K | $9.13M | $36.1K | $5.03M | $4.52M |
+| December 12, 2024 | $794K | $9.92M | $39.0K | $4.97M | $5.04M |
+| December 13, 2024 | $722K | $7.61M | $40.9K | $4.91M | $3.89M |
+| December 14, 2024 | $544K | $4.77M | $38.2K | $4.05M | $3.26M |
+| December 15, 2024 | $500K | $4.59M | $37.9K | $3.30M | $3.26M |
+| December 16, 2024 | $755K | $8.50M | $35.0K | $3.76M | $4.77M |
+| December 17, 2024 | $619K | $8.14M | $35.0K | $5.65M | $3.95M |
+| December 18, 2024 | $748K | $8.29M | $31.1K | $4.31M | $5.70M |
+| December 19, 2024 | $707K | $9.46M | $28.1K | $3.98M | $6.04M |
+| December 20, 2024 | $734K | $9.07M | $20.8K | $4.44M | $6.49M |
+| December 21, 2024 | $481K | $3.75M | $26.1K | $3.49M | $3.52M |
+| December 22, 2024 | $429K | $3.00M | $28.7K | $3.09M | $2.80M |
+| December 23, 2024 | $528K | $4.54M | $27.5K | $3.29M | $4.29M |
+| December 24, 2024 | $503K | $3.42M | $28.1K | $2.86M | $3.11M |
+| December 25, 2024 | $466K | $2.66M | $29.9K | $2.30M | $2.60M |
+| December 26, 2024 | $519K | $3.27M | $27.7K | $3.48M | $2.83M |
+| December 27, 2024 | $507K | $3.04M | $26.2K | $3.20M | $3.44M |
+| December 28, 2024 | $436K | $2.52M | $29.1K | $2.99M | $2.87M |
+| December 29, 2024 | $432K | $2.31M | $26.8K | $3.22M | $2.77M |
+| December 30, 2024 | $480K | $3.48M | $26.1K | $3.13M | $3.92M |
+| December 31, 2024 | $459K | $4.84M | $24.5K | $3.09M | $4.36M |
+| January 1, 2025 | $400K | $7.55M | $25.6K | $3.22M | $3.73M |
+| January 2, 2025 | $470K | $9.10M | $28.0K | $4.53M | $5.03M |
+| January 3, 2025 | $540K | $5.62M | $24.9K | $5.53M | $4.87M |
+| January 4, 2025 | $400K | $4.63M | $24.5K | $4.47M | $3.69M |
+| January 5, 2025 | $422K | $3.76M | $24.9K | $4.88M | $3.49M |
+| January 6, 2025 | $475K | $7.13M | $26.3K | $5.11M | $4.63M |
+| January 7, 2025 | $697K | $4.89M | $22.9K | $5.39M | $4.51M |
+| January 8, 2025 | $608K | $4.23M | $21.8K | $5.31M | $4.38M |
+| January 9, 2025 | $527K | $3.67M | $21.0K | $4.55M | $4.09M |
+| January 10, 2025 | $608K | $3.14M | $21.1K | $4.32M | $4.09M |
+| January 11, 2025 | $385K | $1.66M | $21.5K | $4.30M | $2.24M |
+| January 12, 2025 | $355K | $1.43M | $21.7K | $4.61M | $1.98M |
+| January 13, 2025 | $558K | $3.65M | $19.6K | $3.52M | $4.59M |
+| January 14, 2025 | $424K | $3.10M | $21.4K | $4.25M | $3.46M |
+| January 15, 2025 | $501K | $4.16M | $22.8K | $4.28M | $4.81M |
+| January 16, 2025 | $512K | $3.42M | $22.9K | $4.66M | $3.85M |
+| January 17, 2025 | $566K | $4.25M | $24.6K | $4.71M | $4.10M |
+| January 18, 2025 | $523K | $6.68M | $23.2K | $12.6M | $5.24M |
+| January 19, 2025 | $642K | $15.8M | $25.2K | $31.3M | $7.38M |
+| January 20, 2025 | $662K | $14.6M | $29.1K | $24.0M | $7.74M |
+| January 21, 2025 | $458K | $6.27M | $31.6K | $11.9M | $5.03M |
+| January 22, 2025 | $407K | $4.22M | $30.5K | $10.0M | $3.50M |
+| January 23, 2025 | $818K | $5.24M | $29.9K | $14.7M | $6.29M |
+| January 24, 2025 | $425K | $4.62M | $28.2K | $11.6M | $4.08M |
+| January 25, 2025 | $353K | $2.63M | $24.0K | $9.35M | $3.08M |
+| January 26, 2025 | $344K | $2.40M | $23.0K | $8.73M | $3.52M |
+| January 27, 2025 | $485K | $4.38M | $23.1K | $9.10M | $5.84M |
+| January 28, 2025 | $366K | $2.59M | $20.8K | $7.07M | $3.79M |
+| January 29, 2025 | $321K | $1.86M | $21.3K | $6.98M | $3.30M |
+| January 30, 2025 | $307K | $1.78M | $21.9K | $10.7M | $2.87M |
+| January 31, 2025 | $319K | $2.43M | $21.5K | $7.75M | $3.85M |
+| February 1, 2025 | $297K | $1.40M | $15.1K | $5.07M | $2.71M |
+| February 2, 2025 | $399K | $3.30M | $9.25K | $3.60M | $4.48M |
+| February 3, 2025 | $655K | $12.7M | $13.5K | $4.40M | $9.56M |
+| February 4, 2025 | $341K | $1.87M | $16.7K | $4.61M | $4.53M |
+| February 5, 2025 | $299K | $1.25M | $16.0K | $4.49M | $2.78M |
+| February 6, 2025 | $695K | $1.32M | $15.4K | $3.45M | $2.99M |
+| February 7, 2025 | $400K | $1.13M | $15.1K | $3.93M | $2.86M |
+| February 8, 2025 | $1.06M | $731K | $16.0K | $3.23M | $1.66M |
+| February 9, 2025 | $1.71M | $839K | $15.8K | $4.84M | $2.10M |
+| February 10, 2025 | $807K | $1.05M | $16.0K | $6.24M | $2.26M |
+| February 11, 2025 | $941K | $1.23M | $16.1K | $5.32M | $2.32M |
+| February 12, 2025 | $2.14M | $1.34M | $17.4K | $4.06M | $3.09M |
+| February 13, 2025 | $5.60M | $1.14M | $17.3K | $3.51M | $2.21M |
+| February 14, 2025 | $2.70M | $938K | $15.4K | $3.76M | $2.16M |
+| February 15, 2025 | $1.35M | $588K | $16.1K | $2.50M | $1.17M |
+| February 16, 2025 | $1.26M | $599K | $16.2K | $2.06M | $1.53M |
+| February 17, 2025 | $978K | $3.93M | $15.8K | $1.99M | $2.59M |
+| February 18, 2025 | $1.16M | $1.09M | $12.6K | $2.04M | $2.81M |
+| February 19, 2025 | $1.21M | $770K | $12.2K | $2.81M | $2.09M |
+| February 20, 2025 | $914K | $838K | $17.8K | $2.07M | $2.45M |
+| February 21, 2025 | $615K | $1.57M | $17.2K | $1.79M | $3.36M |
+| February 22, 2025 | $619K | $799K | $18.4K | $1.52M | $1.64M |
+| February 23, 2025 | $469K | $832K | $17.3K | $1.61M | $1.61M |
+| February 24, 2025 | $629K | $1.05M | $15.1K | $1.44M | $3.09M |
+| February 25, 2025 | $617K | $2.09M | $14.8K | $1.41M | $4.40M |
+| February 26, 2025 | $498K | $1.08M | $15.6K | $1.15M | $2.90M |
+| February 27, 2025 | $532K | $692K | $15.1K | $1.17M | $1.97M |
+| February 28, 2025 | $610K | $1.45M | $14.3K | $1.12M | $3.09M |
+
+### How this was built
+- Window: 2024-12-01 to 2025-02-28, as requested (returned window start 2024-12-01, window end 2025-02-28).
+- Entities: Ethereum, Solana, BNB Chain, NEAR Protocol and Uniswap, each read as its own project row.
+- Measure: gross fees — the total value users pay to use each project's application — summed per calendar day at deployment grain; one row per day per project, no period aggregation. A day with no observed value shows as "−".
+- One day (2024-12-31) appears for four of the five projects; the table renders the full returned set of days and projects.

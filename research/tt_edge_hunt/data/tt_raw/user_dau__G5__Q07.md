@@ -1,0 +1,100 @@
+| Date | Ether.fi | OP Mainnet | PancakeSwap | Polygon | Raydium |
+|:---|---:|---:|---:|---:|---:|
+| December 1, 2023 | 70 | 64.5K | 157K | 427K | 37.8K |
+| December 2, 2023 | 102 | 62.7K | 158K | 371K | 36.1K |
+| December 3, 2023 | 313 | 61.4K | 160K | 342K | 35.6K |
+| December 4, 2023 | 80 | 80.0K | 168K | 360K | 40.7K |
+| December 5, 2023 | 51 | 65.9K | 173K | 355K | 41.0K |
+| December 6, 2023 | 207 | 61.6K | 174K | 373K | 48.0K |
+| December 7, 2023 | 163 | 61.6K | 164K | 365K | 55.5K |
+| December 8, 2023 | 157 | 66.0K | 175K | 335K | 75.1K |
+| December 9, 2023 | 219 | 73.2K | 178K | 398K | 72.8K |
+| December 10, 2023 | 304 | 70.9K | 180K | 372K | 64.3K |
+| December 11, 2023 | 210 | 68.0K | 177K | 368K | 67.0K |
+| December 12, 2023 | 203 | 60.8K | 173K | 383K | 65.6K |
+| December 13, 2023 | 145 | 64.9K | 173K | 377K | 61.8K |
+| December 14, 2023 | 130 | 53.6K | 174K | 416K | 82.3K |
+| December 15, 2023 | 113 | 55.7K | 171K | 415K | 108K |
+| December 16, 2023 | 195 | 56.0K | 161K | 323K | 102K |
+| December 17, 2023 | 634 | 60.4K | 158K | 407K | 97.0K |
+| December 18, 2023 | 958 | 70.0K | 168K | 442K | 106K |
+| December 19, 2023 | 457 | 77.7K | 171K | 502K | 122K |
+| December 20, 2023 | 306 | 66.2K | 165K | 435K | 131K |
+| December 21, 2023 | 537 | 68.0K | 173K | 434K | 160K |
+| December 22, 2023 | 445 | 93.6K | 173K | 420K | 179K |
+| December 23, 2023 | 720 | 89.7K | 169K | 428K | 162K |
+| December 24, 2023 | 692 | 78.3K | 166K | 392K | 165K |
+| December 25, 2023 | 666 | 76.3K | 175K | 405K | 177K |
+| December 26, 2023 | 549 | 82.4K | 196K | 458K | 181K |
+| December 27, 2023 | 342 | 83.5K | 189K | 477K | 164K |
+| December 28, 2023 | 312 | 88.3K | 188K | 462K | 135K |
+| December 29, 2023 | 342 | 71.8K | 172K | 488K | 122K |
+| December 30, 2023 | 393 | 77.8K | 184K | 499K | 122K |
+| December 31, 2023 | 412 | 73.0K | 160K | 509K | 112K |
+| January 1, 2024 | 268 | 74.3K | 157K | 482K | 108K |
+| January 2, 2024 | 321 | 78.7K | 171K | 501K | 135K |
+| January 3, 2024 | 333 | 77.7K | 175K | 519K | 123K |
+| January 4, 2024 | 560 | 71.4K | 177K | 562K | 118K |
+| January 5, 2024 | 918 | 67.5K | 171K | 566K | 114K |
+| January 6, 2024 | 813 | 66.5K | 162K | 572K | 107K |
+| January 7, 2024 | 539 | 60.5K | 151K | 571K | 98.0K |
+| January 8, 2024 | 599 | 62.8K | 167K | 596K | 99.1K |
+| January 9, 2024 | 812 | 65.1K | 162K | 644K | 102K |
+| January 10, 2024 | 787 | 71.1K | 157K | 623K | 96.5K |
+| January 11, 2024 | 922 | 69.7K | 166K | 676K | 103K |
+| January 12, 2024 | 805 | 65.1K | 161K | 624K | 102K |
+| January 13, 2024 | 868 | 68.6K | 155K | 541K | 106K |
+| January 14, 2024 | 731 | 56.6K | 147K | 492K | 120K |
+| January 15, 2024 | 1.25K | 71.5K | 164K | 543K | 124K |
+| January 16, 2024 | 1.03K | 73.3K | 159K | 529K | 131K |
+| January 17, 2024 | 1.15K | 75.2K | 157K | 516K | 131K |
+| January 18, 2024 | 1.21K | 61.3K | 158K | 537K | 142K |
+| January 19, 2024 | 1.34K | 61.0K | 165K | 492K | 131K |
+| January 20, 2024 | 2.05K | 65.8K | 154K | 505K | 145K |
+| January 21, 2024 | 2.35K | 65.5K | 155K | 514K | 139K |
+| January 22, 2024 | 1.70K | 53.6K | 169K | 568K | 130K |
+| January 23, 2024 | 1.56K | 57.3K | 166K | 578K | 121K |
+| January 24, 2024 | 1.98K | 67.5K | 164K | 590K | 123K |
+| January 25, 2024 | 1.49K | 57.8K | 157K | 617K | 125K |
+| January 26, 2024 | 1.78K | 59.4K | 152K | 659K | 218K |
+| January 27, 2024 | 2.74K | 62.5K | 141K | 616K | 187K |
+| January 28, 2024 | 2.36K | 65.7K | 152K | 634K | 177K |
+| January 29, 2024 | 2.18K | 66.6K | 154K | 647K | 183K |
+| January 30, 2024 | 1.45K | 64.4K | 163K | 643K | 169K |
+| January 31, 2024 | 1.96K | 82.6K | 167K | 638K | 199K |
+| February 1, 2024 | 3.51K | 127K | 161K | 621K | 186K |
+| February 2, 2024 | 2.55K | 117K | 156K | 601K | 165K |
+| February 3, 2024 | 2.70K | 107K | 147K | 622K | 134K |
+| February 4, 2024 | 3.18K | 97.3K | 144K | 616K | 132K |
+| February 5, 2024 | 3.17K | 91.0K | 153K | 660K | 142K |
+| February 6, 2024 | 2.15K | 87.7K | 147K | 671K | 130K |
+| February 7, 2024 | 2.05K | 80.0K | 144K | 668K | 145K |
+| February 8, 2024 | 1.57K | 72.0K | 151K | 665K | 137K |
+| February 9, 2024 | 2.09K | 59.7K | 159K | 678K | 131K |
+| February 10, 2024 | 1.44K | 69.1K | 136K | 674K | 122K |
+| February 11, 2024 | 1.14K | 75.2K | 131K | 626K | 123K |
+| February 12, 2024 | 653 | 70.3K | 133K | 646K | 134K |
+| February 13, 2024 | 671 | 80.3K | 139K | 697K | 133K |
+| February 14, 2024 | 661 | 73.6K | 142K | 776K | 135K |
+| February 15, 2024 | 692 | 80.7K | 149K | 785K | 145K |
+| February 16, 2024 | 1.11K | 89.2K | 152K | 765K | 129K |
+| February 17, 2024 | 938 | 104K | 147K | 793K | 116K |
+| February 18, 2024 | 569 | 97.5K | 154K | 822K | 116K |
+| February 19, 2024 | 346 | 97.2K | 164K | 867K | 130K |
+| February 20, 2024 | 515 | 104K | 160K | 833K | 114K |
+| February 21, 2024 | 597 | 104K | 150K | 861K | 108K |
+| February 22, 2024 | 883 | 101K | 157K | 939K | 111K |
+| February 23, 2024 | 786 | 91.7K | 159K | 963K | 105K |
+| February 24, 2024 | 752 | 90.8K | 156K | 1.00M | 96.4K |
+| February 25, 2024 | 529 | 104K | 165K | 1.07M | 100K |
+| February 26, 2024 | 381 | 95.7K | 173K | 1.02M | 111K |
+| February 27, 2024 | 262 | 98.8K | 177K | 1.04M | 121K |
+| February 28, 2024 | 357 | 95.9K | 203K | 1.07M | 124K |
+| February 29, 2024 | 266 | 101K | 195K | 1.15M | 140K |
+
+### How this was built
+- Daily active users (daily) — the unique revenue-generating users over a fixed 24-hour window — for Polygon, PancakeSwap, OP Mainnet, Raydium and Ether.fi, one row per calendar day from 2023-12-01 to 2024-02-29 (91 days).
+- Each entity was resolved by its canonical registry name; the five requested projects are the ones returned.
+- Every day in the window has an observation for all five projects (91 observed days each), so no day is shown as "-".
+- Values are read from each project's own daily surface, one value per project per calendar day, unaggregated across the window.
+- Skip the metric definitions, as asked.

@@ -1,0 +1,123 @@
+fees,G3,Q01,FAILED,fetch failed
+fees,G4,Q01,FAILED,fetch failed
+fees,G2,Q01,FAILED,fetch failed
+fees,G1,Q01,FAILED,fetch failed
+fees,G5,Q01,FAILED,fetch failed
+fees,G6,Q01,FAILED,fetch failed
+revenue,G5,Q01,FAILED,timeout after 60s / fetch failed / fetch failed
+fees,G3,Q10,FAILED,fetch failed
+revenue,G2,Q01,FAILED,timeout / fetch failed x3
+revenue,G3,Q01,FAILED,timeout 60s; fetch failed; fetch failed
+fees,G2,Q11,FAILED,timeout / fetch failed
+fees,G1,Q08,FAILED,timed out x2; fetch failed
+revenue,G4,Q02,FAILED,fetch failed
+revenue,G6,Q01,FAILED,timeout 60s; fetch failed; fetch failed
+revenue,G1,Q02,FAILED,fetch failed
+fees,G5,Q10,FAILED,timeout / fetch failed
+fees,G6,Q11,FAILED,fetch failed
+revenue,G5,Q02,FAILED,fetch failed
+fees,G3,Q11,FAILED,fetch failed
+fees,G2,Q12,FAILED,fetch failed
+fees,G6,Q12,FAILED,fetch failed
+revenue,G6,Q02,FAILED,fetch failed x3
+revenue,G4,Q03,FAILED,fetch failed
+fees,G1,Q10,FAILED,fetch failed
+revenue,G5,Q03,FAILED,fetch failed
+revenue,G2,Q02,FAILED,fetch failed x3
+fees,G5,Q12,FAILED,fetch failed
+fees,G6,Q13,FAILED,fetch failed
+fees,G3,Q12,FAILED,fetch failed
+fees,G2,Q13,FAILED,fetch failed
+revenue,G1,Q04,FAILED,fetch failed
+revenue,G3,Q03,FAILED,fetch failed x3
+revenue,G4,Q04,FAILED,fetch failed
+revenue,G1,Q05,FAILED,timeout 60s; timeout 60s; fetch failed
+revenue,G4,Q05,FAILED,timeout 60s; timeout 60s; fetch failed
+revenue,G1,Q06,FAILED,fetch failed
+revenue,G6,Q05,FAILED,fetch failed x3
+fees,G1,Q12,FAILED,fetch failed
+fees,G2,Q15,FAILED,fetch failed
+revenue,G3,Q04,FAILED,timeout 60s x2; fetch failed
+revenue,G5,Q05,FAILED,fetch failed
+fees,G4,Q14,FAILED,fetch failed
+revenue,G4,Q06,FAILED,fetch failed
+fees,G6,Q15,FAILED,timeout / fetch failed
+fees,G5,Q14,FAILED,timeout / fetch failed
+revenue,G1,Q07,FAILED,fetch failed
+revenue,G5,Q06,FAILED,fetch failed
+revenue,G3,Q05,FAILED,fetch failed x3
+fees,G1,Q13,FAILED,fetch failed
+revenue,G1,Q08,FAILED,fetch failed
+revenue,G6,Q06,FAILED,fetch failed x3
+revenue,G2,Q05,FAILED,fetch failed x3
+fees,G5,Q15,FAILED,fetch failed
+fees,G3,Q13b,FAILED,fetch failed
+fees,G4,Q15,FAILED,fetch failed
+fees,G6,Q16,FAILED,fetch failed
+revenue,G4,Q08,FAILED,fetch failed
+revenue,G1,Q09,FAILED,fetch failed
+revenue,G5,Q07,FAILED,fetch failed
+fees,G1,Q14,FAILED,fetch failed
+fees,G2,Q17,FAILED,fetch failed
+revenue,G2,Q06,FAILED,fetch failed x3
+fees,G3,Q14,FAILED,fetch failed
+revenue,G6,Q07,FAILED,fetch failed x3
+fees,G6,Q17,FAILED,fetch failed
+fees,G4,Q16,FAILED,fetch failed
+fees,G5,Q16,FAILED,fetch failed
+revenue,G4,Q09,FAILED,fetch failed
+fees,G1,Q15,FAILED,fetch failed
+fees,G2,Q18,FAILED,fetch failed
+revenue,G1,Q10,FAILED,fetch failed
+revenue,G3,Q06,FAILED,fetch failed x3
+revenue,G5,Q08,FAILED,fetch failed
+revenue,G2,Q07,FAILED,fetch failed x3
+fees,G6,Q18,FAILED,fetch failed
+revenue,G6,Q08,FAILED,fetch failed x3
+fees,G3,Q15,FAILED,fetch failed
+fees,G1,Q16,FAILED,fetch failed
+revenue,G4,Q10,FAILED,fetch failed
+fees,G5,Q17,FAILED,fetch failed
+revenue,G3,Q07,FAILED,fetch failed x3
+revenue,G5,Q09,FAILED,fetch failed
+revenue,G1,Q11,FAILED,fetch failed
+revenue,G2,Q08,FAILED,fetch failed x3
+fees,G4,Q17,FAILED,fetch failed
+revenue,G4,Q11,FAILED,fetch failed
+fees,G1,Q17,FAILED,fetch failed
+revenue,G6,Q09,FAILED,fetch failed x3
+revenue,G5,Q10,FAILED,fetch failed
+fees,G5,Q18,FAILED,fetch failed
+fees,G3,Q16,FAILED,fetch failed
+revenue,G3,Q08,FAILED,fetch failed x3
+revenue,G1,Q12,FAILED,fetch failed
+fees,G4,Q18,FAILED,fetch failed
+revenue,G5,Q11,FAILED,fetch failed
+revenue,G6,Q10,FAILED,fetch failed x3
+revenue,G2,Q09,FAILED,fetch failed x3
+revenue,G1,Q13,FAILED,fetch failed
+revenue,G4,Q12,FAILED,fetch failed
+fees,G1,Q18,FAILED,fetch failed
+revenue,G3,Q09,FAILED,fetch failed x3
+fees,G3,Q17,FAILED,fetch failed
+revenue,G5,Q12,FAILED,fetch failed
+revenue,G2,Q10,FAILED,fetch failed x3
+revenue,G1,Q14,FAILED,fetch failed
+revenue,G6,Q11,FAILED,fetch failed x3
+revenue,G4,Q13,FAILED,fetch failed
+revenue,G5,Q13,FAILED,fetch failed
+revenue,G3,Q10,FAILED,fetch failed x3
+fees,G3,Q18,FAILED,fetch failed
+revenue,G6,Q12,FAILED,fetch failed x3
+revenue,G1,Q15,FAILED,fetch failed
+revenue,G4,Q14,FAILED,fetch failed
+revenue,G5,Q14,FAILED,fetch failed
+revenue,G2,Q11,FAILED,fetch failed x3
+revenue,G3,Q11,FAILED,fetch failed x3
+revenue,G1,Q16,FAILED,fetch failed
+revenue,G4,Q15,FAILED,fetch failed
+revenue,G6,Q13,FAILED,fetch failed x3
+tvl,G1,Q14,FAILED,no table returned: full window timeout then 'could not be completed within the step budget'; half-window (2025-09-01..2025-10-15) timeout x2 then 'answer query rejected before execution'
+tvl,G2,Q14,FAILED,full window returned Ethena column only (Tron/Sui/Avalanche not reached; Chainlink TVL not tracked); half-window 2025-09-01..2025-10-15 returned no table
+tvl,G3,Q14,FAILED,full window: timeout then 'no query returned any TVL values' (no table)
+token_supply_circulating,G2,Q03,FAILED,"step-budget exhausted x2 and timeout after 60s x1 (3 attempts); no daily table returned"

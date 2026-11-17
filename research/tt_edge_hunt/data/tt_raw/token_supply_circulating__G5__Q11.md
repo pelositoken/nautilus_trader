@@ -1,0 +1,100 @@
+| Date | Polygon | PancakeSwap | OP Mainnet | Raydium | Ether.fi |
+|:---|---:|---:|---:|---:|---:|
+| December 1, 2024 | 8.06B | 286M | 1.26B | 264M | 209M |
+| December 2, 2024 | 8.08B | 286M | 1.26B | 264M | 209M |
+| December 3, 2024 | 8.11B | 286M | 1.26B | 264M | 209M |
+| December 4, 2024 | 8.35B | 286M | 1.26B | 264M | 209M |
+| December 5, 2024 | 8.35B | 287M | 1.26B | 264M | 209M |
+| December 6, 2024 | 8.36B | 293M | 1.26B | 264M | 209M |
+| December 7, 2024 | 8.36B | 293M | 1.26B | 264M | 209M |
+| December 8, 2024 | 8.35B | 293M | 1.26B | 264M | 209M |
+| December 9, 2024 | 8.35B | 288M | 1.26B | 264M | 209M |
+| December 10, 2024 | 8.35B | 288M | 1.26B | 264M | 209M |
+| December 11, 2024 | 8.35B | 288M | 1.26B | 264M | 209M |
+| December 12, 2024 | 8.35B | 289M | 1.26B | 264M | 209M |
+| December 13, 2024 | 8.36B | 289M | 1.26B | 264M | 209M |
+| December 14, 2024 | 8.36B | 289M | 1.26B | 264M | 209M |
+| December 15, 2024 | 8.37B | 289M | 1.26B | 264M | 209M |
+| December 16, 2024 | 8.38B | 289M | 1.35B | 264M | 209M |
+| December 17, 2024 | 8.41B | 289M | 1.35B | 264M | 209M |
+| December 18, 2024 | 8.41B | 289M | 1.35B | 264M | 209M |
+| December 19, 2024 | 8.41B | 289M | 1.35B | 264M | 209M |
+| December 20, 2024 | 8.40B | 295M | 1.35B | 264M | 209M |
+| December 21, 2024 | 8.39B | 297M | 1.35B | 264M | 209M |
+| December 22, 2024 | 8.39B | 297M | 1.35B | 264M | 209M |
+| December 23, 2024 | 8.40B | 291M | 1.35B | 264M | 217M |
+| December 24, 2024 | 8.40B | 291M | 1.35B | 264M | 217M |
+| December 25, 2024 | 8.40B | 291M | 1.35B | 264M | 217M |
+| December 26, 2024 | 8.40B | 291M | 1.35B | 264M | 217M |
+| December 27, 2024 | 8.40B | 291M | 1.35B | 264M | 217M |
+| December 28, 2024 | 8.40B | 291M | 1.35B | 264M | 217M |
+| December 29, 2024 | 8.40B | 291M | 1.35B | 264M | 217M |
+| December 30, 2024 | 8.39B | 291M | 1.35B | 264M | 217M |
+| December 31, 2024 | 8.40B | 291M | 1.35B | 264M | 217M |
+| January 1, 2025 | 8.40B | 291M | 1.35B | 264M | 217M |
+| January 2, 2025 | 8.40B | 291M | 1.35B | 264M | 217M |
+| January 3, 2025 | 8.40B | 297M | 1.35B | 264M | 217M |
+| January 4, 2025 | 8.40B | 297M | 1.35B | 264M | 217M |
+| January 5, 2025 | 8.40B | 297M | 1.35B | 264M | 217M |
+| January 6, 2025 | 8.40B | 292M | 1.35B | 264M | 217M |
+| January 7, 2025 | 8.40B | 292M | 1.35B | 264M | 217M |
+| January 8, 2025 | 8.41B | 292M | 1.35B | 264M | 217M |
+| January 9, 2025 | 8.41B | 292M | 1.35B | 264M | 217M |
+| January 10, 2025 | 8.41B | 292M | 1.35B | 264M | 217M |
+| January 11, 2025 | 8.41B | 292M | 1.35B | 264M | 217M |
+| January 12, 2025 | 8.41B | 292M | 1.35B | 264M | 217M |
+| January 13, 2025 | 8.44B | 292M | 1.35B | 264M | 217M |
+| January 14, 2025 | 8.44B | 291M | 1.35B | 264M | 219M |
+| January 15, 2025 | 8.44B | 291M | 1.35B | 264M | 219M |
+| January 16, 2025 | 8.44B | 291M | 1.35B | 264M | 219M |
+| January 17, 2025 | 8.44B | 296M | 1.35B | 264M | 219M |
+| January 18, 2025 | 8.44B | 296M | 1.35B | 264M | 219M |
+| January 19, 2025 | 8.44B | 296M | 1.35B | 264M | 219M |
+| January 20, 2025 | 8.46B | 290M | 1.35B | 264M | 219M |
+| January 21, 2025 | 8.46B | 290M | 1.35B | 264M | 219M |
+| January 22, 2025 | 8.47B | 290M | 1.35B | 264M | 219M |
+| January 23, 2025 | 8.47B | 290M | 1.35B | 264M | 219M |
+| January 24, 2025 | 8.47B | 290M | 1.35B | 264M | 219M |
+| January 25, 2025 | 8.47B | 290M | 1.35B | 264M | 219M |
+| January 26, 2025 | 8.47B | 290M | 1.35B | 264M | 219M |
+| January 27, 2025 | 8.50B | 290M | 1.35B | 264M | 219M |
+| January 28, 2025 | 8.50B | 290M | 1.35B | 264M | 219M |
+| January 29, 2025 | 8.57B | 290M | 1.35B | 264M | 219M |
+| January 30, 2025 | 8.57B | 290M | 1.35B | 264M | 219M |
+| January 31, 2025 | 8.57B | 296M | 1.35B | 264M | 219M |
+| February 1, 2025 | 8.58B | 296M | 1.35B | 264M | 219M |
+| February 2, 2025 | 8.58B | 296M | 1.35B | 264M | 219M |
+| February 3, 2025 | 8.59B | 290M | 1.35B | 264M | 219M |
+| February 4, 2025 | 8.59B | 290M | 1.35B | 264M | 219M |
+| February 5, 2025 | 8.53B | 290M | 1.35B | 264M | 219M |
+| February 6, 2025 | 8.53B | 291M | 1.35B | 264M | 219M |
+| February 7, 2025 | 8.55B | 291M | 1.35B | 264M | 219M |
+| February 8, 2025 | 8.55B | 291M | 1.35B | 264M | 219M |
+| February 9, 2025 | 8.55B | 292M | 1.35B | 264M | 219M |
+| February 10, 2025 | 8.55B | 291M | 1.35B | 264M | 222M |
+| February 11, 2025 | 8.56B | 291M | 1.35B | 264M | 222M |
+| February 12, 2025 | 8.56B | 291M | 1.35B | 264M | 231M |
+| February 13, 2025 | 8.56B | 292M | 1.35B | 264M | 232M |
+| February 14, 2025 | 8.56B | 297M | 1.35B | 264M | 232M |
+| February 15, 2025 | 8.56B | 297M | 1.35B | 264M | 232M |
+| February 16, 2025 | 8.56B | 297M | 1.35B | 264M | 232M |
+| February 17, 2025 | 8.56B | 290M | 1.63B | 264M | 232M |
+| February 18, 2025 | 8.57B | 290M | 1.62B | 264M | 232M |
+| February 19, 2025 | 8.57B | 290M | 1.62B | 264M | 232M |
+| February 20, 2025 | 8.58B | 291M | 1.62B | 264M | 232M |
+| February 21, 2025 | 8.59B | 291M | 1.62B | 264M | 232M |
+| February 22, 2025 | 8.59B | 291M | 1.62B | 264M | 232M |
+| February 23, 2025 | 8.59B | 291M | 1.62B | 264M | 232M |
+| February 24, 2025 | 8.59B | 291M | 1.62B | 264M | 232M |
+| February 25, 2025 | 8.58B | 291M | 1.62B | 264M | 232M |
+| February 26, 2025 | 8.58B | 291M | 1.62B | 264M | 232M |
+| February 27, 2025 | 8.58B | 290M | 1.62B | 264M | 232M |
+| February 28, 2025 | 8.58B | 290M | 1.62B | 264M | 232M |
+
+### How this was built
+- **Window:** one row per calendar day from 2024-12-01 through 2025-02-28, the range the question names.
+- **Cohort:** the five named projects — Polygon, PancakeSwap, OP Mainnet, Raydium and Ether.fi — resolved to their registry identities.
+- **Metric:** circulating supply, a point-in-time token count (tokens available for trading on the open market); each day's figure is that day's observation and is not summed across days.
+- **Values** come from each project's own project-grain metric rows, read at the daily observation.
+- **No gaps:** every one of the 90 days returned a value for each of the five projects, so no day needed a "-" placeholder.
+- **Latest observation:** each of the five series runs through 2025-02-28.

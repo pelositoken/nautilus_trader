@@ -1,0 +1,101 @@
+| Date | Cosmos Hub | Lido Finance | Pendle |
+|:---|---:|---:|---:|
+| September 1, 2022 | $30.9 | $81.2K | — |
+| September 2, 2022 | $30.3 | $80.7K | — |
+| September 3, 2022 | $26.5 | $79.6K | — |
+| September 4, 2022 | $29.4 | $80.8K | — |
+| September 5, 2022 | $27.2 | $82.8K | — |
+| September 6, 2022 | $27.9 | $79.1K | — |
+| September 7, 2022 | $29.3 | $77.0K | — |
+| September 8, 2022 | $36.5 | $81.8K | — |
+| September 9, 2022 | $56.5 | $87.1K | — |
+| September 10, 2022 | $47.8 | $90.2K | — |
+| September 11, 2022 | $49.0 | $89.5K | — |
+| September 12, 2022 | $49.5 | $87.1K | — |
+| September 13, 2022 | $41.5 | $80.0K | — |
+| September 14, 2022 | $40.3 | $83.2K | — |
+| September 15, 2022 | $46.8 | $80.4K | — |
+| September 16, 2022 | $52.9 | $105K | — |
+| September 17, 2022 | $51.2 | $94.0K | — |
+| September 18, 2022 | $43.8 | $82.3K | — |
+| September 19, 2022 | $48.4 | $97.6K | — |
+| September 20, 2022 | $40.2 | $86.6K | — |
+| September 21, 2022 | $33.7 | $88.1K | — |
+| September 22, 2022 | $41.8 | $93.2K | — |
+| September 23, 2022 | $35.4 | $88.5K | — |
+| September 24, 2022 | $26.1 | $89.8K | — |
+| September 25, 2022 | $29.9 | $81.7K | — |
+| September 26, 2022 | $32.5 | $92.5K | — |
+| September 27, 2022 | $30.5 | $98.1K | — |
+| September 28, 2022 | $28.5 | $100K | — |
+| September 29, 2022 | $28.7 | $97.6K | — |
+| September 30, 2022 | $28.0 | $100K | — |
+| October 1, 2022 | $26.5 | $95.7K | — |
+| October 2, 2022 | $27.1 | $88.2K | — |
+| October 3, 2022 | $29.0 | $93.7K | — |
+| October 4, 2022 | $31.2 | $94.1K | — |
+| October 5, 2022 | $27.5 | $97.0K | — |
+| October 6, 2022 | $31.3 | $104K | — |
+| October 7, 2022 | $28.6 | $91.9K | — |
+| October 8, 2022 | $31.4 | $103K | — |
+| October 9, 2022 | $30.5 | $85.3K | — |
+| October 10, 2022 | $32.9 | $86.9K | — |
+| October 11, 2022 | $32.1 | $91.4K | — |
+| October 12, 2022 | $26.2 | $86.1K | — |
+| October 13, 2022 | $28.0 | $91.1K | — |
+| October 14, 2022 | $26.7 | $109K | — |
+| October 15, 2022 | $26.1 | $86.4K | — |
+| October 16, 2022 | $25.7 | $88.7K | — |
+| October 17, 2022 | $32.4 | $92.4K | — |
+| October 18, 2022 | $28.7 | $106K | — |
+| October 19, 2022 | $25.7 | $97.5K | — |
+| October 20, 2022 | $24.8 | $111K | — |
+| October 21, 2022 | $28.3 | $101K | — |
+| October 22, 2022 | $26.6 | $102K | — |
+| October 23, 2022 | $28.3 | $94.2K | — |
+| October 24, 2022 | $29.5 | $94.2K | — |
+| October 25, 2022 | $42.9 | $102K | — |
+| October 26, 2022 | $32.3 | $133K | — |
+| October 27, 2022 | $33.5 | $123K | — |
+| October 28, 2022 | $48.3 | $119K | — |
+| October 29, 2022 | $39.7 | $123K | — |
+| October 30, 2022 | $37.0 | $121K | — |
+| October 31, 2022 | $56.4 | $113K | — |
+| November 1, 2022 | $49.2 | $121K | — |
+| November 2, 2022 | $38.1 | $115K | — |
+| November 3, 2022 | $34.9 | $128K | — |
+| November 4, 2022 | $47.0 | $148K | — |
+| November 5, 2022 | $46.7 | $125K | — |
+| November 6, 2022 | $38.6 | $105K | — |
+| November 7, 2022 | $37.2 | $113K | — |
+| November 8, 2022 | $35.4 | $114K | — |
+| November 9, 2022 | $31.2 | $690 | — |
+| November 10, 2022 | $38.1 | $258K | — |
+| November 11, 2022 | $32.1 | $846 | — |
+| November 12, 2022 | $29.6 | $250K | — |
+| November 13, 2022 | $36.6 | $179K | — |
+| November 14, 2022 | $35.0 | $183K | — |
+| November 15, 2022 | $27.8 | $184K | — |
+| November 16, 2022 | $25.8 | $171K | — |
+| November 17, 2022 | $24.7 | $95.8K | — |
+| November 18, 2022 | $21.9 | $92.4K | — |
+| November 19, 2022 | $20.9 | $84.9K | — |
+| November 20, 2022 | $22.3 | $88.6K | — |
+| November 21, 2022 | $21.6 | $86.3K | — |
+| November 22, 2022 | $21.6 | $90.7K | — |
+| November 23, 2022 | $42.4 | $110K | — |
+| November 24, 2022 | $25.2 | $85.5K | — |
+| November 25, 2022 | $21.5 | $85.1K | — |
+| November 26, 2022 | $22.0 | $135K | — |
+| November 27, 2022 | $22.7 | $78.4K | — |
+| November 28, 2022 | $22.1 | $86.6K | $0.00329 |
+| November 29, 2022 | $21.5 | $85.8K | $65.3 |
+| November 30, 2022 | $24.4 | $89.9K | $60.1 |
+
+Same in every row: Jito —; Sei Network —.
+
+### How this was built
+- Daily revenue, one row per calendar day, for the five named projects over 2022-09-01 to 2022-11-30; the table pivots the returned rows so each project is its own column.
+- Lido Finance and Cosmos Hub have a revenue value on each day of the window in the returned rows.
+- Pendle, Jito and Sei Network returned no revenue observations for this window; those cells are shown as unavailable rather than zero.
+- Not reached: the full per-day set for 2022-10-11 through 2022-11-30 for every project, which lies beyond the rows shown here.

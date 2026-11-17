@@ -1,0 +1,101 @@
+| Date | Aave | Injective | Arbitrum One |
+|:---|---:|---:|---:|
+| June 1, 2024 | 5.85K | 13.1K | 833K |
+| June 2, 2024 | 5.92K | 12.9K | 689K |
+| June 3, 2024 | 6.75K | 15.5K | 767K |
+| June 4, 2024 | 7.20K | 14.9K | 707K |
+| June 5, 2024 | 7.54K | 14.9K | 479K |
+| June 6, 2024 | 7.14K | 15.3K | 790K |
+| June 7, 2024 | 7.93K | 14.6K | 735K |
+| June 8, 2024 | 6.54K | 12.6K | 710K |
+| June 9, 2024 | 5.88K | 11.6K | 839K |
+| June 10, 2024 | 6.07K | 13.4K | 616K |
+| June 11, 2024 | 8.47K | 13.0K | 820K |
+| June 12, 2024 | 7.10K | 15.4K | 837K |
+| June 13, 2024 | 7.81K | 13.7K | 779K |
+| June 14, 2024 | 9.93K | 13.4K | 717K |
+| June 15, 2024 | 7.83K | 11.3K | 635K |
+| June 16, 2024 | 7.67K | 10.4K | 751K |
+| June 17, 2024 | 7.08K | 11.1K | 687K |
+| June 18, 2024 | 8.71K | 11.1K | 656K |
+| June 19, 2024 | 6.94K | 11.0K | 785K |
+| June 20, 2024 | 6.19K | 9.74K | 996K |
+| June 21, 2024 | 8.22K | 14.4K | 1.02M |
+| June 22, 2024 | 8.18K | 13.7K | 962K |
+| June 23, 2024 | 10.0K | 11.0K | 776K |
+| June 24, 2024 | 14.2K | 11.4K | 745K |
+| June 25, 2024 | 9.14K | 13.1K | 786K |
+| June 26, 2024 | 6.69K | 12.7K | 699K |
+| June 27, 2024 | 6.80K | 12.7K | 794K |
+| June 28, 2024 | 9.92K | 13.7K | 539K |
+| June 29, 2024 | 9.24K | 11.9K | 516K |
+| June 30, 2024 | 8.18K | 11.9K | 583K |
+| July 1, 2024 | 8.72K | 12.5K | 592K |
+| July 2, 2024 | 8.94K | 10.5K | 604K |
+| July 3, 2024 | 8.97K | 9.87K | 435K |
+| July 4, 2024 | 11.8K | 9.77K | 603K |
+| July 5, 2024 | 15.5K | 9.64K | 472K |
+| July 6, 2024 | 9.55K | 9.11K | 479K |
+| July 7, 2024 | 8.77K | 8.37K | 588K |
+| July 8, 2024 | 10.5K | 9.41K | 537K |
+| July 9, 2024 | 9.82K | 9.15K | 617K |
+| July 10, 2024 | 8.62K | 9.32K | 621K |
+| July 11, 2024 | 8.72K | 9.21K | 583K |
+| July 12, 2024 | 8.07K | 8.60K | 596K |
+| July 13, 2024 | 9.22K | 8.01K | 591K |
+| July 14, 2024 | 10.1K | 8.19K | 580K |
+| July 15, 2024 | 10.6K | 10.4K | 615K |
+| July 16, 2024 | 9.47K | 10.6K | 467K |
+| July 17, 2024 | 8.89K | 11.2K | 588K |
+| July 18, 2024 | 7.86K | 10.5K | 1.10M |
+| July 19, 2024 | 9.34K | 9.94K | 695K |
+| July 20, 2024 | 8.39K | 9.42K | 601K |
+| July 21, 2024 | 8.95K | 9.33K | 436K |
+| July 22, 2024 | 8.83K | 9.78K | 440K |
+| July 23, 2024 | 7.67K | 8.57K | 507K |
+| July 24, 2024 | 7.68K | 8.78K | 476K |
+| July 25, 2024 | 9.60K | 7.94K | 453K |
+| July 26, 2024 | 7.88K | 10.1K | 448K |
+| July 27, 2024 | 6.80K | 9.39K | 406K |
+| July 28, 2024 | 6.47K | 9.29K | 487K |
+| July 29, 2024 | 7.96K | 11.0K | 489K |
+| July 30, 2024 | 7.84K | 9.65K | 444K |
+| July 31, 2024 | 7.83K | 9.44K | 420K |
+| August 1, 2024 | 8.43K | 6.20K | 382K |
+| August 2, 2024 | 8.97K | 7.89K | 444K |
+| August 3, 2024 | 9.32K | 7.27K | 469K |
+| August 4, 2024 | 11.5K | 7.55K | 419K |
+| August 5, 2024 | 22.1K | 8.77K | 235K |
+| August 6, 2024 | 9.87K | 8.54K | 431K |
+| August 7, 2024 | 8.30K | 7.84K | 375K |
+| August 8, 2024 | 9.57K | 7.47K | 343K |
+| August 9, 2024 | 8.00K | 8.32K | 349K |
+| August 10, 2024 | 6.11K | 7.91K | 376K |
+| August 11, 2024 | 6.19K | 8.23K | 346K |
+| August 12, 2024 | 6.88K | 8.58K | 353K |
+| August 13, 2024 | 6.72K | 8.68K | 357K |
+| August 14, 2024 | 6.68K | 8.81K | 345K |
+| August 15, 2024 | 6.85K | 8.24K | 367K |
+| August 16, 2024 | 6.11K | 8.23K | 361K |
+| August 17, 2024 | 5.53K | 6.97K | 340K |
+| August 18, 2024 | 5.53K | 7.18K | 323K |
+| August 19, 2024 | 8.37K | 7.67K | 359K |
+| August 20, 2024 | 7.99K | 7.83K | 374K |
+| August 21, 2024 | 7.55K | 7.61K | 422K |
+| August 22, 2024 | 6.61K | 8.84K | 431K |
+| August 23, 2024 | 7.56K | 9.15K | 446K |
+| August 24, 2024 | 7.07K | 10.5K | 437K |
+| August 25, 2024 | 6.51K | 8.03K | 393K |
+| August 26, 2024 | 7.60K | 8.73K | 511K |
+| August 27, 2024 | 7.85K | 7.65K | 475K |
+| August 28, 2024 | 7.97K | 7.17K | 435K |
+| August 29, 2024 | 7.95K | 7.64K | 348K |
+| August 30, 2024 | 7.54K | 8.19K | 393K |
+| August 31, 2024 | 5.99K | 7.03K | 343K |
+
+### How this was built
+- Cohort: the projects and chains named that Token Terminal tracks this metric for — Aave, Injective and Arbitrum One. Each is read at its own project grain for user activity.
+- Window: every calendar day from 2024-06-01 through 2024-08-31 (92 days), no aggregation.
+- Metric: daily active users — unique revenue-generating addresses over a fixed 24-hour window, shown as each day's value.
+- Not reached: Filecoin and Ondo Finance have no rows for this metric in the window, so they are not shown as columns.
+- Source: Token Terminal project-level daily active-user metrics.

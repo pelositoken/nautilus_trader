@@ -1,0 +1,6 @@
+# Raw intraday OHLCV is re-downloadable from data.binance.vision; keep out of git.
+*.pyc
+.ipynb_checkpoints/
+__pycache__/
+data/cache/
+data/ohlcv/

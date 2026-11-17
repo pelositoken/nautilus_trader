@@ -1,0 +1,100 @@
+Daily fees, December 1, 2025 – February 28, 2026 (USD):
+
+| Date | BNB Chain | Ethereum | NEAR Protocol | Solana | Uniswap |
+|:---|---:|---:|---:|---:|---:|
+| December 1, 2025 | $430K | $545K | $443K | $594K | $2.02M |
+| December 2, 2025 | $392K | $429K | $229K | $718K | $1.68M |
+| December 3, 2025 | $628K | $424K | $162K | $676K | $1.89M |
+| December 4, 2025 | $523K | $424K | $107K | $912K | $1.66M |
+| December 5, 2025 | $438K | $338K | $151K | $613K | $1.46M |
+| December 6, 2025 | $510K | $251K | $105K | $588K | $817K |
+| December 7, 2025 | $626K | $481K | $92.3K | $576K | $1.39M |
+| December 8, 2025 | $609K | $552K | $98.4K | $662K | $1.43M |
+| December 9, 2025 | $587K | $613K | $159K | $728K | $1.81M |
+| December 10, 2025 | $636K | $541K | $118K | $693K | $1.88M |
+| December 11, 2025 | $498K | $448K | $121K | $745K | $1.77M |
+| December 12, 2025 | $400K | $384K | $107K | $637K | $1.38M |
+| December 13, 2025 | $347K | $264K | $92.8K | $500K | $769K |
+| December 14, 2025 | $370K | $274K | $98.8K | $494K | $908K |
+| December 15, 2025 | $436K | $436K | $159K | $589K | $1.68M |
+| December 16, 2025 | $409K | $368K | $120K | $563K | $1.45M |
+| December 17, 2025 | $454K | $394K | $145K | $540K | $1.59M |
+| December 18, 2025 | $424K | $450K | $120K | $499K | $1.70M |
+| December 19, 2025 | $397K | $470K | $191K | $527K | $1.61M |
+| December 20, 2025 | $702K | $234K | $102K | $459K | $659K |
+| December 21, 2025 | $366K | $251K | $61.6K | $474K | $933K |
+| December 22, 2025 | $382K | $345K | $135K | $607K | $1.38M |
+| December 23, 2025 | $1.51M | $307K | $103K | $539K | $1.13M |
+| December 24, 2025 | $324K | $288K | $174K | $473K | $943K |
+| December 25, 2025 | $290K | $232K | $148K | $444K | $841K |
+| December 26, 2025 | $304K | $314K | $140K | $467K | $1.15M |
+| December 27, 2025 | $273K | $211K | $142K | $499K | $622K |
+| December 28, 2025 | $273K | $236K | $84.9K | $534K | $885K |
+| December 29, 2025 | $379K | $333K | $123K | $614K | $1.45M |
+| December 30, 2025 | $355K | $363K | $110K | $618K | $1.15M |
+| December 31, 2025 | $418K | $316K | $96.4K | $543K | $860K |
+| January 1, 2026 | $342K | $238K | $63.4K | $504K | $685K |
+| January 2, 2026 | $343K | $417K | $123K | $724K | $1.56M |
+| January 3, 2026 | $343K | $282K | $92.3K | $731K | $995K |
+| January 4, 2026 | $435K | $295K | $99.8K | $683K | $1.02M |
+| January 5, 2026 | $411K | $484K | $202K | $787K | $1.64M |
+| January 6, 2026 | $447K | $596K | $197K | $1.05M | $1.80M |
+| January 7, 2026 | $405K | $408K | $221K | $813K | $1.53M |
+| January 8, 2026 | $386K | $400K | $216K | $867K | $1.60M |
+| January 9, 2026 | $637K | $343K | $202K | $820K | $1.60M |
+| January 10, 2026 | $975K | $207K | $114K | $752K | $926K |
+| January 11, 2026 | $1.21M | $244K | $68.7K | $742K | $1.25M |
+| January 12, 2026 | $1.01M | $334K | $174K | $1.01M | $1.98M |
+| January 13, 2026 | $816K | $470K | $239K | $1.07M | $2.14M |
+| January 14, 2026 | $1.09M | $484K | $219K | $1.04M | $2.00M |
+| January 15, 2026 | $858K | $460K | $557K | $1.02M | $1.80M |
+| January 16, 2026 | $521K | $314K | $228K | $1.35M | $1.22M |
+| January 17, 2026 | $430K | $242K | $88.1K | $877K | $795K |
+| January 18, 2026 | $615K | $346K | $84.2K | $891K | $987K |
+| January 19, 2026 | $709K | $375K | $229K | $927K | $1.50M |
+| January 20, 2026 | $718K | $568K | $247K | $892K | $1.82M |
+| January 21, 2026 | $1.25M | $560K | $234K | $885K | $2.39M |
+| January 22, 2026 | $1.13M | $419K | $189K | $943K | $1.53M |
+| January 23, 2026 | $1.02M | $364K | $180K | $863K | $1.43M |
+| January 24, 2026 | $709K | $276K | $94.3K | $1.01M | $825K |
+| January 25, 2026 | $413K | $371K | $160K | $1.21M | $1.44M |
+| January 26, 2026 | $466K | $449K | $200K | $1.40M | $1.51M |
+| January 27, 2026 | $501K | $349K | $241K | $1.39M | $1.66M |
+| January 28, 2026 | $479K | $388K | $187K | $1.18M | $1.72M |
+| January 29, 2026 | $535K | $757K | $180K | $1.11M | $1.95M |
+| January 30, 2026 | $632K | $861K | $169K | $1.39M | $3.77M |
+| January 31, 2026 | $450K | $1.71M | $194K | $1.03M | $4.68M |
+| February 1, 2026 | $405K | $647K | $144K | $787K | $3.74M |
+| February 2, 2026 | $559K | $904K | $533K | $901K | $3.58M |
+| February 3, 2026 | $442K | $832K | $253K | $867K | $3.17M |
+| February 4, 2026 | $416K | $801K | $286K | $850K | $2.97M |
+| February 5, 2026 | $406K | $3.02M | $389K | $795K | $4.90M |
+| February 6, 2026 | $389K | $1.46M | $387K | $965K | $3.82M |
+| February 7, 2026 | $264K | $617K | $180K | $743K | $2.47M |
+| February 8, 2026 | $212K | $305K | $124K | $679K | $1.55M |
+| February 9, 2026 | $279K | $376K | $181K | $716K | $1.82M |
+| February 10, 2026 | $313K | $298K | $169K | $706K | $1.69M |
+| February 11, 2026 | $344K | $671K | $208K | $673K | $1.91M |
+| February 12, 2026 | $255K | $410K | $173K | $619K | $1.60M |
+| February 13, 2026 | $342K | $312K | $164K | $679K | $1.66M |
+| February 14, 2026 | $254K | $212K | $135K | $571K | $1.19M |
+| February 15, 2026 | $245K | $286K | $169K | $599K | $1.52M |
+| February 16, 2026 | $337K | $263K | $90.8K | $653K | $1.39M |
+| February 17, 2026 | $192K | $333K | $97.0K | $940K | $1.35M |
+| February 18, 2026 | $191K | $309K | $141K | $766K | $1.41M |
+| February 19, 2026 | $209K | $287K | $122K | $651K | $1.33M |
+| February 20, 2026 | $200K | $319K | $95.0K | $752K | $1.38M |
+| February 21, 2026 | $194K | $195K | $75.7K | $640K | $715K |
+| February 22, 2026 | $170K | $180K | $68.3K | $687K | $750K |
+| February 23, 2026 | $226K | $289K | $139K | $707K | $1.32M |
+| February 24, 2026 | $275K | $318K | $162K | $746K | $1.29M |
+| February 25, 2026 | $282K | $513K | $188K | $819K | $2.14M |
+| February 26, 2026 | $254K | $393K | $322K | $726K | $1.63M |
+| February 27, 2026 | $297K | $336K | $133K | $750K | $1.43M |
+| February 28, 2026 | $371K | $363K | $132K | $715K | $1.68M |
+
+### How this was built
+- Window: every calendar day from 2025-12-01 through 2026-02-28 inclusive (90 days), stated as the question named it; the query returns a row for each of those days for each of the five entities.
+- Entities resolved by exact registry match: Ethereum, Solana, BNB Chain (BNB Chain), NEAR Protocol, and Uniswap. The four chains were read at the project surface (chain-as-project rows); Uniswap was read as the project.
+- Fees are the total value users pay to use each entity, summed per calendar day, in USD. No aggregation across days was applied, one value per day per project.
+- A metric-definition section was requested to be skipped, so none is included.

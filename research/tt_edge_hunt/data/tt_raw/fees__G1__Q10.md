@@ -1,0 +1,101 @@
+Daily fees are shown below for all five projects for every calendar day of the period; no day in the window lacked data for any of them, so no "-" entries appear.
+
+| Date | BNB Chain | Ethereum | NEAR Protocol | Solana | Uniswap |
+|:---|---:|---:|---:|---:|---:|
+| September 1, 2024 | $345K | $579K | $16.4K | $525K | $999K |
+| September 2, 2024 | $328K | $1.86M | $18.2K | $594K | $1.07M |
+| September 3, 2024 | $284K | $1.26M | $17.1K | $663K | $1.03M |
+| September 4, 2024 | $319K | $2.10M | $18.7K | $617K | $1.57M |
+| September 5, 2024 | $324K | $2.24M | $16.9K | $553K | $1.17M |
+| September 6, 2024 | $315K | $2.78M | $17.2K | $503K | $1.99M |
+| September 7, 2024 | $264K | $1.15M | $16.3K | $424K | $880K |
+| September 8, 2024 | $266K | $765K | $15.2K | $461K | $829K |
+| September 9, 2024 | $285K | $2.15M | $17.1K | $604K | $1.31M |
+| September 10, 2024 | $371K | $2.53M | $16.8K | $637K | $1.19M |
+| September 11, 2024 | $332K | $1.54M | $16.8K | $581K | $1.29M |
+| September 12, 2024 | $375K | $1.90M | $18.6K | $606K | $1.20M |
+| September 13, 2024 | $329K | $1.66M | $18.1K | $699K | $1.22M |
+| September 14, 2024 | $296K | $1.08M | $18.3K | $506K | $847K |
+| September 15, 2024 | $276K | $1.05M | $17.4K | $533K | $939K |
+| September 16, 2024 | $384K | $3.22M | $17.0K | $541K | $2.19M |
+| September 17, 2024 | $296K | $3.33M | $17.4K | $594K | $1.67M |
+| September 18, 2024 | $342K | $3.51M | $17.9K | $637K | $1.85M |
+| September 19, 2024 | $454K | $5.92M | $18.6K | $726K | $2.16M |
+| September 20, 2024 | $515K | $5.94M | $20.1K | $642K | $1.84M |
+| September 21, 2024 | $339K | $5.21M | $21.6K | $625K | $1.38M |
+| September 22, 2024 | $322K | $4.40M | $21.3K | $663K | $1.44M |
+| September 23, 2024 | $397K | $8.00M | $25.7K | $729K | $2.23M |
+| September 24, 2024 | $395K | $8.26M | $26.0K | $871K | $1.93M |
+| September 25, 2024 | $378K | $7.77M | $27.1K | $949K | $1.63M |
+| September 26, 2024 | $435K | $7.45M | $25.2K | $1.53M | $2.01M |
+| September 27, 2024 | $1.28M | $5.61M | $23.8K | $1.75M | $1.86M |
+| September 28, 2024 | $475K | $2.94M | $22.0K | $1.59M | $1.30M |
+| September 29, 2024 | $371K | $3.19M | $21.4K | $1.65M | $1.24M |
+| September 30, 2024 | $395K | $4.35M | $21.0K | $1.55M | $1.96M |
+| October 1, 2024 | $448K | $6.05M | $20.0K | $1.23M | $3.14M |
+| October 2, 2024 | $364K | $4.02M | $18.7K | $1.52M | $2.14M |
+| October 3, 2024 | $330K | $2.92M | $19.1K | $1.34M | $1.82M |
+| October 4, 2024 | $334K | $2.52M | $20.8K | $1.34M | $1.61M |
+| October 5, 2024 | $319K | $2.45M | $20.6K | $1.41M | $1.19M |
+| October 6, 2024 | $329K | $3.35M | $21.4K | $1.20M | $1.40M |
+| October 7, 2024 | $373K | $7.23M | $22.7K | $1.38M | $2.41M |
+| October 8, 2024 | $387K | $7.58M | $22.5K | $1.28M | $2.08M |
+| October 9, 2024 | $379K | $7.29M | $20.7K | $1.44M | $2.04M |
+| October 10, 2024 | $342K | $4.62M | $19.6K | $1.21M | $1.88M |
+| October 11, 2024 | $334K | $6.39M | $20.4K | $1.38M | $1.89M |
+| October 12, 2024 | $341K | $4.74M | $15.2K | $1.32M | $1.68M |
+| October 13, 2024 | $315K | $4.30M | $14.5K | $1.61M | $1.66M |
+| October 14, 2024 | $394K | $7.08M | $18.6K | $2.27M | $2.54M |
+| October 15, 2024 | $409K | $5.99M | $21.9K | $2.12M | $2.63M |
+| October 16, 2024 | $435K | $5.01M | $19.8K | $2.42M | $2.04M |
+| October 17, 2024 | $344K | $6.55M | $21.3K | $2.26M | $1.75M |
+| October 18, 2024 | $383K | $7.79M | $20.2K | $2.31M | $2.00M |
+| October 19, 2024 | $274K | $4.11M | $19.8K | $3.08M | $1.29M |
+| October 20, 2024 | $299K | $3.44M | $20.8K | $2.44M | $1.66M |
+| October 21, 2024 | $394K | $3.36M | $19.5K | $3.72M | $1.73M |
+| October 22, 2024 | $330K | $3.79M | $19.1K | $4.10M | $1.74M |
+| October 23, 2024 | $351K | $4.20M | $18.8K | $4.46M | $1.83M |
+| October 24, 2024 | $336K | $3.61M | $19.3K | $5.03M | $2.04M |
+| October 25, 2024 | $341K | $2.88M | $16.6K | $3.16M | $2.67M |
+| October 26, 2024 | $328K | $2.15M | $16.4K | $2.54M | $1.71M |
+| October 27, 2024 | $259K | $2.14M | $16.8K | $2.92M | $1.33M |
+| October 28, 2024 | $312K | $3.58M | $17.5K | $3.43M | $2.12M |
+| October 29, 2024 | $354K | $4.41M | $18.2K | $3.85M | $2.24M |
+| October 30, 2024 | $341K | $5.07M | $17.6K | $3.13M | $2.35M |
+| October 31, 2024 | $322K | $3.64M | $16.4K | $3.03M | $2.03M |
+| November 1, 2024 | $340K | $3.23M | $16.3K | $2.43M | $2.26M |
+| November 2, 2024 | $342K | $2.16M | $15.0K | $2.32M | $1.35M |
+| November 3, 2024 | $269K | $2.09M | $15.3K | $2.47M | $1.81M |
+| November 4, 2024 | $311K | $2.37M | $15.1K | $2.42M | $1.74M |
+| November 5, 2024 | $268K | $2.65M | $18.5K | $2.42M | $1.84M |
+| November 6, 2024 | $459K | $7.85M | $19.6K | $3.80M | $4.25M |
+| November 7, 2024 | $419K | $6.78M | $19.3K | $3.97M | $3.34M |
+| November 8, 2024 | $342K | $5.66M | $20.8K | $4.15M | $2.95M |
+| November 9, 2024 | $357K | $4.35M | $21.6K | $3.23M | $3.04M |
+| November 10, 2024 | $477K | $7.35M | $20.4K | $4.20M | $4.19M |
+| November 11, 2024 | $548K | $11.3M | $24.8K | $5.82M | $5.04M |
+| November 12, 2024 | $587K | $12.3M | $24.4K | $5.37M | $6.60M |
+| November 13, 2024 | $545K | $18.0M | $22.1K | $7.23M | $6.84M |
+| November 14, 2024 | $715K | $11.9M | $22.9K | $9.15M | $5.49M |
+| November 15, 2024 | $565K | $7.88M | $23.0K | $9.82M | $4.85M |
+| November 16, 2024 | $467K | $5.65M | $25.3K | $6.83M | $3.55M |
+| November 17, 2024 | $436K | $4.69M | $25.6K | $10.5M | $3.56M |
+| November 18, 2024 | $488K | $6.32M | $26.2K | $11.8M | $4.61M |
+| November 19, 2024 | $440K | $6.41M | $24.5K | $11.1M | $4.09M |
+| November 20, 2024 | $446K | $5.37M | $24.5K | $13.3M | $3.61M |
+| November 21, 2024 | $472K | $7.46M | $25.1K | $13.6M | $5.86M |
+| November 22, 2024 | $606K | $5.62M | $26.7K | $10.8M | $3.88M |
+| November 23, 2024 | $532K | $6.13M | $26.6K | $8.67M | $4.45M |
+| November 24, 2024 | $536K | $4.35M | $29.5K | $7.34M | $3.73M |
+| November 25, 2024 | $609K | $6.27M | $27.6K | $7.32M | $5.74M |
+| November 26, 2024 | $695K | $5.33M | $29.2K | $6.79M | $4.90M |
+| November 27, 2024 | $700K | $7.11M | $29.6K | $7.36M | $5.59M |
+| November 28, 2024 | $589K | $5.25M | $32.4K | $6.41M | $4.38M |
+| November 29, 2024 | $541K | $4.86M | $33.7K | $5.60M | $4.43M |
+| November 30, 2024 | $599K | $4.96M | $27.1K | $4.57M | $4.56M |
+
+### How this was built
+- Entities: the projects Ethereum, Solana, BNB Chain, NEAR Protocol and Uniswap, each resolved from the project registry by exact id and name.
+- Metric: fees — the gross value users pay to use each project — summed by calendar day (no aggregation across days).
+- Window: 2024-09-01 through 2024-11-30, 91 calendar days, one row per day.
+- Values come from each project's own fee records at daily grain; all 455 day-and-project combinations returned a value, so the grid has no gaps.

@@ -1,0 +1,102 @@
+Fees for the five projects, one row per calendar day.
+
+| Date | BNB Chain | Ethereum | NEAR Protocol | Solana | Uniswap |
+|:---|---:|---:|---:|---:|---:|
+| September 1, 2023 | $289K | $3.79M | $1.55K | $40.2K | $869K |
+| September 2, 2023 | $253K | $2.66M | $1.31K | $39.6K | $591K |
+| September 3, 2023 | $247K | $2.68M | $1.38K | $40.1K | $567K |
+| September 4, 2023 | $279K | $3.47M | $2.15K | $40.4K | $752K |
+| September 5, 2023 | $270K | $3.85M | $4.03K | $41.7K | $701K |
+| September 6, 2023 | $276K | $4.22M | $2.01K | $41.0K | $901K |
+| September 7, 2023 | $284K | $4.12M | $2.31K | $44.8K | $785K |
+| September 8, 2023 | $267K | $3.80M | $2.57K | $39.9K | $634K |
+| September 9, 2023 | $239K | $2.54M | $2.22K | $39.7K | $404K |
+| September 10, 2023 | $234K | $2.24M | $2.06K | $37.3K | $678K |
+| September 11, 2023 | $313K | $4.40M | $2.03K | $36.0K | $1.04M |
+| September 12, 2023 | $336K | $3.37M | $2.03K | $36.3K | $886K |
+| September 13, 2023 | $236K | $3.91M | $2.12K | $37.4K | $685K |
+| September 14, 2023 | $347K | $4.01M | $2.15K | $38.7K | $757K |
+| September 15, 2023 | $343K | $3.71M | $1.97K | $39.0K | $643K |
+| September 16, 2023 | $289K | $2.43M | $1.87K | $40.0K | $464K |
+| September 17, 2023 | $334K | $2.08M | $1.92K | $38.2K | $447K |
+| September 18, 2023 | $320K | $3.61M | $2.12K | $40.0K | $820K |
+| September 19, 2023 | $290K | $2.96M | $1.93K | $46.8K | $755K |
+| September 20, 2023 | $276K | $3.30M | $2.11K | $47.0K | $720K |
+| September 21, 2023 | $298K | $3.92M | $1.94K | $40.6K | $668K |
+| September 22, 2023 | $271K | $2.24M | $2.08K | $38.8K | $535K |
+| September 23, 2023 | $238K | $1.80M | $1.92K | $39.2K | $398K |
+| September 24, 2023 | $241K | $1.71M | $1.95K | $38.7K | $447K |
+| September 25, 2023 | $269K | $2.87M | $2.03K | $39.5K | $698K |
+| September 26, 2023 | $273K | $3.29M | $2.10K | $38.3K | $562K |
+| September 27, 2023 | $260K | $2.69M | $2.01K | $36.6K | $677K |
+| September 28, 2023 | $285K | $2.64M | $2.04K | $38.4K | $878K |
+| September 29, 2023 | $248K | $2.35M | $2.26K | $38.5K | $855K |
+| September 30, 2023 | $234K | $2.02M | $2.01K | $41.2K | $582K |
+| October 1, 2023 | $253K | $2.01M | $2.14K | $47.9K | $813K |
+| October 2, 2023 | $276K | $3.94M | $2.24K | $44.5K | $1.22M |
+| October 3, 2023 | $267K | $2.71M | $2.04K | $44.8K | $722K |
+| October 4, 2023 | $278K | $2.27M | $2.04K | $44.6K | $767K |
+| October 5, 2023 | $267K | $2.07M | $1.93K | $43.1K | $654K |
+| October 6, 2023 | $290K | $1.94M | $2.11K | $48.4K | $680K |
+| October 7, 2023 | $256K | $1.54M | $1.94K | $48.4K | $404K |
+| October 8, 2023 | $253K | $1.51M | $1.99K | $47.9K | $512K |
+| October 9, 2023 | $256K | $1.93M | $1.96K | $44.9K | $766K |
+| October 10, 2023 | $296K | $1.75M | $1.91K | $50.6K | $573K |
+| October 11, 2023 | $280K | $1.83M | $1.97K | $49.6K | $668K |
+| October 12, 2023 | $277K | $1.92M | $1.80K | $43.7K | $685K |
+| October 13, 2023 | $258K | $1.97M | $1.86K | $43.8K | $708K |
+| October 14, 2023 | $224K | $1.30M | $1.74K | $44.5K | $375K |
+| October 15, 2023 | $230K | $1.39M | $1.87K | $43.2K | $672K |
+| October 16, 2023 | $308K | $2.64M | $1.98K | $46.8K | $1.26M |
+| October 17, 2023 | $279K | $2.06M | $2.20K | $48.1K | $702K |
+| October 18, 2023 | $318K | $2.18M | $2.24K | $46.7K | $816K |
+| October 19, 2023 | $312K | $2.25M | $1.70K | $48.6K | $820K |
+| October 20, 2023 | $299K | $3.09M | $2.57K | $51.9K | $1.12M |
+| October 21, 2023 | $296K | $2.02M | $2.14K | $57.5K | $872K |
+| October 22, 2023 | $239K | $2.08M | $2.21K | $57.1K | $940K |
+| October 23, 2023 | $403K | $5.00M | $2.26K | $61.6K | $2.05M |
+| October 24, 2023 | $393K | $6.08M | $2.35K | $56.5K | $2.39M |
+| October 25, 2023 | $358K | $5.73M | $2.63K | $60.8K | $1.66M |
+| October 26, 2023 | $330K | $5.76M | $2.70K | $63.1K | $1.91M |
+| October 27, 2023 | $449K | $4.47M | $2.93K | $63.2K | $1.35M |
+| October 28, 2023 | $310K | $3.42M | $2.84K | $64.3K | $923K |
+| October 29, 2023 | $324K | $3.44M | $2.82K | $66.2K | $897K |
+| October 30, 2023 | $364K | $5.19M | $2.99K | $72.7K | $1.27M |
+| October 31, 2023 | $378K | $5.73M | $2.74K | $79.7K | $1.35M |
+| November 1, 2023 | $375K | $6.18M | $3.62K | $85.9K | $1.70M |
+| November 2, 2023 | $437K | $5.91M | $3.50K | $77.9K | $1.54M |
+| November 3, 2023 | $349K | $5.26M | $3.41K | $75.6K | $1.81M |
+| November 4, 2023 | $334K | $4.06M | $3.53K | $83.2K | $1.16M |
+| November 5, 2023 | $426K | $4.80M | $3.59K | $83.0K | $1.51M |
+| November 6, 2023 | $454K | $7.28M | $3.49K | $86.0K | $1.58M |
+| November 7, 2023 | $400K | $6.49M | $3.15K | $86.7K | $1.65M |
+| November 8, 2023 | $434K | $7.49M | $3.21K | $88.9K | $1.46M |
+| November 9, 2023 | $585K | $12.8M | $3.55K | $92.4K | $3.51M |
+| November 10, 2023 | $444K | $10.2M | $3.16K | $121K | $2.54M |
+| November 11, 2023 | $412K | $7.48M | $3.30K | $109K | $1.95M |
+| November 12, 2023 | $392K | $7.26M | $3.59K | $107K | $1.74M |
+| November 13, 2023 | $436K | $12.2M | $3.82K | $101K | $2.88M |
+| November 14, 2023 | $405K | $9.23M | $3.35K | $109K | $2.49M |
+| November 15, 2023 | $431K | $8.80M | $3.95K | $122K | $2.14M |
+| November 16, 2023 | $417K | $8.45M | $3.96K | $113K | $2.53M |
+| November 17, 2023 | $440K | $6.88M | $4.19K | $110K | $2.01M |
+| November 18, 2023 | $421K | $5.58M | $3.92K | $115K | $1.47M |
+| November 19, 2023 | $396K | $5.40M | $4.44K | $126K | $1.49M |
+| November 20, 2023 | $434K | $9.73M | $4.86K | $120K | $2.02M |
+| November 21, 2023 | $468K | $9.48M | $4.49K | $112K | $2.33M |
+| November 22, 2023 | $466K | $10.1M | $4.36K | $114K | $2.17M |
+| November 23, 2023 | $396K | $8.40M | $4.29K | $114K | $1.45M |
+| November 24, 2023 | $366K | $7.44M | $4.32K | $113K | $1.62M |
+| November 25, 2023 | $324K | $5.81M | $4.53K | $122K | $1.19M |
+| November 26, 2023 | $373K | $6.31M | $4.41K | $131K | $1.49M |
+| November 27, 2023 | $404K | $8.24M | $4.00K | $118K | $1.77M |
+| November 28, 2023 | $427K | $10.3M | $4.32K | $121K | $1.67M |
+| November 29, 2023 | $369K | $9.50M | $55.4K | $119K | $1.59M |
+| November 30, 2023 | $368K | $11.3M | $139K | $127K | $1.63M |
+
+### How this was built
+- Metric: fees (gross value users pay to use the project's application), read at the project surface and summed per calendar day.
+- Window: each day from September 1, 2023 through November 30, 2023 (91 calendar days); every day in that range is a row.
+- Entities: Ethereum, Solana, BNB Chain, NEAR Protocol and Uniswap, resolved by exact registry name.
+- Values are daily totals in USD, unaggregated across the window; a day with no observation is left blank rather than shown as zero.
+- Not reached: confirmation of whether any specific day had no observation for a project — the query returned all 455 day-by-project rows, but only the first 152 rows were shown to me, so I cannot verify individually whether any cell is empty.

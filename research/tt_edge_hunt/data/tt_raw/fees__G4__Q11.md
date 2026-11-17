@@ -1,0 +1,99 @@
+| Date | Curve | Aptos | Jupiter | Celestia |
+|:---|---:|---:|---:|---:|
+| December 1, 2024 | $171K | $5.54K | $1.50M | $1.65K |
+| December 2, 2024 | $166K | $7.01K | $4.46M | $1.75K |
+| December 3, 2024 | $199K | $7.27K | $2.77M | $1.91K |
+| December 4, 2024 | $246K | $6.56K | $2.11M | $2.03K |
+| December 5, 2024 | $240K | $6.08K | $3.65M | $1.83K |
+| December 6, 2024 | $202K | $6.20K | $2.13M | $2.00K |
+| December 7, 2024 | $255K | $6.17K | $1.13M | $1.49K |
+| December 8, 2024 | $145K | $5.76K | $1.02M | $1.46K |
+| December 9, 2024 | $239K | $5.26K | $6.16M | $1.43K |
+| December 10, 2024 | $190K | $4.77K | $4.45M | $1.40K |
+| December 11, 2024 | $289K | $5.47K | $1.66M | $1.33K |
+| December 12, 2024 | $158K | $6.93K | $1.69M | $1.34K |
+| December 13, 2024 | $186K | $7.55K | $1.33M | $1.24K |
+| December 14, 2024 | $175K | $7.03K | $1.20M | $1.06K |
+| December 15, 2024 | $274K | $7.05K | $1.21M | $1.09K |
+| December 16, 2024 | $185K | $6.48K | $2.89M | $1.25K |
+| December 17, 2024 | $170K | $6.73K | $2.26M | $1.14K |
+| December 18, 2024 | $215K | $7.98K | $3.10M | $1.60K |
+| December 19, 2024 | $194K | $8.73K | $6.52M | $1.26K |
+| December 20, 2024 | $202K | $36.5K | $3.56M | $1.62K |
+| December 21, 2024 | $275K | $20.0K | $1.29M | $929 |
+| December 22, 2024 | $194K | $5.59K | $1.22M | $817 |
+| December 23, 2024 | $322K | $5.74K | $1.32M | $1.01K |
+| December 24, 2024 | $177K | $4.21K | $882K | $1.71K |
+| December 25, 2024 | $261K | $10.6K | $608K | $1.83K |
+| December 26, 2024 | $202K | $4.92K | $926K | $1.86K |
+| December 27, 2024 | $220K | $8.76K | $951K | $1.80K |
+| December 28, 2024 | $186K | $4.37K | $463K | $1.90K |
+| December 29, 2024 | $150K | $3.06K | $692K | $2.00K |
+| December 30, 2024 | $283K | $5.47K | $1.24M | $1.89K |
+| December 31, 2024 | $221K | $5.53K | $1.04M | $1.49K |
+| January 1, 2025 | $366K | $5.28K | $1.52M | $1.69K |
+| January 2, 2025 | $157K | $5.08K | $2.93M | $1.89K |
+| January 3, 2025 | $149K | $5.22K | $2.39M | $2.26K |
+| January 4, 2025 | $161K | $4.77K | $1.62M | $2.20K |
+| January 5, 2025 | $147K | $10.2K | $1.83M | $2.14K |
+| January 6, 2025 | $288K | $5.37K | $2.47M | $2.14K |
+| January 7, 2025 | $172K | $5.87K | $2.92M | $1.96K |
+| January 8, 2025 | $259K | $5.39K | $3.30M | $1.85K |
+| January 9, 2025 | $241K | $4.88K | $3.26M | $1.82K |
+| January 10, 2025 | $335K | $5.04K | $1.87M | $1.84K |
+| January 11, 2025 | $425K | $4.15K | $1.47M | $1.90K |
+| January 12, 2025 | $161K | $4.72K | $1.29M | $1.92K |
+| January 13, 2025 | $233K | $4.86K | $4.57M | $1.77K |
+| January 14, 2025 | $179K | $6.08K | $1.82M | $1.65K |
+| January 15, 2025 | $179K | $6.51K | $2.19M | $1.90K |
+| January 16, 2025 | $205K | $5.65K | $2.54M | $1.98K |
+| January 17, 2025 | $149K | $5.69K | $3.36M | $2.10K |
+| January 18, 2025 | $180K | $8.75K | $14.7M | $1.94K |
+| January 19, 2025 | $179K | $6.63K | $12.0M | $1.78K |
+| January 20, 2025 | $269K | $6.24K | $11.2M | $1.83K |
+| January 21, 2025 | $204K | $6.92K | $5.85M | $1.62K |
+| January 22, 2025 | $232K | $7.73K | $4.45M | $1.47K |
+| January 23, 2025 | $233K | $7.19K | $7.07M | $1.24K |
+| January 24, 2025 | $174K | $6.96K | $4.68M | $1.36K |
+| January 25, 2025 | $152K | $15.2K | $3.79M | $1.22K |
+| January 26, 2025 | $126K | $6.54K | $3.87M | $1.19K |
+| January 27, 2025 | $258K | $8.23K | $5.78M | $1.31K |
+| January 28, 2025 | $172K | $16.3K | $3.14M | $1.32K |
+| January 29, 2025 | $196K | $14.7K | $3.31M | $1.96K |
+| January 30, 2025 | $202K | $6.25K | $3.54M | $2.34K |
+| January 31, 2025 | $168K | $6.42K | $2.90M | $2.14K |
+| February 1, 2025 | $145K | $5.22K | $2.94M | $2.09K |
+| February 2, 2025 | $123K | $5.35K | $4.14M | $1.93K |
+| February 3, 2025 | $208K | $6.19K | $6.05M | $2.32K |
+| February 4, 2025 | $424K | $4.49K | $3.47M | $1.99K |
+| February 5, 2025 | $175K | $4.16K | $2.20M | $1.62K |
+| February 6, 2025 | $200K | $3.70K | $2.18M | $1.59K |
+| February 7, 2025 | $129K | $4.00K | $2.24M | $1.51K |
+| February 8, 2025 | $134K | $4.12K | $1.45M | $1.53K |
+| February 9, 2025 | $109K | $2.87K | $3.05M | $1.63K |
+| February 10, 2025 | $157K | $2.93K | $2.54M | $1.71K |
+| February 11, 2025 | $111K | $2.91K | $2.02M | $1.66K |
+| February 12, 2025 | $166K | $3.35K | $2.08M | $1.85K |
+| February 13, 2025 | $139K | $3.21K | $1.47M | $1.79K |
+| February 14, 2025 | $104K | $3.81K | $2.48M | $1.71K |
+| February 15, 2025 | $104K | $2.95K | $1.24M | $1.52K |
+| February 16, 2025 | $74.0K | $2.55K | $1.12M | $1.48K |
+| February 17, 2025 | $154K | $5.29K | $2.36M | $1.52K |
+| February 18, 2025 | $103K | $3.25K | $3.17M | $1.71K |
+| February 19, 2025 | $177K | $2.46K | $1.49M | $1.44K |
+| February 20, 2025 | $110K | $3.80K | $1.19M | $1.99K |
+| February 21, 2025 | $99.9K | $4.04K | $1.69M | $2.36K |
+| February 22, 2025 | $254K | $4.09K | $765K | $4.26K |
+| February 23, 2025 | $105K | $3.86K | $748K | $4.08K |
+| February 24, 2025 | $151K | $4.38K | $3.22M | $3.62K |
+| February 25, 2025 | $127K | $5.75K | $3.08M | $3.24K |
+| February 26, 2025 | $185K | $7.29K | $1.79M | $2.88K |
+| February 27, 2025 | $122K | $7.13K | $1.25M | $2.36K |
+| February 28, 2025 | $95.9K | $4.46K | $2.30M | $2.81K |
+
+### How this was built
+- The metric is gross, user-paid fees (the total value users pay to use the project); each cell is that project's fee value for one calendar day, with no aggregation.
+- The window is every day from 2024-12-01 through 2025-02-28; the table's 360 rows are one per project and calendar day — 90 days each for Curve, Aptos, Jupiter and Celestia — so there are no gaps to mark.
+- Not reached: Render Network's daily fees — Token Terminal does not track them.
+
+_Token Terminal doesn't track Render Network's fees._

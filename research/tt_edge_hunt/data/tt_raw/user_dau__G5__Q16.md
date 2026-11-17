@@ -1,0 +1,101 @@
+Daily active users for the five projects, 2026-03-01 through 2026-05-31, one value per project per calendar day.
+
+| Date | Ether.fi | OP Mainnet | PancakeSwap | Polygon | Raydium |
+|:---|---:|---:|---:|---:|---:|
+| March 1, 2026 | 8.66K | 18.4K | 346K | 568K | 242K |
+| March 2, 2026 | 8.50K | 17.1K | 355K | 615K | 241K |
+| March 3, 2026 | 8.62K | 20.0K | 350K | 622K | 230K |
+| March 4, 2026 | 8.84K | 25.4K | 377K | 648K | 236K |
+| March 5, 2026 | 8.80K | 33.5K | 380K | 674K | 187K |
+| March 6, 2026 | 9.05K | 21.8K | 359K | 656K | 211K |
+| March 7, 2026 | 9.21K | 18.6K | 336K | 534K | 214K |
+| March 8, 2026 | 8.79K | 13.1K | 324K | 538K | 188K |
+| March 9, 2026 | 9.00K | 15.3K | 363K | 615K | 235K |
+| March 10, 2026 | 9.10K | 17.2K | 359K | 688K | 250K |
+| March 11, 2026 | 9.26K | 26.9K | 375K | 741K | 220K |
+| March 12, 2026 | 9.32K | 28.8K | 351K | 751K | 236K |
+| March 13, 2026 | 9.65K | 19.8K | 373K | 793K | 239K |
+| March 14, 2026 | 9.62K | 16.8K | 327K | 668K | 255K |
+| March 15, 2026 | 9.14K | 14.0K | 326K | 667K | 279K |
+| March 16, 2026 | 9.32K | 16.5K | 351K | 709K | 331K |
+| March 17, 2026 | 9.62K | 22.3K | 361K | 735K | 282K |
+| March 18, 2026 | 9.57K | 26.2K | 366K | 712K | 221K |
+| March 19, 2026 | 9.53K | 22.3K | 351K | 736K | 231K |
+| March 20, 2026 | 9.82K | 52.3K | 346K | 739K | 227K |
+| March 21, 2026 | 9.79K | 16.8K | 321K | 641K | 234K |
+| March 22, 2026 | 9.37K | 20.1K | 327K | 634K | 232K |
+| March 23, 2026 | 9.51K | 18.3K | 340K | 746K | 235K |
+| March 24, 2026 | 9.66K | 18.5K | 341K | 704K | 215K |
+| March 25, 2026 | 9.80K | 32.5K | 363K | 736K | 210K |
+| March 26, 2026 | 9.78K | 31.1K | 353K | 710K | 197K |
+| March 27, 2026 | 9.98K | 23.4K | 361K | 619K | 215K |
+| March 28, 2026 | 9.97K | 14.8K | 329K | 590K | 168K |
+| March 29, 2026 | 9.26K | 15.2K | 341K | 589K | 151K |
+| March 30, 2026 | 9.57K | 19.2K | 350K | 739K | 168K |
+| March 31, 2026 | 9.64K | 18.4K | 356K | 706K | 156K |
+| April 1, 2026 | 10.2K | 18.5K | 356K | 687K | 163K |
+| April 2, 2026 | 10.1K | 22.2K | 347K | 687K | 169K |
+| April 3, 2026 | 9.67K | 17.3K | 323K | 780K | 147K |
+| April 4, 2026 | 9.76K | 19.3K | 309K | 812K | 145K |
+| April 5, 2026 | 9.03K | 18.9K | 314K | 791K | 153K |
+| April 6, 2026 | 9.62K | 19.9K | 321K | 747K | 170K |
+| April 7, 2026 | 9.62K | 21.0K | 349K | 855K | 158K |
+| April 8, 2026 | 4.30K | 32.6K | 338K | 769K | 172K |
+| April 9, 2026 | 11.0K | 22.0K | 358K | 745K | 165K |
+| April 10, 2026 | 11.4K | 16.4K | 359K | 752K | 190K |
+| April 11, 2026 | 10.2K | 18.6K | 335K | 621K | 170K |
+| April 12, 2026 | 9.41K | 12.5K | 327K | 521K | 165K |
+| April 13, 2026 | 9.79K | 20.2K | 367K | 555K | 186K |
+| April 14, 2026 | 10.0K | 21.3K | 384K | 563K | 180K |
+| April 15, 2026 | 10.1K | 24.5K | 375K | 580K | 196K |
+| April 16, 2026 | 10.1K | 23.2K | 389K | 587K | 210K |
+| April 17, 2026 | 10.4K | 17.9K | 369K | 624K | 216K |
+| April 18, 2026 | 10.6K | 16.7K | 391K | 532K | 210K |
+| April 19, 2026 | 9.77K | 19.2K | 356K | 534K | 190K |
+| April 20, 2026 | 10.1K | 19.2K | 351K | 624K | 205K |
+| April 21, 2026 | 10.2K | 21.8K | 385K | 570K | 200K |
+| April 22, 2026 | 10.2K | 18.6K | 365K | 597K | 206K |
+| April 23, 2026 | 10.4K | 17.2K | 348K | 650K | 229K |
+| April 24, 2026 | 10.6K | 17.6K | 333K | 650K | 188K |
+| April 25, 2026 | 10.5K | 23.5K | 336K | 729K | 182K |
+| April 26, 2026 | 10.0K | 17.0K | 343K | 634K | 245K |
+| April 27, 2026 | 10.3K | 16.3K | 357K | 740K | 184K |
+| April 28, 2026 | 10.3K | 16.0K | 341K | 777K | 173K |
+| April 29, 2026 | 10.3K | 19.0K | 361K | 742K | 183K |
+| April 30, 2026 | 10.8K | 18.6K | 340K | 709K | 187K |
+| May 1, 2026 | 11.0K | 17.5K | 346K | 648K | 182K |
+| May 2, 2026 | 11.2K | 15.1K | 327K | 624K | 176K |
+| May 3, 2026 | 10.3K | 16.2K | 318K | 605K | 158K |
+| May 4, 2026 | 10.7K | 21.8K | 334K | 688K | 168K |
+| May 5, 2026 | 10.7K | 19.7K | 336K | 672K | 177K |
+| May 6, 2026 | 11.0K | 19.5K | 338K | 720K | 162K |
+| May 7, 2026 | 10.8K | 18.7K | 345K | 745K | 162K |
+| May 8, 2026 | 11.3K | 19.0K | 375K | 756K | 180K |
+| May 9, 2026 | 11.3K | 16.4K | 351K | 656K | 146K |
+| May 10, 2026 | 10.6K | 15.6K | 354K | 600K | 138K |
+| May 11, 2026 | 11.0K | 19.6K | 363K | 670K | 187K |
+| May 12, 2026 | 11.0K | 17.3K | 341K | 641K | 215K |
+| May 13, 2026 | 11.1K | 20.9K | 349K | 843K | 207K |
+| May 14, 2026 | 11.0K | 16.8K | 342K | 704K | 172K |
+| May 15, 2026 | 11.4K | 14.9K | 349K | 666K | 187K |
+| May 16, 2026 | 11.5K | 13.8K | 329K | 539K | 152K |
+| May 17, 2026 | 10.6K | 14.7K | 317K | 514K | 160K |
+| May 18, 2026 | 11.1K | 14.6K | 345K | 544K | 161K |
+| May 19, 2026 | 11.0K | 12.9K | 334K | 516K | 172K |
+| May 20, 2026 | 11.2K | 13.2K | 347K | 569K | 199K |
+| May 21, 2026 | 11.2K | 14.2K | 347K | 590K | 150K |
+| May 22, 2026 | 11.1K | 14.1K | 353K | 539K | 155K |
+| May 23, 2026 | 11.4K | 16.2K | 324K | 582K | 136K |
+| May 24, 2026 | 10.8K | 12.2K | 332K | 570K | 146K |
+| May 25, 2026 | 11.0K | 12.5K | 358K | 590K | 159K |
+| May 26, 2026 | 11.3K | 15.1K | 346K | 564K | 176K |
+| May 27, 2026 | 11.4K | 17.1K | 332K | 556K | 159K |
+| May 28, 2026 | 11.4K | 17.1K | 348K | 642K | 167K |
+| May 29, 2026 | 11.5K | 14.0K | 332K | 586K | 179K |
+| May 30, 2026 | 11.4K | 17.0K | 342K | 547K | 171K |
+| May 31, 2026 | 10.7K | 12.8K | 354K | 524K | 173K |
+
+### How this was built
+- Daily active users (active users, daily): unique addresses making a revenue-generating transaction with the project over a fixed 24-hour window; each day's reading is that day's value, not a sum.
+- The five projects resolved in the registry by exact name: Polygon, PancakeSwap, OP Mainnet, Raydium and Ether.fi.
+- The window is 2026-03-01 (requested start) to 2026-05-31 (requested end); the table spans 92 calendar days, one row per day per project (460 rows).

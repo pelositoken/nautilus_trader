@@ -1,0 +1,101 @@
+Daily active users for Ethena, Sui and Chainlink are not covered in this window; Tron and Avalanche are.
+
+| Date | Ethena | Tron | Sui | Chainlink | Avalanche |
+|:---|:---|---:|:---|:---|---:|
+| June 1, 2022 | - | 1.55M | - | - | 41.6K |
+| June 2, 2022 | - | 1.34M | - | - | 39.3K |
+| June 3, 2022 | - | 1.31M | - | - | 39.0K |
+| June 4, 2022 | - | 1.29M | - | - | 33.4K |
+| June 5, 2022 | - | 1.23M | - | - | 34.3K |
+| June 6, 2022 | - | 1.50M | - | - | 44.1K |
+| June 7, 2022 | - | 1.50M | - | - | 41.0K |
+| June 8, 2022 | - | 1.55M | - | - | 37.5K |
+| June 9, 2022 | - | 1.49M | - | - | 36.3K |
+| June 10, 2022 | - | 1.70M | - | - | 36.2K |
+| June 11, 2022 | - | 1.59M | - | - | 35.4K |
+| June 12, 2022 | - | 1.48M | - | - | 36.1K |
+| June 13, 2022 | - | 1.90M | - | - | 42.7K |
+| June 14, 2022 | - | 1.99M | - | - | 37.9K |
+| June 15, 2022 | - | 1.76M | - | - | 38.7K |
+| June 16, 2022 | - | 1.62M | - | - | 38.4K |
+| June 17, 2022 | - | 1.68M | - | - | 35.0K |
+| June 18, 2022 | - | 1.86M | - | - | 34.5K |
+| June 19, 2022 | - | 1.95M | - | - | 34.4K |
+| June 20, 2022 | - | 2.10M | - | - | 39.8K |
+| June 21, 2022 | - | 2.02M | - | - | 39.2K |
+| June 22, 2022 | - | 2.10M | - | - | 34.4K |
+| June 23, 2022 | - | 2.12M | - | - | 37.0K |
+| June 24, 2022 | - | 1.97M | - | - | 38.5K |
+| June 25, 2022 | - | 1.99M | - | - | 36.7K |
+| June 26, 2022 | - | 1.90M | - | - | 35.7K |
+| June 27, 2022 | - | 1.73M | - | - | 37.4K |
+| June 28, 2022 | - | 1.95M | - | - | 35.5K |
+| June 29, 2022 | - | 1.79M | - | - | 36.0K |
+| June 30, 2022 | - | 1.83M | - | - | 36.9K |
+| July 1, 2022 | - | 1.89M | - | - | 36.1K |
+| July 2, 2022 | - | 1.69M | - | - | 33.1K |
+| July 3, 2022 | - | 1.59M | - | - | 34.9K |
+| July 4, 2022 | - | 1.54M | - | - | 39.5K |
+| July 5, 2022 | - | 1.68M | - | - | 36.3K |
+| July 6, 2022 | - | 1.69M | - | - | 37.0K |
+| July 7, 2022 | - | 1.54M | - | - | 37.4K |
+| July 8, 2022 | - | 1.65M | - | - | 36.3K |
+| July 9, 2022 | - | 1.53M | - | - | 29.9K |
+| July 10, 2022 | - | 1.46M | - | - | 30.8K |
+| July 11, 2022 | - | 1.79M | - | - | 36.3K |
+| July 12, 2022 | - | 1.84M | - | - | 35.1K |
+| July 13, 2022 | - | 1.70M | - | - | 34.6K |
+| July 14, 2022 | - | 1.69M | - | - | 35.8K |
+| July 15, 2022 | - | 1.70M | - | - | 36.3K |
+| July 16, 2022 | - | 1.55M | - | - | 31.2K |
+| July 17, 2022 | - | 1.44M | - | - | 32.3K |
+| July 18, 2022 | - | 1.54M | - | - | 42.4K |
+| July 19, 2022 | - | 1.55M | - | - | 40.8K |
+| July 20, 2022 | - | 1.85M | - | - | 43.8K |
+| July 21, 2022 | - | 1.64M | - | - | 38.4K |
+| July 22, 2022 | - | 1.51M | - | - | 36.1K |
+| July 23, 2022 | - | 1.57M | - | - | 34.0K |
+| July 24, 2022 | - | 1.55M | - | - | 36.7K |
+| July 25, 2022 | - | 1.56M | - | - | 39.4K |
+| July 26, 2022 | - | 1.59M | - | - | 39.9K |
+| July 27, 2022 | - | 1.57M | - | - | 41.1K |
+| July 28, 2022 | - | 1.52M | - | - | 40.9K |
+| July 29, 2022 | - | 1.53M | - | - | 44.6K |
+| July 30, 2022 | - | 1.44M | - | - | 35.3K |
+| July 31, 2022 | - | 1.41M | - | - | 35.2K |
+| August 1, 2022 | - | 1.50M | - | - | 40.3K |
+| August 2, 2022 | - | 1.60M | - | - | 37.2K |
+| August 3, 2022 | - | 1.81M | - | - | 51.9K |
+| August 4, 2022 | - | 1.71M | - | - | 54.9K |
+| August 5, 2022 | - | 1.73M | - | - | 35.4K |
+| August 6, 2022 | - | 1.65M | - | - | 33.5K |
+| August 7, 2022 | - | 1.47M | - | - | 36.1K |
+| August 8, 2022 | - | 1.51M | - | - | 38.4K |
+| August 9, 2022 | - | 1.54M | - | - | 34.4K |
+| August 10, 2022 | - | 1.67M | - | - | 37.6K |
+| August 11, 2022 | - | 1.48M | - | - | 38.5K |
+| August 12, 2022 | - | 1.51M | - | - | 34.5K |
+| August 13, 2022 | - | 1.41M | - | - | 31.6K |
+| August 14, 2022 | - | 1.39M | - | - | 30.1K |
+| August 15, 2022 | - | 1.43M | - | - | 37.1K |
+| August 16, 2022 | - | 1.50M | - | - | 35.3K |
+| August 17, 2022 | - | 1.62M | - | - | 35.4K |
+| August 18, 2022 | - | 1.50M | - | - | 34.1K |
+| August 19, 2022 | - | 1.38M | - | - | 35.5K |
+| August 20, 2022 | - | 1.35M | - | - | 31.2K |
+| August 21, 2022 | - | 1.30M | - | - | 31.2K |
+| August 22, 2022 | - | 1.62M | - | - | 32.5K |
+| August 23, 2022 | - | 1.51M | - | - | 30.5K |
+| August 24, 2022 | - | 1.46M | - | - | 30.6K |
+| August 25, 2022 | - | 1.53M | - | - | 29.6K |
+| August 26, 2022 | - | 1.54M | - | - | 29.6K |
+| August 27, 2022 | - | 1.46M | - | - | 28.9K |
+| August 28, 2022 | - | 1.34M | - | - | 28.5K |
+| August 29, 2022 | - | 1.47M | - | - | 34.3K |
+| August 30, 2022 | - | 1.51M | - | - | 31.1K |
+| August 31, 2022 | - | 1.54M | - | - | 33.4K |
+
+### How this was built
+- Daily active users (unique addresses making a revenue-generating transaction over a fixed 24-hour window) for the five named projects, one row per calendar day from 2022-06-01 to 2022-08-31 (92 days), read from the project surface and reduced to one row per project per day.
+- Ethena, Sui and Chainlink returned no data for any day in this window; those cells are shown as "-", meaning no observation was returned for that slice, not zero.
+- The window named by the question: 2022-06-01 to 2022-08-31, as returned by the query's requested-window columns.

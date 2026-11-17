@@ -1,0 +1,101 @@
+| Date | Cosmos Hub | Jito | Lido Finance | Pendle | Sei Network |
+|:---|---:|---:|---:|---:|---:|
+| March 1, 2025 | 14.9K | 709K | 399 | 1.19K | 261K |
+| March 2, 2025 | 15.5K | 918K | 444 | 1.29K | 292K |
+| March 3, 2025 | 14.3K | 973K | 575 | 1.24K | 345K |
+| March 4, 2025 | 15.0K | 991K | 532 | 1.19K | 326K |
+| March 5, 2025 | 14.3K | 897K | 760 | 1.27K | 338K |
+| March 6, 2025 | 16.8K | 999K | 703 | 1.26K | 322K |
+| March 7, 2025 | 14.3K | 985K | 604 | 1.19K | 356K |
+| March 8, 2025 | 12.5K | 761K | 632 | 996 | 323K |
+| March 9, 2025 | 13.8K | 727K | 568 | 1.05K | 343K |
+| March 10, 2025 | 15.8K | 771K | 549 | 1.06K | 395K |
+| March 11, 2025 | 11.8K | 660K | 651 | 1.24K | 270K |
+| March 12, 2025 | 11.4K | 675K | 829 | 1.43K | 358K |
+| March 13, 2025 | 10.2K | 654K | 425 | 1.59K | 328K |
+| March 14, 2025 | 12.2K | 700K | 449 | 1.34K | 294K |
+| March 15, 2025 | 13.6K | 450K | 337 | 1.21K | 257K |
+| March 16, 2025 | 12.1K | 457K | 351 | 1.22K | 328K |
+| March 17, 2025 | 11.8K | 822K | 311 | 1.16K | 381K |
+| March 18, 2025 | 12.5K | 800K | 357 | 1.26K | 330K |
+| March 19, 2025 | 14.6K | 677K | 346 | 1.55K | 330K |
+| March 20, 2025 | 0 | 712K | 377 | 1.72K | 290K |
+| March 21, 2025 | 14.2K | 577K | 397 | 1.56K | 306K |
+| March 22, 2025 | 13.2K | 582K | 484 | 1.49K | 299K |
+| March 23, 2025 | 16.1K | 436K | 519 | 1.59K | 272K |
+| March 24, 2025 | 17.5K | 826K | 458 | 1.96K | 301K |
+| March 25, 2025 | 14.2K | 687K | 478 | 1.89K | 277K |
+| March 26, 2025 | 18.8K | 650K | 341 | 1.86K | 282K |
+| March 27, 2025 | 21.2K | 672K | 307 | 2.50K | 276K |
+| March 28, 2025 | 14.1K | 664K | 304 | 2.02K | 260K |
+| March 29, 2025 | 12.2K | 504K | 484 | 1.48K | 302K |
+| March 30, 2025 | 12.8K | 461K | 363 | 1.34K | 290K |
+| March 31, 2025 | 15.1K | 581K | 305 | 1.39K | 249K |
+| April 1, 2025 | 12.3K | 604K | 291 | 1.52K | 226K |
+| April 2, 2025 | 11.3K | 599K | 266 | 2.35K | 284K |
+| April 3, 2025 | 11.6K | 565K | 282 | 1.73K | 335K |
+| April 4, 2025 | 14.2K | 602K | 297 | 1.31K | 332K |
+| April 5, 2025 | 13.1K | 486K | 303 | 1.21K | 274K |
+| April 6, 2025 | 13.7K | 602K | 343 | 1.13K | 316K |
+| April 7, 2025 | 11.7K | 861K | 503 | 1.38K | 297K |
+| April 8, 2025 | 11.8K | 658K | 458 | 1.19K | 277K |
+| April 9, 2025 | 14.3K | 683K | 472 | 1.40K | 281K |
+| April 10, 2025 | 10.8K | 593K | 384 | 1.82K | 236K |
+| April 11, 2025 | 10.1K | 672K | 497 | 1.56K | 267K |
+| April 12, 2025 | 9.42K | 674K | 398 | 1.49K | 268K |
+| April 13, 2025 | 9.80K | 628K | 408 | 1.44K | 238K |
+| April 14, 2025 | 10.4K | 701K | 347 | 1.18K | 230K |
+| April 15, 2025 | 10.6K | 639K | 454 | 1.40K | 244K |
+| April 16, 2025 | 8.84K | 658K | 297 | 1.59K | 260K |
+| April 17, 2025 | 8.59K | 616K | 272 | 1.56K | 234K |
+| April 18, 2025 | 8.85K | 503K | 257 | 1.64K | 284K |
+| April 19, 2025 | 9.41K | 494K | 260 | 1.30K | 247K |
+| April 20, 2025 | 7.83K | 512K | 237 | 1.14K | 273K |
+| April 21, 2025 | 10.1K | 642K | 313 | 1.24K | 420K |
+| April 22, 2025 | 10.1K | 772K | 319 | 1.46K | 370K |
+| April 23, 2025 | 11.7K | 865K | 343 | 2.44K | 272K |
+| April 24, 2025 | 11.1K | 719K | 268 | 2.72K | 432K |
+| April 25, 2025 | 11.8K | 799K | 294 | 1.82K | 460K |
+| April 26, 2025 | 11.7K | 638K | 279 | 1.61K | 416K |
+| April 27, 2025 | 9.52K | 625K | 239 | 1.18K | 361K |
+| April 28, 2025 | 13.5K | 786K | 251 | 1.08K | 394K |
+| April 29, 2025 | 12.7K | 738K | 306 | 1.15K | 320K |
+| April 30, 2025 | 14.1K | 743K | 266 | 1.16K | 384K |
+| May 1, 2025 | 14.9K | 777K | 319 | 1.63K | 380K |
+| May 2, 2025 | 12.6K | 713K | 245 | 1.50K | 393K |
+| May 3, 2025 | 12.2K | 662K | 255 | 1.06K | 319K |
+| May 4, 2025 | 11.6K | 731K | 287 | 1.00K | 379K |
+| May 5, 2025 | 12.0K | 880K | 260 | 1.09K | 375K |
+| May 6, 2025 | 10.4K | 755K | 268 | 1.12K | 339K |
+| May 7, 2025 | 12.7K | 694K | 249 | 1.31K | 327K |
+| May 8, 2025 | 16.2K | 814K | 304 | 1.32K | 343K |
+| May 9, 2025 | 16.5K | 845K | 408 | 1.52K | 331K |
+| May 10, 2025 | 19.8K | 679K | 375 | 1.25K | 299K |
+| May 11, 2025 | 17.0K | 674K | 337 | 1.16K | 315K |
+| May 12, 2025 | 15.6K | 936K | 319 | 1.13K | 366K |
+| May 13, 2025 | 17.3K | 922K | 321 | 1.19K | 376K |
+| May 14, 2025 | 15.3K | 1.09M | 347 | 1.44K | 484K |
+| May 15, 2025 | 14.8K | 1.82M | 279 | 1.44K | 452K |
+| May 16, 2025 | 9.39K | 3.27M | 299 | 1.47K | 332K |
+| May 17, 2025 | 9.05K | 3.42M | 260 | 1.31K | 362K |
+| May 18, 2025 | 11.4K | 2.55M | 278 | 1.50K | 331K |
+| May 19, 2025 | 10.5K | 2.66M | 288 | 1.20K | 458K |
+| May 20, 2025 | 10.5K | 3.00M | 300 | 1.32K | 442K |
+| May 21, 2025 | 12.1K | 2.39M | 283 | 1.13K | 420K |
+| May 22, 2025 | 13.5K | 3.34M | 339 | 1.50K | 472K |
+| May 23, 2025 | 11.0K | 2.95M | 343 | 1.20K | 451K |
+| May 24, 2025 | 9.07K | 2.35M | 322 | 1.14K | 436K |
+| May 25, 2025 | 10.7K | 2.50M | 306 | 1.17K | 423K |
+| May 26, 2025 | 11.7K | 2.33M | 288 | 1.63K | 458K |
+| May 27, 2025 | 13.0K | 2.36M | 298 | 1.86K | 519K |
+| May 28, 2025 | 10.8K | 1.81M | 261 | 2.13K | 400K |
+| May 29, 2025 | 10.3K | 2.01M | 285 | 2.85K | 422K |
+| May 30, 2025 | 9.66K | 2.30M | 284 | 2.10K | 472K |
+| May 31, 2025 | 11.9K | 2.80M | 247 | 1.93K | 529K |
+
+### How this was built
+- Window: March 1, 2025 through May 31, 2025 (the returned requested window), one row per calendar day, no aggregation of days and no bucket labels.
+- Entities: the five named projects — Sei Network, Lido Finance, Cosmos Hub, Pendle and Jito — each a distinct public project read on the project surface.
+- Measure: daily active users (daily), a daily unique count over a fixed 24-hour window; each day's row is that day's value, not a rolling or bucketed figure.
+- Values come from the project metric surface at project grain; no chain or product breakdown was applied.
+- The result returned 460 rows, exactly 92 days × 5 projects, so every project has a value on every calendar day of the window; no day was missing and no project had a gap to mark with "-".

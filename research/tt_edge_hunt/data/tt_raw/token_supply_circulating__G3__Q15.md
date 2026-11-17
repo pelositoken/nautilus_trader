@@ -1,0 +1,100 @@
+This table lists daily circulating token supply for each of the five named projects — one row per calendar day, no gaps.
+
+| Date | Aave | Injective | Filecoin | Ondo Finance | Arbitrum One |
+|:---|---:|---:|---:|---:|---:|
+| December 1, 2025 | 15.2M | 100M | 722M | 3.16B | 5.62B |
+| December 2, 2025 | 15.2M | 100M | 722M | 3.16B | 5.62B |
+| December 3, 2025 | 15.2M | 100M | 722M | 3.16B | 5.62B |
+| December 4, 2025 | 15.2M | 100M | 723M | 3.16B | 5.62B |
+| December 5, 2025 | 15.2M | 100M | 723M | 3.16B | 5.62B |
+| December 6, 2025 | 15.2M | 100M | 724M | 3.16B | 5.62B |
+| December 7, 2025 | 15.2M | 100M | 724M | 3.16B | 5.62B |
+| December 8, 2025 | 15.2M | 100M | 725M | 3.16B | 5.62B |
+| December 9, 2025 | 15.2M | 100M | 725M | 3.16B | 5.62B |
+| December 10, 2025 | 15.2M | 100M | 725M | 3.16B | 5.62B |
+| December 11, 2025 | 15.2M | 100M | 725M | 3.16B | 5.62B |
+| December 12, 2025 | 15.2M | 100M | 726M | 3.16B | 5.62B |
+| December 13, 2025 | 15.2M | 100M | 726M | 3.16B | 5.62B |
+| December 14, 2025 | 15.2M | 100M | 726M | 3.16B | 5.62B |
+| December 15, 2025 | 15.2M | 100M | 727M | 3.16B | 5.62B |
+| December 16, 2025 | 15.2M | 100M | 727M | 3.16B | 5.62B |
+| December 17, 2025 | 15.2M | 100M | 727M | 3.16B | 5.72B |
+| December 18, 2025 | 15.2M | 100M | 727M | 3.16B | 5.72B |
+| December 19, 2025 | 15.2M | 100M | 728M | 3.16B | 5.72B |
+| December 20, 2025 | 15.2M | 100M | 728M | 3.16B | 5.72B |
+| December 21, 2025 | 15.2M | 100M | 729M | 3.16B | 5.72B |
+| December 22, 2025 | 15.2M | 100M | 729M | 3.16B | 5.72B |
+| December 23, 2025 | 15.2M | 100M | 729M | 3.16B | 5.72B |
+| December 24, 2025 | 15.2M | 100M | 729M | 3.16B | 5.72B |
+| December 25, 2025 | 15.2M | 100M | 729M | 3.16B | 5.72B |
+| December 26, 2025 | 15.2M | 100M | 729M | 3.16B | 5.72B |
+| December 27, 2025 | 15.2M | 100M | 729M | 3.16B | 5.72B |
+| December 28, 2025 | 15.2M | 100M | 729M | 3.16B | 5.72B |
+| December 29, 2025 | 15.2M | 100M | 730M | 3.16B | 5.72B |
+| December 30, 2025 | 15.2M | 100M | 731M | 3.16B | 5.72B |
+| December 31, 2025 | 15.2M | 100M | 732M | 3.16B | 5.72B |
+| January 1, 2026 | 15.2M | 97.7M | 733M | 3.16B | 5.72B |
+| January 2, 2026 | 15.2M | 97.7M | 733M | 3.16B | 5.72B |
+| January 3, 2026 | 15.2M | 97.7M | 733M | 3.16B | 5.72B |
+| January 4, 2026 | 15.2M | 97.7M | 733M | 3.16B | 5.72B |
+| January 5, 2026 | 15.2M | 97.7M | 733M | 3.16B | 5.72B |
+| January 6, 2026 | 15.2M | 97.7M | 734M | 3.16B | 5.72B |
+| January 7, 2026 | 15.2M | 97.7M | 734M | 3.16B | 5.72B |
+| January 8, 2026 | 15.2M | 97.7M | 734M | 3.16B | 5.72B |
+| January 9, 2026 | 15.2M | 97.7M | 734M | 3.16B | 5.72B |
+| January 10, 2026 | 15.2M | 97.7M | 734M | 3.16B | 5.72B |
+| January 11, 2026 | 15.2M | 97.7M | 734M | 3.16B | 5.72B |
+| January 12, 2026 | 15.2M | 97.7M | 735M | 3.16B | 5.72B |
+| January 13, 2026 | 15.2M | 97.7M | 736M | 3.16B | 5.72B |
+| January 14, 2026 | 15.2M | 97.7M | 737M | 3.16B | 5.72B |
+| January 15, 2026 | 15.2M | 97.7M | 737M | 3.16B | 5.72B |
+| January 16, 2026 | 15.2M | 97.7M | 738M | 3.16B | 5.83B |
+| January 17, 2026 | 15.2M | 97.7M | 738M | 3.16B | 5.83B |
+| January 18, 2026 | 15.2M | 97.7M | 738M | 4.87B | 5.83B |
+| January 19, 2026 | 15.2M | 97.7M | 738M | 4.87B | 5.83B |
+| January 20, 2026 | 15.2M | 97.7M | 738M | 4.87B | 5.83B |
+| January 21, 2026 | 15.2M | 97.7M | 739M | 4.87B | 5.83B |
+| January 22, 2026 | 15.2M | 97.7M | 739M | 4.87B | 5.83B |
+| January 23, 2026 | 15.2M | 97.7M | 739M | 4.87B | 5.83B |
+| January 24, 2026 | 15.2M | 97.7M | 740M | 4.87B | 5.83B |
+| January 25, 2026 | 15.2M | 97.7M | 740M | 4.87B | 5.83B |
+| January 26, 2026 | 15.2M | 97.7M | 741M | 4.87B | 5.83B |
+| January 27, 2026 | 15.2M | 97.7M | 741M | 4.87B | 5.83B |
+| January 28, 2026 | 15.2M | 97.7M | 741M | 4.87B | 5.83B |
+| January 29, 2026 | 15.2M | 100M | 741M | 4.87B | 5.83B |
+| January 30, 2026 | 15.2M | 100M | 742M | 4.87B | 5.83B |
+| January 31, 2026 | 15.2M | 100M | 742M | 4.87B | 5.83B |
+| February 1, 2026 | 15.2M | 100M | 744M | 4.87B | 5.83B |
+| February 2, 2026 | 15.2M | 100M | 746M | 4.87B | 5.83B |
+| February 3, 2026 | 15.2M | 100M | 746M | 4.87B | 5.83B |
+| February 4, 2026 | 15.2M | 100M | 750M | 4.87B | 5.83B |
+| February 5, 2026 | 15.2M | 100M | 751M | 4.87B | 5.83B |
+| February 6, 2026 | 15.2M | 100M | 751M | 4.87B | 5.83B |
+| February 7, 2026 | 15.2M | 97.7M | 751M | 4.87B | 5.83B |
+| February 8, 2026 | 15.2M | 97.7M | 752M | 4.87B | 5.83B |
+| February 9, 2026 | 15.2M | 97.7M | 752M | 4.87B | 5.83B |
+| February 10, 2026 | 15.2M | 100M | 752M | 4.87B | 5.83B |
+| February 11, 2026 | 15.2M | 97.7M | 752M | 4.87B | 5.83B |
+| February 12, 2026 | 15.2M | 97.7M | 752M | 4.87B | 5.83B |
+| February 13, 2026 | 15.2M | 97.7M | 753M | 4.87B | 5.83B |
+| February 14, 2026 | 15.2M | 97.7M | 753M | 4.87B | 5.83B |
+| February 15, 2026 | 15.2M | 97.7M | 753M | 4.87B | 5.83B |
+| February 16, 2026 | 15.2M | 97.7M | 753M | 4.87B | 5.83B |
+| February 17, 2026 | 15.2M | 97.7M | 753M | 4.87B | 5.83B |
+| February 18, 2026 | 15.2M | 97.7M | 753M | 4.87B | 5.83B |
+| February 19, 2026 | 15.2M | 97.7M | 753M | 4.87B | 5.83B |
+| February 20, 2026 | 15.2M | 97.7M | 753M | 4.87B | 5.83B |
+| February 21, 2026 | 15.2M | 97.7M | 754M | 4.87B | 5.83B |
+| February 22, 2026 | 15.2M | 97.7M | 754M | 4.87B | 5.83B |
+| February 23, 2026 | 15.2M | 97.7M | 754M | 4.87B | 5.83B |
+| February 24, 2026 | 15.2M | 97.7M | 754M | 4.87B | 5.83B |
+| February 25, 2026 | 15.2M | 97.7M | 754M | 4.87B | 5.83B |
+| February 26, 2026 | 15.2M | 97.7M | 755M | 4.87B | 5.83B |
+| February 27, 2026 | 15.2M | 97.7M | 755M | 4.87B | 5.94B |
+| February 28, 2026 | 15.2M | 97.7M | 755M | 4.87B | 5.94B |
+
+### How this was built
+- Cohort: the five named entities — Aave, Injective, Filecoin, Ondo Finance, and Arbitrum One — each read from its own project rows.
+- Metric: circulating supply, the token count currently available for trading on the open market (locked, unvested, and treasury-held tokens excluded), unitless token counts.
+- Window: December 1, 2025 through February 28, 2026, one row per calendar day (90 days), reduced to that day's value with no aggregation across days.
+- Every one of the five projects has a reading on every day in the window (450 daily rows), so no day is blank.

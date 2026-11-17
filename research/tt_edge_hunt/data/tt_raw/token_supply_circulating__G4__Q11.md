@@ -1,0 +1,100 @@
+Circulating supply (token count), daily, December 1, 2024 – February 28, 2025:
+
+| Date | Curve | Aptos | Jupiter | Celestia | Render Network |
+|:---|---:|---:|---:|---:|---:|
+| December 1, 2024 | 1.24B | 535M | 1.35B | 437M | 518M |
+| December 2, 2024 | 1.24B | 535M | 1.35B | 438M | 518M |
+| December 3, 2024 | 1.25B | 535M | 1.35B | 439M | 518M |
+| December 4, 2024 | 1.25B | 535M | 1.35B | 441M | 518M |
+| December 5, 2024 | 1.25B | 535M | 1.35B | 442M | 518M |
+| December 6, 2024 | 1.25B | 536M | 1.35B | 443M | 518M |
+| December 7, 2024 | 1.25B | 536M | 1.35B | 444M | 518M |
+| December 8, 2024 | 1.25B | 536M | 1.35B | 445M | 518M |
+| December 9, 2024 | 1.25B | 536M | 1.35B | 447M | 518M |
+| December 10, 2024 | 1.25B | 536M | 1.35B | 448M | 518M |
+| December 11, 2024 | 1.25B | 536M | 1.35B | 449M | 518M |
+| December 12, 2024 | 1.25B | 543M | 1.35B | 450M | 518M |
+| December 13, 2024 | 1.25B | 555M | 1.35B | 452M | 518M |
+| December 14, 2024 | 1.25B | 555M | 1.35B | 453M | 518M |
+| December 15, 2024 | 1.25B | 555M | 1.35B | 454M | 518M |
+| December 16, 2024 | 1.25B | 555M | 1.35B | 455M | 518M |
+| December 17, 2024 | 1.25B | 555M | 1.35B | 456M | 518M |
+| December 18, 2024 | 1.25B | 556M | 1.35B | 458M | 518M |
+| December 19, 2024 | 1.25B | 556M | 1.35B | 459M | 518M |
+| December 20, 2024 | 1.25B | 556M | 1.35B | 460M | 518M |
+| December 21, 2024 | 1.25B | 556M | 1.35B | 461M | 518M |
+| December 22, 2024 | 1.26B | 556M | 1.35B | 462M | 518M |
+| December 23, 2024 | 1.26B | 556M | 1.35B | 464M | 518M |
+| December 24, 2024 | 1.26B | 557M | 1.35B | 465M | 518M |
+| December 25, 2024 | 1.26B | 557M | 1.35B | 466M | 518M |
+| December 26, 2024 | 1.26B | 557M | 1.35B | 467M | 518M |
+| December 27, 2024 | 1.26B | 557M | 1.35B | 468M | 518M |
+| December 28, 2024 | 1.26B | 557M | 1.35B | 470M | 518M |
+| December 29, 2024 | 1.26B | 557M | 1.35B | 471M | 518M |
+| December 30, 2024 | 1.26B | 558M | 1.35B | 472M | 518M |
+| December 31, 2024 | 1.26B | 558M | 1.35B | 473M | 518M |
+| January 1, 2025 | 1.26B | 558M | 1.35B | 474M | 518M |
+| January 2, 2025 | 1.26B | 558M | 1.35B | 476M | 518M |
+| January 3, 2025 | 1.26B | 558M | 1.35B | 477M | 518M |
+| January 4, 2025 | 1.26B | 558M | 1.35B | 478M | 518M |
+| January 5, 2025 | 1.26B | 559M | 1.35B | 479M | 518M |
+| January 6, 2025 | 1.26B | 559M | 1.35B | 480M | 518M |
+| January 7, 2025 | 1.26B | 559M | 1.69B | 482M | 518M |
+| January 8, 2025 | 1.26B | 559M | 1.69B | 483M | 518M |
+| January 9, 2025 | 1.26B | 559M | 1.69B | 484M | 518M |
+| January 10, 2025 | 1.26B | 559M | 1.69B | 485M | 518M |
+| January 11, 2025 | 1.27B | 559M | 1.69B | 487M | 518M |
+| January 12, 2025 | 1.27B | 560M | 1.69B | 488M | 518M |
+| January 13, 2025 | 1.27B | 571M | 1.69B | 489M | 518M |
+| January 14, 2025 | 1.27B | 571M | 1.69B | 490M | 518M |
+| January 15, 2025 | 1.27B | 571M | 1.69B | 491M | 518M |
+| January 16, 2025 | 1.27B | 571M | 1.69B | 493M | 518M |
+| January 17, 2025 | 1.27B | 572M | 1.69B | 494M | 518M |
+| January 18, 2025 | 1.27B | 572M | 1.69B | 495M | 518M |
+| January 19, 2025 | 1.27B | 572M | 1.69B | 496M | 518M |
+| January 20, 2025 | 1.27B | 572M | 1.69B | 497M | 518M |
+| January 21, 2025 | 1.27B | 572M | 1.69B | 499M | 518M |
+| January 22, 2025 | 1.27B | 572M | 1.69B | 500M | 518M |
+| January 23, 2025 | 1.27B | 573M | 1.69B | 501M | 518M |
+| January 24, 2025 | 1.27B | 573M | 1.69B | 502M | 518M |
+| January 25, 2025 | 1.27B | 573M | 1.69B | 503M | 518M |
+| January 26, 2025 | 1.27B | 573M | 1.69B | 505M | 518M |
+| January 27, 2025 | 1.27B | 573M | 1.68B | 506M | 518M |
+| January 28, 2025 | 1.28B | 573M | 1.68B | 507M | 518M |
+| January 29, 2025 | 1.28B | 574M | 1.68B | 508M | 518M |
+| January 30, 2025 | 1.28B | 574M | 1.68B | 509M | 518M |
+| January 31, 2025 | 1.28B | 574M | 1.68B | 511M | 518M |
+| February 1, 2025 | 1.28B | 574M | 1.68B | 512M | 518M |
+| February 2, 2025 | 1.28B | 574M | 1.68B | 513M | 518M |
+| February 3, 2025 | 1.28B | 574M | 2.64B | 514M | 518M |
+| February 4, 2025 | 1.28B | 574M | 2.64B | 516M | 518M |
+| February 5, 2025 | 1.28B | 574M | 2.64B | 517M | 518M |
+| February 6, 2025 | 1.28B | 574M | 2.64B | 518M | 518M |
+| February 7, 2025 | 1.28B | 574M | 2.64B | 519M | 518M |
+| February 8, 2025 | 1.28B | 575M | 2.64B | 520M | 518M |
+| February 9, 2025 | 1.28B | 575M | 2.64B | 522M | 518M |
+| February 10, 2025 | 1.28B | 575M | 2.64B | 523M | 518M |
+| February 11, 2025 | 1.28B | 575M | 2.64B | 524M | 518M |
+| February 12, 2025 | 1.28B | 575M | 2.64B | 525M | 518M |
+| February 13, 2025 | 1.28B | 587M | 2.64B | 526M | 518M |
+| February 14, 2025 | 1.28B | 587M | 2.64B | 528M | 518M |
+| February 15, 2025 | 1.28B | 587M | 2.64B | 529M | 518M |
+| February 16, 2025 | 1.28B | 587M | 2.64B | 530M | 518M |
+| February 17, 2025 | 1.28B | 587M | 2.64B | 531M | 518M |
+| February 18, 2025 | 1.29B | 587M | 2.64B | 532M | 518M |
+| February 19, 2025 | 1.29B | 588M | 2.64B | 534M | 518M |
+| February 20, 2025 | 1.29B | 588M | 2.64B | 535M | 518M |
+| February 21, 2025 | 1.29B | 588M | 2.64B | 536M | 518M |
+| February 22, 2025 | 1.29B | 588M | 2.64B | 537M | 518M |
+| February 23, 2025 | 1.29B | 588M | 2.64B | 537M | 518M |
+| February 24, 2025 | 1.29B | 588M | 2.64B | 537M | 518M |
+| February 25, 2025 | 1.29B | 588M | 2.64B | 537M | 518M |
+| February 26, 2025 | 1.29B | 589M | 2.64B | 537M | 518M |
+| February 27, 2025 | 1.29B | 589M | 2.64B | 537M | 518M |
+| February 28, 2025 | 1.29B | 589M | 2.64B | 537M | 518M |
+
+### How this was built
+- The cohort is the five projects named: Curve, Aptos, Jupiter, Celestia, and Render Network.
+- The measure is each project's circulating supply — the number of tokens available for trading on the open market, excluding locked, unvested, and treasury-held tokens.
+- Window: one row per calendar day from December 1, 2024 through February 28, 2025 (90 days), each day's own value, not aggregated.
+- All five projects have a value on every one of the 90 days, so there are no gaps and no "-" entries: the result holds 5 × 90 = 450 daily observations, and each project's latest observation in the range is February 28, 2025.

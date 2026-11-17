@@ -1,0 +1,101 @@
+| Date | Cosmos Hub | Jito | Lido Finance | Pendle | Sei Network |
+|:---|---:|---:|---:|---:|---:|
+| March 1, 2024 | 389M | 117M | 892M | 97.0M | 2.55B |
+| March 2, 2024 | 389M | 117M | 892M | 97.0M | 2.55B |
+| March 3, 2024 | 389M | 117M | 892M | 97.0M | 2.55B |
+| March 4, 2024 | 389M | 117M | 892M | 97.0M | 2.55B |
+| March 5, 2024 | 389M | 117M | 892M | 97.0M | 2.55B |
+| March 6, 2024 | 389M | 117M | 892M | 97.0M | 2.55B |
+| March 7, 2024 | 389M | 117M | 892M | 97.0M | 2.55B |
+| March 8, 2024 | 389M | 117M | 892M | 97.0M | 2.55B |
+| March 9, 2024 | 390M | 117M | 892M | 97.0M | 2.55B |
+| March 10, 2024 | 390M | 117M | 892M | 97.0M | 2.55B |
+| March 11, 2024 | 390M | 117M | 892M | 97.0M | 2.55B |
+| March 12, 2024 | 390M | 117M | 892M | 97.0M | 2.55B |
+| March 13, 2024 | 390M | 117M | 892M | 97.0M | 2.55B |
+| March 14, 2024 | 390M | 117M | 892M | 97.0M | 2.55B |
+| March 15, 2024 | 390M | 117M | 892M | 97.0M | 2.67B |
+| March 16, 2024 | 391M | 117M | 892M | 97.0M | 2.67B |
+| March 17, 2024 | 391M | 117M | 892M | 97.0M | 2.67B |
+| March 18, 2024 | 391M | 117M | 892M | 97.0M | 2.67B |
+| March 19, 2024 | 391M | 117M | 892M | 97.0M | 2.67B |
+| March 20, 2024 | 391M | 117M | 892M | 97.0M | 2.67B |
+| March 21, 2024 | 391M | 117M | 892M | 97.0M | 2.67B |
+| March 22, 2024 | 391M | 117M | 892M | 97.0M | 2.67B |
+| March 23, 2024 | 391M | 117M | 892M | 97.0M | 2.67B |
+| March 24, 2024 | 391M | 117M | 892M | 97.0M | 2.67B |
+| March 25, 2024 | 391M | 117M | 892M | 97.0M | 2.67B |
+| March 26, 2024 | 391M | 117M | 892M | 97.0M | 2.67B |
+| March 27, 2024 | 391M | 117M | 892M | 97.0M | 2.67B |
+| March 28, 2024 | 391M | 117M | 892M | 97.0M | 2.67B |
+| March 29, 2024 | 391M | 117M | 892M | 97.0M | 2.67B |
+| March 30, 2024 | 391M | 117M | 892M | 97.0M | 2.67B |
+| March 31, 2024 | 391M | 117M | 892M | 97.0M | 2.67B |
+| April 1, 2024 | 391M | 117M | 892M | 97.0M | 2.67B |
+| April 2, 2024 | 391M | 117M | 892M | 97.0M | 2.67B |
+| April 3, 2024 | 391M | 117M | 892M | 97.0M | 2.67B |
+| April 4, 2024 | 391M | 117M | 892M | 97.0M | 2.67B |
+| April 5, 2024 | 391M | 117M | 892M | 97.0M | 2.67B |
+| April 6, 2024 | 391M | 117M | 892M | 97.0M | 2.67B |
+| April 7, 2024 | 391M | 117M | 892M | 97.0M | 2.67B |
+| April 8, 2024 | 391M | 117M | 892M | 97.0M | 2.67B |
+| April 9, 2024 | 391M | 117M | 892M | 97.0M | 2.67B |
+| April 10, 2024 | 391M | 117M | 892M | 97.0M | 2.67B |
+| April 11, 2024 | 391M | 117M | 892M | 97.0M | 2.67B |
+| April 12, 2024 | 391M | 117M | 892M | 97.0M | 2.67B |
+| April 13, 2024 | 391M | 117M | 892M | 97.0M | 2.67B |
+| April 14, 2024 | 391M | 117M | 892M | 97.0M | 2.67B |
+| April 15, 2024 | 391M | 117M | 892M | 97.0M | 2.80B |
+| April 16, 2024 | 391M | 117M | 892M | 97.0M | 2.80B |
+| April 17, 2024 | 391M | 117M | 892M | 97.0M | 2.80B |
+| April 18, 2024 | 391M | 117M | 892M | 97.0M | 2.80B |
+| April 19, 2024 | 391M | 117M | 892M | 97.0M | 2.80B |
+| April 20, 2024 | 391M | 121M | 892M | 97.0M | 2.80B |
+| April 21, 2024 | 391M | 121M | 892M | 97.0M | 2.80B |
+| April 22, 2024 | 391M | 121M | 892M | 97.0M | 2.80B |
+| April 23, 2024 | 391M | 121M | 892M | 97.0M | 2.80B |
+| April 24, 2024 | 391M | 121M | 892M | 97.0M | 2.80B |
+| April 25, 2024 | 391M | 121M | 892M | 97.0M | 2.80B |
+| April 26, 2024 | 391M | 121M | 892M | 97.0M | 2.80B |
+| April 27, 2024 | 391M | 121M | 892M | 97.0M | 2.80B |
+| April 28, 2024 | 391M | 121M | 892M | 97.0M | 2.80B |
+| April 29, 2024 | 391M | 121M | 892M | 97.0M | 2.80B |
+| April 30, 2024 | 391M | 121M | 892M | 97.0M | 2.80B |
+| May 1, 2024 | 391M | 121M | 892M | 97.0M | 2.80B |
+| May 2, 2024 | 391M | 121M | 892M | 97.0M | 2.80B |
+| May 3, 2024 | 391M | 121M | 892M | 97.0M | 2.80B |
+| May 4, 2024 | 391M | 121M | 892M | 97.0M | 2.80B |
+| May 5, 2024 | 391M | 121M | 892M | 97.0M | 2.80B |
+| May 6, 2024 | 391M | 121M | 892M | 97.0M | 2.80B |
+| May 7, 2024 | 391M | 121M | 892M | 97.0M | 2.80B |
+| May 8, 2024 | 391M | 121M | 892M | 97.0M | 2.80B |
+| May 9, 2024 | 391M | 121M | 892M | 97.0M | 2.80B |
+| May 10, 2024 | 391M | 121M | 892M | 223M | 2.80B |
+| May 11, 2024 | 391M | 122M | 892M | 223M | 2.80B |
+| May 12, 2024 | 391M | 122M | 892M | 223M | 2.80B |
+| May 13, 2024 | 391M | 122M | 892M | 223M | 2.80B |
+| May 14, 2024 | 391M | 122M | 892M | 156M | 2.80B |
+| May 15, 2024 | 391M | 122M | 892M | 154M | 2.92B |
+| May 16, 2024 | 391M | 122M | 892M | 154M | 2.92B |
+| May 17, 2024 | 391M | 122M | 892M | 154M | 2.92B |
+| May 18, 2024 | 391M | 122M | 892M | 154M | 2.92B |
+| May 19, 2024 | 391M | 122M | 892M | 154M | 2.92B |
+| May 20, 2024 | 391M | 122M | 892M | 154M | 2.92B |
+| May 21, 2024 | 391M | 122M | 892M | 154M | 2.92B |
+| May 22, 2024 | 391M | 122M | 892M | 154M | 2.92B |
+| May 23, 2024 | 391M | 122M | 892M | 154M | 2.92B |
+| May 24, 2024 | 391M | 122M | 892M | 154M | 2.92B |
+| May 25, 2024 | 391M | 122M | 892M | 154M | 2.92B |
+| May 26, 2024 | 391M | 122M | 892M | 154M | 2.92B |
+| May 27, 2024 | 391M | 122M | 892M | 154M | 2.92B |
+| May 28, 2024 | 391M | 122M | 892M | 154M | 2.92B |
+| May 29, 2024 | 391M | 122M | 892M | 154M | 2.92B |
+| May 30, 2024 | 391M | 122M | 892M | 154M | 2.92B |
+| May 31, 2024 | 391M | 122M | 892M | 154M | 2.92B |
+
+### How this was built
+- Cohort: the five projects named — Sei Network, Lido Finance, Cosmos Hub, Pendle and Jito — each read as its circulating supply.
+- Window: daily from March 1 to May 31, 2024, one row per calendar day with no aggregation, as asked.
+- Each cell is that day's circulating supply, a point-in-time token count.
+- Every one of the 92 days in the window returned a value for all five projects, so no day needed a "-" placeholder.
+- The table's five value columns correspond, by project id, to Cosmos Hub, Jito, Lido Finance, Pendle and Sei Network.

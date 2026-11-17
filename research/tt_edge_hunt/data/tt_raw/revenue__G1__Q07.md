@@ -1,0 +1,101 @@
+| Date | BNB Chain | Ethereum | NEAR Protocol | Solana |
+|:---|---:|---:|---:|---:|
+| December 1, 2023 | $39.6K | $9.82M | $177K | $63.6K |
+| December 2, 2023 | $41.0K | $7.89M | $130K | $68.0K |
+| December 3, 2023 | $39.2K | $7.71M | $2.74K | $64.6K |
+| December 4, 2023 | $48.5K | $11.3M | $7.56K | $60.2K |
+| December 5, 2023 | $46.8K | $13.9M | $10.8K | $60.0K |
+| December 6, 2023 | $50.5K | $13.5M | $6.19K | $58.9K |
+| December 7, 2023 | $90.6K | $12.5M | $5.92K | $71.5K |
+| December 8, 2023 | $65.2K | $10.7M | $6.53K | $75.1K |
+| December 9, 2023 | $47.3K | $8.55M | $6.50K | $78.1K |
+| December 10, 2023 | $44.3K | $7.84M | $6.40K | $72.3K |
+| December 11, 2023 | $52.2K | $8.76M | $5.60K | $77.2K |
+| December 12, 2023 | $52.2K | $10.1M | $5.97K | $75.9K |
+| December 13, 2023 | $51.2K | $11.5M | $5.82K | $75.5K |
+| December 14, 2023 | $50.0K | $11.2M | $6.11K | $163K |
+| December 15, 2023 | $57.5K | $13.5M | $5.75K | $94.0K |
+| December 16, 2023 | $48.6K | $12.3M | $7.95K | $97.9K |
+| December 17, 2023 | $112K | $9.31M | $7.33K | $92.7K |
+| December 18, 2023 | $87.0K | $14.0M | $9.27K | $110K |
+| December 19, 2023 | $79.9K | $12.6M | $12.6K | $115K |
+| December 20, 2023 | $57.5K | $12.8M | $14.2K | $144K |
+| December 21, 2023 | $110K | $9.82M | $23.7K | $209K |
+| December 22, 2023 | $55.5K | $8.24M | $20.7K | $234K |
+| December 23, 2023 | $50.6K | $5.42M | $20.2K | $244K |
+| December 24, 2023 | $48.6K | $5.14M | $18.0K | $253K |
+| December 25, 2023 | $50.4K | $5.27M | $16.5K | $307K |
+| December 26, 2023 | $75.6K | $4.41M | $21.6K | $334K |
+| December 27, 2023 | $140K | $6.96M | $21.2K | $370K |
+| December 28, 2023 | $240K | $7.48M | $19.8K | $264K |
+| December 29, 2023 | $171K | $5.80M | $217K | $280K |
+| December 30, 2023 | $73.7K | $4.68M | $15.7K | $261K |
+| December 31, 2023 | $63.8K | $3.39M | $11.3K | $231K |
+| January 1, 2024 | $52.7K | $3.02M | $13.7K | $260K |
+| January 2, 2024 | $63.0K | $4.72M | $12.8K | $285K |
+| January 3, 2024 | $78.5K | $8.04M | $12.0K | $218K |
+| January 4, 2024 | $72.0K | $5.41M | $11.7K | $212K |
+| January 5, 2024 | $57.7K | $4.65M | $9.79K | $227K |
+| January 6, 2024 | $57.3K | $4.12M | $11.1K | $199K |
+| January 7, 2024 | $57.2K | $6.95M | $11.2K | $191K |
+| January 8, 2024 | $60.9K | $5.96M | $11.0K | $210K |
+| January 9, 2024 | $62.5K | $5.18M | $10.8K | $185K |
+| January 10, 2024 | $66.7K | $10.6M | $9.67K | $180K |
+| January 11, 2024 | $67.9K | $8.90M | $12.9K | $177K |
+| January 12, 2024 | $64.5K | $6.54M | $16.3K | $165K |
+| January 13, 2024 | $52.0K | $4.65M | $17.0K | $165K |
+| January 14, 2024 | $52.7K | $8.30M | $12.1K | $189K |
+| January 15, 2024 | $58.8K | $5.99M | $11.0K | $220K |
+| January 16, 2024 | $60.4K | $9.02M | $11.1K | $269K |
+| January 17, 2024 | $64.1K | $9.67M | $10.7K | $246K |
+| January 18, 2024 | $55.8K | $8.95M | $9.61K | $257K |
+| January 19, 2024 | $60.8K | $7.75M | $9.13K | $258K |
+| January 20, 2024 | $48.9K | $4.27M | $7.84K | $264K |
+| January 21, 2024 | $48.7K | $3.40M | $4.28K | $262K |
+| January 22, 2024 | $57.4K | $4.43M | $11.4K | $216K |
+| January 23, 2024 | $62.7K | $3.62M | $7.63K | $226K |
+| January 24, 2024 | $69.3K | $2.93M | $10.3K | $279K |
+| January 25, 2024 | $64.3K | $5.76M | $10.4K | $251K |
+| January 26, 2024 | $59.0K | $4.68M | $9.82K | $345K |
+| January 27, 2024 | $51.4K | $3.15M | $8.44K | $259K |
+| January 28, 2024 | $53.7K | $2.89M | $8.49K | $320K |
+| January 29, 2024 | $59.8K | $3.43M | $8.89K | $316K |
+| January 30, 2024 | $64.4K | $6.67M | $8.94K | $333K |
+| January 31, 2024 | $58.6K | $6.03M | $9.46K | $585K |
+| February 1, 2024 | $55.4K | $6.80M | $11.0K | $435K |
+| February 2, 2024 | $50.0K | $5.21M | $12.3K | $374K |
+| February 3, 2024 | $50.7K | $4.48M | $12.1K | $276K |
+| February 4, 2024 | $48.4K | $3.89M | $11.8K | $282K |
+| February 5, 2024 | $57.4K | $4.69M | $13.2K | $295K |
+| February 6, 2024 | $50.3K | $9.10M | $14.4K | $252K |
+| February 7, 2024 | $52.0K | $10.4M | $14.0K | $303K |
+| February 8, 2024 | $58.4K | $14.5M | $8.56K | $272K |
+| February 9, 2024 | $66.7K | $17.9M | $11.4K | $239K |
+| February 10, 2024 | $55.2K | $9.49M | $15.1K | $226K |
+| February 11, 2024 | $57.4K | $7.47M | $14.6K | $229K |
+| February 12, 2024 | $53.1K | $11.5M | $19.3K | $280K |
+| February 13, 2024 | $54.8K | $8.63M | $16.9K | $260K |
+| February 14, 2024 | $52.9K | $7.75M | $17.1K | $244K |
+| February 15, 2024 | $64.0K | $10.5M | $16.7K | $253K |
+| February 16, 2024 | $64.2K | $8.11M | $16.0K | $224K |
+| February 17, 2024 | $71.9K | $5.80M | $17.2K | $198K |
+| February 18, 2024 | $60.6K | $6.77M | $19.1K | $201K |
+| February 19, 2024 | $68.5K | $10.5M | $20.3K | $209K |
+| February 20, 2024 | $66.7K | $11.9M | $19.4K | $201K |
+| February 21, 2024 | $70.9K | $12.6M | $17.9K | $184K |
+| February 22, 2024 | $82.4K | $15.2M | $17.4K | $165K |
+| February 23, 2024 | $70.5K | $12.8M | $18.3K | $162K |
+| February 24, 2024 | $59.3K | $8.96M | $21.7K | $156K |
+| February 25, 2024 | $70.1K | $9.48M | $21.1K | $158K |
+| February 26, 2024 | $80.3K | $13.6M | $23.6K | $156K |
+| February 27, 2024 | $85.0K | $16.6M | $23.3K | $164K |
+| February 28, 2024 | $104K | $21.6M | $21.9K | $190K |
+| February 29, 2024 | $95.6K | $24.6M | $24.3K | $180K |
+
+Same in every row: Uniswap —.
+
+### How this was built
+- Rows are the five requested entities: Ethereum, Solana, BNB Chain and NEAR Protocol read as their chain projects, and Uniswap as the DEX project.
+- Each value is that project's daily revenue — the fee revenue it retains after supply-side payouts, before cost of revenue and operating expenses.
+- The window is 2023-12-01 to 2024-02-29, one row per calendar day, no bucketing or summation.
+- Revenue is not observed for Uniswap anywhere in this window (its first revenue row is dated 2025-12-27), so every Uniswap cell shows "-"; that day is a day with no value returned for Uniswap, not a zero.

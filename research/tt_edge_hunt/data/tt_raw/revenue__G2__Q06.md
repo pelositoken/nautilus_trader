@@ -1,0 +1,100 @@
+| Date | Ethena | Tron | Sui | Chainlink | Avalanche |
+|:---|---:|---:|---:|---:|---:|
+| September 1, 2023 | — | $2.81M | $1.60K | $194 | $15.4K |
+| September 2, 2023 | — | $2.40M | $1.46K | $850 | $12.8K |
+| September 3, 2023 | — | $2.27M | $1.61K | $817 | $11.3K |
+| September 4, 2023 | — | $2.68M | $2.19K | $1.07K | $11.7K |
+| September 5, 2023 | — | $2.91M | $1.88K | $1.18K | $13.5K |
+| September 6, 2023 | — | $2.91M | $1.54K | $1.34K | $12.9K |
+| September 7, 2023 | — | $2.92M | $1.73K | $1.20K | $11.6K |
+| September 8, 2023 | — | $2.88M | $1.35K | $1.01K | $10.6K |
+| September 9, 2023 | — | $2.54M | $1.30K | $742 | $10.2K |
+| September 10, 2023 | — | $2.32M | $1.28K | $605 | $12.7K |
+| September 11, 2023 | — | $2.90M | $1.22K | $948 | $11.6K |
+| September 12, 2023 | — | $2.79M | $1.18K | $504 | $11.2K |
+| September 13, 2023 | — | $2.84M | $1.14K | $1.22K | $9.75K |
+| September 14, 2023 | — | $3.03M | $1.17K | $1.16K | $10.7K |
+| September 15, 2023 | — | $3.02M | $1.11K | $1.14K | $10.2K |
+| September 16, 2023 | — | $2.50M | $1.13K | $710 | $7.49K |
+| September 17, 2023 | — | $2.43M | $1.18K | $1.09K | $7.64K |
+| September 18, 2023 | — | $3.05M | $1.12K | $1.47K | $8.85K |
+| September 19, 2023 | — | $3.04M | $1.21K | $1.63K | $8.97K |
+| September 20, 2023 | — | $3.00M | $1.16K | $1.93K | $8.73K |
+| September 21, 2023 | — | $3.03M | $599 | $2.37K | $9.49K |
+| September 22, 2023 | — | $2.82M | $1.06K | $1.32K | $8.40K |
+| September 23, 2023 | — | $2.47M | $1.16K | $1.13K | $7.13K |
+| September 24, 2023 | — | $2.48M | $1.14K | $887 | $7.57K |
+| September 25, 2023 | — | $3.14M | $1.11K | $1.76K | $9.40K |
+| September 26, 2023 | — | $3.20M | $1.17K | $1.72K | $8.46K |
+| September 27, 2023 | — | $3.16M | $1.14K | $1.38K | $8.48K |
+| September 28, 2023 | — | $3.39M | $1.47K | $1.25K | $9.76K |
+| September 29, 2023 | — | $3.08M | $1.18K | $966 | $8.82K |
+| September 30, 2023 | — | $2.97M | $1.28K | $854 | $8.82K |
+| October 1, 2023 | — | $2.90M | $1.20K | $534 | $11.3K |
+| October 2, 2023 | — | $3.23M | $1.29K | $1.86K | $11.7K |
+| October 3, 2023 | — | $3.25M | $1.22K | $823 | $18.0K |
+| October 4, 2023 | — | $3.17M | $1.11K | $1.01K | $24.4K |
+| October 5, 2023 | — | $3.14M | $1.43K | $887 | $37.3K |
+| October 6, 2023 | — | $3.15M | $1.78K | $608 | $26.9K |
+| October 7, 2023 | — | $2.85M | $1.88K | $416 | $16.2K |
+| October 8, 2023 | — | $2.72M | $1.86K | $426 | $7.91K |
+| October 9, 2023 | — | $3.27M | $1.79K | $557 | $8.36K |
+| October 10, 2023 | — | $3.16M | $1.68K | $525 | $7.87K |
+| October 11, 2023 | — | $3.15M | $1.71K | $618 | $8.15K |
+| October 12, 2023 | — | $3.06M | $1.66K | $528 | $8.09K |
+| October 13, 2023 | — | $3.11M | $2.06K | $533 | $6.55K |
+| October 14, 2023 | — | $2.64M | $2.69K | $371 | $7.10K |
+| October 15, 2023 | — | $2.71M | $2.62K | $379 | $5.68K |
+| October 16, 2023 | — | $3.45M | $2.46K | $245 | $9.60K |
+| October 17, 2023 | — | $3.32M | $2.72K | $2.43 | $11.0K |
+| October 18, 2023 | — | $3.21M | $2.65K | $353 | $9.79K |
+| October 19, 2023 | — | $3.16M | $2.54K | $451 | $8.48K |
+| October 20, 2023 | — | $3.37M | $3.07K | $274 | $9.99K |
+| October 21, 2023 | — | $2.93M | $3.70K | $3.96 | $11.7K |
+| October 22, 2023 | — | $2.78M | $3.76K | $14.0 | $10.4K |
+| October 23, 2023 | — | $3.49M | $3.90K | $553 | $16.3K |
+| October 24, 2023 | — | $3.56M | $4.08K | $1.33K | $18.1K |
+| October 25, 2023 | — | $3.52M | $4.17K | $498 | $11.5K |
+| October 26, 2023 | — | $3.43M | $4.13K | $53.8 | $14.9K |
+| October 27, 2023 | — | $3.44M | $3.04K | $59.9 | $11.6K |
+| October 28, 2023 | — | $3.08M | $2.74K | $8.77 | $9.57K |
+| October 29, 2023 | — | $3.01M | $4.36K | $6.05 | $10.3K |
+| October 30, 2023 | — | $3.74M | $4.42K | $61.6 | $11.6K |
+| October 31, 2023 | — | $3.95M | $3.93K | $4.14 | $12.0K |
+| November 1, 2023 | — | $4.14M | $4.38K | $379 | $15.2K |
+| November 2, 2023 | — | $3.86M | $5.39K | $1.88K | $13.8K |
+| November 3, 2023 | — | $3.82M | $5.67K | $973 | $12.3K |
+| November 4, 2023 | — | $3.24M | $5.92K | $484 | $11.3K |
+| November 5, 2023 | — | $3.02M | $6.38K | $536 | $13.1K |
+| November 6, 2023 | — | $3.40M | $6.36K | $729 | $14.6K |
+| November 7, 2023 | — | $3.42M | $6.51K | $743 | $14.6K |
+| November 8, 2023 | — | $3.37M | $5.87K | $2.39K | $13.6K |
+| November 9, 2023 | — | $3.57M | $6.91K | $1.41K | $28.8K |
+| November 10, 2023 | — | $3.84M | $5.94K | $1.79K | $23.1K |
+| November 11, 2023 | — | $3.29M | $5.84K | $44.4 | $33.1K |
+| November 12, 2023 | — | $3.03M | $5.83K | $28.6 | $44.4K |
+| November 13, 2023 | — | $3.73M | $6.08K | $150 | $31.1K |
+| November 14, 2023 | — | $3.48M | $5.85K | $816 | $33.1K |
+| November 15, 2023 | — | $3.76M | $5.49K | $1.47K | $47.5K |
+| November 16, 2023 | — | $3.64M | $5.84K | $177 | $56.3K |
+| November 17, 2023 | — | $3.55M | $5.42K | $142 | $52.0K |
+| November 18, 2023 | — | $2.99M | $5.31K | $68.3 | $34.2K |
+| November 19, 2023 | — | $2.92M | $5.37K | $117 | $128K |
+| November 20, 2023 | $131 | $3.85M | $5.55K | $1.06K | $204K |
+| November 21, 2023 | $103 | $3.68M | $5.39K | $1.91K | $343K |
+| November 22, 2023 | $0 | $3.68M | $4.79K | $2.37K | $957K |
+| November 23, 2023 | $0 | $3.31M | $5.39K | $1.62K | $332K |
+| November 24, 2023 | $0.1935 | $3.60M | $5.77K | $698 | $23.2K |
+| November 25, 2023 | $0 | $3.18M | $6.24K | $545 | $21.4K |
+| November 26, 2023 | $0 | $2.92M | $6.53K | $811 | $19.9K |
+| November 27, 2023 | $102 | $3.50M | $6.24K | $770 | $19.9K |
+| November 28, 2023 | $3.07 | $3.48M | $5.86K | $395 | $21.1K |
+| November 29, 2023 | $0.7329 | $3.49M | $6.20K | $20.4 | $22.2K |
+| November 30, 2023 | $0.3499 | $3.58M | $6.22K | $397 | $22.5K |
+
+### How this was built
+- Daily revenue, one row per calendar day, every day from 2023-09-01 to 2023-11-30 for Ethena, Tron, Sui, Chainlink and Avalanche; a day with no revenue observation is shown as "-" (no value returned for that day), not as zero.
+- All five projects were resolved in the project registry as Ethena (ENA), Tron (TRX), Sui (SUI), Chainlink (LINK) and Avalanche (AVAX).
+- Ethena has no revenue observation before 2023-11-20 in the returned window; the other four projects have observations on every day of the window.
+- The figures are project revenue (the portion of fees retained after supply-side payouts, before cost of revenue and operating expenses).
+- The full daily rows are available as a CSV export on request.
