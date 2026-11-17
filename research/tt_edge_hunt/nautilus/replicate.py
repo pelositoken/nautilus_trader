@@ -151,7 +151,19 @@ class NoTrades(Exception):
     pass
 
 
+_R2 = None
+
+
 def run_one(vid: str, period: str, token: str) -> pd.DataFrame:
+    global _R2
+    if vid.startswith("R2-"):  # round-2 variation: gate + per-trade filters from scripts/r2_run.py
+        sys.path.insert(0, str(ROOT / "scripts"))
+        from r2_run import R2
+        _R2 = _R2 or R2()
+        key = tuple(int(vid[i]) for i in (4, 6, 8, 10))
+        e, idx = _R2.run(key, period)
+        engine_r = _R2.eng
+        return _replay(engine_r, e, idx, token)
     engine_r = Engine([vid.split("-")[-1]])
     gb = GateBuilder(load_fundamentals(), lag=1)
     if vid.startswith("B-"):
@@ -163,6 +175,10 @@ def run_one(vid: str, period: str, token: str) -> pd.DataFrame:
         lo_, so_, _ = gb.gate(idea, int(g[1:]), int(k[1:]))
         lo, so = engine_r.to_np(lo_), engine_r.to_np(so_)
     idx = engine_r.run(e, lo, so, period)
+    return _replay(engine_r, e, idx, token)
+
+
+def _replay(engine_r, e: str, idx: np.ndarray, token: str) -> pd.DataFrame:
     c = engine_r.c[e]
     tok_id = TOKENS.index(token)
     idx = idx[c["tok"][idx] == tok_id]
