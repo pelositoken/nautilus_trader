@@ -49,13 +49,17 @@ class Engine:
     def to_np(df: pd.DataFrame) -> np.ndarray:
         return df.reindex(index=DAYS, columns=TOKENS).fillna(False).to_numpy(bool)
 
-    def run(self, e: str, long_ok: np.ndarray, short_ok: np.ndarray, period: str) -> np.ndarray:
-        """Indices (into candidate arrays) of kept trades entered in `period`."""
+    def run(self, e: str, long_ok: np.ndarray, short_ok: np.ndarray, period: str,
+            cand_mask: np.ndarray | None = None) -> np.ndarray:
+        """Indices (into candidate arrays) of kept trades entered in `period`.
+        `cand_mask` (optional, one bool per candidate) removes individual setups."""
         c = self.c[e]
         d0, d1 = period_days(period)
         inp = (c["day"] >= d0) & (c["day"] < d1) & IN_UNIVERSE[c["tok"]]
         day = np.clip(c["day"], 0, NDAYS - 1)
         g = np.where(c["dir"] > 0, long_ok[day, c["tok"]], short_ok[day, c["tok"]]) & inp
+        if cand_mask is not None:
+            g &= cand_mask
         idx = np.flatnonzero(g)
         keep = non_overlap(c["tok"][idx], c["ei"][idx], c["xi"][idx])
         return idx[keep]

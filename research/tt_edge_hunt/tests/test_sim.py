@@ -43,3 +43,13 @@ def test_costs_in_r():
 def test_non_overlap():
     keep = non_overlap(np.array([0, 0, 0, 1]), np.array([1, 3, 6, 2]), np.array([5, 7, 8, 4]))
     assert keep.tolist() == [True, False, True, True]
+
+
+def test_pbo_detects_noise_and_skill():
+    from edgehunt.pbo import pbo
+    rng = np.random.default_rng(0)
+    noise = rng.normal(0, 1, (1600, 50))
+    assert 0.3 < pbo(noise)["pbo"] < 0.7  # pure noise: selection is a coin flip
+    skill = noise.copy()
+    skill[:, 0] += 0.3  # one strategy truly better everywhere
+    assert pbo(skill)["pbo"] < 0.05

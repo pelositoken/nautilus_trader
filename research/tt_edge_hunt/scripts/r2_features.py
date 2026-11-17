@@ -83,9 +83,8 @@ def excursions(o, h, l, ei, xi, direction, stop_dist):
     return mfe, mae
 
 
-def daily_fundamental_features() -> dict[str, pd.DataFrame]:
+def daily_fundamental_features(lag: int = FUND_LAG_DAYS) -> dict[str, pd.DataFrame]:
     F = load_fundamentals()
-    lag = FUND_LAG_DAYS
     idx = DAYS
     get = lambda m: F[m].reindex(index=idx, columns=TOKENS).shift(lag) if m in F else pd.DataFrame(np.nan, index=idx, columns=TOKENS)  # noqa: E731
     sup = get("token_supply_circulating")
