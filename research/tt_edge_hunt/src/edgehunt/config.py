@@ -68,6 +68,9 @@ EXEC_SETS = {
     "M4": ExecSet("M4", "boll_reentry", "15min", (20, 2.0), 1.0, 1.5, 4),
     "M5": ExecSet("M5", "rsi_cross", "4h", (14, 35, 65), 1.5, 1.5, 12),
 }
+# Round 2: same 4h Donchian-20 trigger as E5, different exit geometry
+EXEC_SETS["E5t10"] = ExecSet("E5t10", "donchian", "4h", (20,), 1.0, 1.0, 12)
+EXEC_SETS["E5s15"] = ExecSet("E5s15", "donchian", "4h", (20,), 1.5, 1.5, 12)
 TREND_SETS = ["E1", "E2", "E3", "E4", "E5"]
 MR_SETS = ["M1", "M2", "M3", "M4", "M5"]
 N_TRIALS_TOTAL = 710
