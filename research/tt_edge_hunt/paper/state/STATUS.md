@@ -1,6 +1,6 @@
 # Paper test status
 
-Started: 2026-11-17 00:00:00+00:00  ·  last run: 2026-11-22 16:29:52.781652+00:00  ·  last 4h bar processed: 2026-11-22 16:00:00+00:00
+Started: 2026-11-17 00:00:00+00:00  ·  last run: 2026-11-22 20:30:06.175550+00:00  ·  last 4h bar processed: 2026-11-22 20:00:00+00:00
 
 | variation | closed | open | win rate | PF | mean R | total R | mean R (perp costs) | max DD (R) |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
